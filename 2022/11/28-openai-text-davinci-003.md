@@ -8,4 +8,4 @@ OpenAI released text-davinci-003, a GPT-3-family model in its API built on the I
 
 ## Sources
 - https://the-decoder.com/openais-latest-gpt-3-model-generates-better-and-longer-texts/
-- https://siecledigital.fr/2022/11/30/openai-lance-une-nouvelle-version-de-son-modele-de-langage-gpt-3/
+- https://techcrunch.com/2022/12/01/while-anticipation-builds-for-gpt-4-openai-quietly-releases-gpt-3-5/

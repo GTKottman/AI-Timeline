@@ -4,7 +4,7 @@
 - **Who:** Harrison Chase (LangChain)
 - **Type:** software
 
-Harrison Chase published LangChain as an open-source MIT-licensed Python library for building applications on top of language models, starting with prompt templating. The first public version was built in a few days in mid-to-late October 2022, just before ChatGPT launched. It later became one of the main frameworks for LLM application development. The exact day is not confirmed (sources give a 16-25 October build window).
+Harrison Chase published LangChain as an open-source MIT-licensed Python library for building applications on top of language models, starting with prompt templating. The first public version was built in a few days in mid-to-late October 2022, just before ChatGPT launched. It later became one of the main frameworks for LLM application development. The exact first-commit day is not confirmed; sources give 16, 22 or late October 2022.
 
 ## Sources
 - https://www.latent.space/p/langchain

@@ -4,7 +4,7 @@
 - **Who:** Baidu
 - **Type:** model
 
-Baidu unveiled ERNIE Bot, a generative AI chatbot built on its ERNIE large language model, in Beijing. It was offered first to invited users, with an enterprise API through Baidu AI Cloud, and more than 30,000 enterprise users applied for API access within two hours. The demo was prerecorded rather than live, and Baidu's shares fell about 6 percent. It was the first major Chinese ChatGPT rival, and it came a few hours after the GPT-4 release.
+Baidu unveiled ERNIE Bot, a generative AI chatbot built on its ERNIE large language model, in Beijing. Baidu said 650 companies had signed up to use it. The demo was prerecorded rather than live; shares fell about 10% in early trading and closed down about 6.4%. It was the first major Chinese ChatGPT rival.
 
 ## Sources
 - https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch

@@ -4,8 +4,8 @@
 - **Who:** BigCode (Hugging Face and ServiceNow Research)
 - **Type:** dataset
 
-BigCode posted The Stack, a dataset of about 3 TB of permissively licensed source code in 30 programming languages, with a deduplicated version around 1.5 TB. Only MIT, Apache and similar licenses were included, excluding copyleft code. The project also offered an "Am I in The Stack" lookup and a removal process for code authors. It became a standard training corpus for open code models.
+BigCode posted The Stack, a dataset of about 3.1 TB of permissively licensed source code in 30 programming languages. The project also offered an "Am I in The Stack" lookup and an opt-out process for code authors.
 
 ## Sources
 - https://arxiv.org/abs/2211.15533
-- https://mlanthology.org/tmlr/2023/kocetkov2023tmlr-stack
+- https://www.bigcode-project.org/docs/about/timeline/

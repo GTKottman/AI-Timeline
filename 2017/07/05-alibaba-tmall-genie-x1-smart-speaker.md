@@ -4,7 +4,7 @@
 - **Who:** Alibaba
 - **Type:** product
 
-Alibaba unveiled the Tmall Genie X1 (Tianmao Jingling X1), a smart speaker with a voice assistant that controls connected home devices, answers weather and news questions, and plays music. Its distinguishing feature was voice shopping through Taobao and Tmall. It was modeled on Amazon Echo and Google Home, and it marked Alibaba's entry into consumer AI hardware, limited to Mandarin and China.
+Alibaba unveiled the Tmall Genie X1 (Tianmao Jingling X1), a smart speaker with a voice assistant that controls connected home devices, answers weather and news questions, and plays music. Its distinguishing feature was voice shopping through Taobao and Tmall. It marked Alibaba's entry into consumer AI hardware, limited to Mandarin and China.
 
 ## Sources
 - https://dc.fortune.com/2017/07/05/alibaba-tmall-genie-voice-assistant

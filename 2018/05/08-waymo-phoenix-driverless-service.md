@@ -1,11 +1,10 @@
 # Waymo announces driverless ride service for Phoenix
 
 - **Date:** 2018-05-08
-- **Who:** Waymo (Alphabet)
+- **Who:** Waymo (Alphabet); CEO John Krafcik
 - **Type:** product
 
-Waymo said at Google I/O that its self-driving ride-hailing service would launch in Phoenix later in 2018 with no one in the driver's seat. Reports said public riders were expected in December 2018, starting with a coverage area of about 100 square miles.
+At Google I/O, Waymo said it would launch a self-driving ride-hailing service in Phoenix, Arizona "later this year," with no one required to sit in the driver's seat. It said it would soon begin a passenger program in Phoenix. The announcement was an early public commitment to fully driverless ride service.
 
 ## Sources
 - https://venturebeat.com/business/waymos-self-driving-car-service-is-launching-in-phoenix-later-this-year
-- https://www.androidauthority.com/waymo-phoenix-launch-863141/

@@ -8,4 +8,4 @@ The paper "Toolformer: Language Models Can Teach Themselves to Use Tools" was su
 
 ## Sources
 - https://arxiv.org/abs/2302.04761
-- https://the-decoder.com/?p=3015
+- https://ar5iv.labs.arxiv.org/html/2302.04761

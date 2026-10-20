@@ -4,7 +4,7 @@
 - **Who:** Google AI
 - **Type:** software
 
-Google introduced Learn2Compress, a technology that turns large pretrained TensorFlow models into smaller, faster models for mobile and IoT devices. It uses pruning, quantization and joint training with distillation to limit the accuracy loss. On ImageNet the post reported a model 22 times smaller than the Inception v3 baseline, with a 4.6 to 7% accuracy drop. It made on-device deployment of custom models practical.
+Google introduced Learn2Compress, a technology that turns large pretrained TensorFlow models into smaller, faster models for mobile and IoT devices. It combines compression techniques such as pruning, quantization and distillation, trained jointly to limit accuracy loss. It was the basis of a planned automatic model-compression service for ML Kit, with image classification as the first supported use case and access initially limited to a small group of developers. It made on-device deployment of custom models more practical.
 
 ## Sources
 - https://research.google/blog/custom-on-device-ml-models-with-learn2compress/

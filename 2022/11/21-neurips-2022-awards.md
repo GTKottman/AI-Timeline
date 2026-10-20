@@ -4,7 +4,7 @@
 - **Who:** NeurIPS 2022 organizers (outstanding papers include the Google Brain Imagen paper)
 - **Type:** competition
 
-NeurIPS 2022 announced its Outstanding Main Track Papers, Outstanding Datasets and Benchmarks papers and the Test of Time award. Thirteen main-track papers were recognized out of about 10,400 submissions. Among them was Google Brain's "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding," which described Imagen, and the Test of Time award went to the 2012 AlexNet paper by Krizhevsky, Sutskever and Hinton.
+NeurIPS 2022 announced its Outstanding Main Track Papers, Outstanding Datasets and Benchmarks papers and the Test of Time award. Thirteen main-track papers were recognized as outstanding. Among them was Google Brain's "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding," which described Imagen, and it also named a Test of Time award.
 
 ## Sources
 - https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/

@@ -4,8 +4,7 @@
 - **Who:** NVIDIA
 - **Type:** hardware
 
-NVIDIA's flagship Ada Lovelace consumer GPU, the GeForce RTX 4090, went on sale on October 12, 2022 at US$1,599, with 24 GB of memory. NVIDIA pitched its fourth-generation Tensor Cores and DLSS 3, which uses AI to generate extra frames. The card was the top consumer GPU of the RTX 40 series and was marketed for AI-assisted graphics as well as games.
+NVIDIA's flagship Ada Lovelace consumer GPU, the GeForce RTX 4090, went on sale on October 12, 2022 at US$1,599, with 24 GB of memory. NVIDIA pitched DLSS 3, which uses AI to generate extra frames. The card was the top consumer GPU of the RTX 40 series and was marketed for AI-assisted graphics as well as games.
 
 ## Sources
 - https://www.nvidia.com/ja-jp/geforce/news/geforce-rtx-4090-out-now/
-- https://www.itreseller.ch/artikel/96972/Preis_und_Launch-Datum_bekannt_Nvidia_stellt_Geforce_RTX_4090_vor.html

@@ -9,3 +9,4 @@ AI21 Labs released Jurassic-2 in Large, Grande and Jumbo sizes, each with an ins
 ## Sources
 - https://siliconangle.com/2023/03/09/ai21-labs-debuts-jurassic-2-advanced-large-language-model-generative-ai-applications/
 - https://thenewstack.io/ai21-labs-releases-jurassic-2-its-new-large-language-model/
+- https://docs.ai21.com/changelog/jurassic-2-and-task-specific-apis-are-now-available

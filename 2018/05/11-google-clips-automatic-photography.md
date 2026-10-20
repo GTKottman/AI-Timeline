@@ -4,7 +4,7 @@
 - **Who:** Google (Aseem Agarwala and the Clips team)
 - **Type:** product
 
-Google described how Google Clips, a hands-free camera, automatically captures short videos of people and pets. Its on-device model judged how "interesting" a moment was by combining image content labels with about 50 million human preference comparisons. It was an early consumer example of a learned camera that runs its judgment locally rather than in the cloud.
+Google described how Google Clips, a hands-free camera, automatically captures short videos of people and pets. Its judgment about which moments are worth keeping runs on the device rather than in the cloud, which the post tied to battery life, latency and privacy: clips stay on the device unless the user saves or shares them. It was an early consumer example of a learned camera that runs locally.
 
 ## Sources
 - https://research.google/blog/automatic-photography-with-google-clips/

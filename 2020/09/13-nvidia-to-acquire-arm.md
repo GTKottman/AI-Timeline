@@ -8,4 +8,4 @@ Nvidia and SoftBank agreed that Nvidia would buy Arm Limited, the chip-design co
 
 ## Sources
 - https://www.cnx-software.com/2020/09/14/nvidia-to-acquire-arm-for-40-billion-from-softbank/
-- https://www.sec.gov/Archives/edgar/data/1045810/000119312520244601/d13958dex991.htm
+- https://www.datacenterknowledge.com/data-center-chips/nvidia-buys-softbank-s-arm-in-record-40-billion-chip-deal

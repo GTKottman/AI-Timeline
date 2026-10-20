@@ -4,8 +4,8 @@
 - **Who:** Intel (Habana Labs)
 - **Type:** competition
 
-Intel submitted its first MLPerf training results for Gaudi2 and said it beat NVIDIA's A100 on ResNet-50 and BERT training, with about 36% less time-to-train than an A100-80GB on ResNet-50 in its own framing. Intel also reported 3x and 4.7x training-throughput gains over the first-generation Gaudi on the two benchmarks. The numbers were Intel's own reading of the MLPerf results, compared against A100 systems rather than the newer H100.
+Intel submitted its first MLPerf training results for Gaudi2. For ResNet-50, Intel said Gaudi2's time-to-train was 36% lower than Nvidia's A100-80GB submission, and 45% lower than a Dell 8-accelerator A100-40GB submission. The BERT result is contested: VentureBeat reported Gaudi2 slightly ahead of the A100, while TechInsights reported it a bit behind the fastest A100. These are Intel's own readings of MLPerf results.
 
 ## Sources
 - https://www.hpcwire.com/off-the-wire/intel-announces-mlperf-results-for-habana-gaudi2/
-- https://jpralves.net/post/2022/06/30/second-gen-habana-gaudi2-outperforms-nvidia-a100.html
+- https://techinsights.com/ja/node/37958

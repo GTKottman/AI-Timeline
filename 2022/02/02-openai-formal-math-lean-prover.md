@@ -4,8 +4,8 @@
 - **Who:** OpenAI (Stanislas Polu, Ilya Sutskever and co-authors)
 - **Type:** research
 
-OpenAI published "Formal Mathematics Statement Curriculum Learning" and a launch post describing a Lean neural theorem prover trained with expert iteration. The 774M-parameter decoder-only model solved several formal problems from AMC12, AIME and IMO-adapted sets, and the paper reported state-of-the-art results on miniF2F. It was an early example of a language model producing machine-checked proofs.
+On 2 February 2022 OpenAI published a blog post and the paper "Formal Mathematics Statement Curriculum Learning" (arXiv 2202.01344). It describes a Lean neural theorem prover, a 774M-parameter decoder-only model trained with expert iteration, that solved several formal problems from AMC12, AIME and IMO-adapted sets. The blog reports 41.2% on miniF2F, against 29.3% for the previous best.
 
 ## Sources
-- https://openai.com/blog/formal-math
-- https://arxiv.org/abs/2202.01344
+- https://openai.com/index/formal-math
+- https://arxiv.org/pdf/2202.01344

@@ -4,8 +4,8 @@
 - **Who:** Nvidia
 - **Type:** product
 
-Nvidia announced Maxine at its GTC 2020 conference, a cloud-based suite of GPU-accelerated AI tools for video conferencing providers. It offered gaze correction, super-resolution, noise cancellation and face relighting, and it sent only facial key points so that the far end could re-animate the face, which Nvidia said could cut bandwidth sharply. Major cloud providers and Avaya were named as early partners.
+Nvidia announced Maxine at GTC on October 5, 2020, a cloud-based suite of GPU-accelerated AI tools for video conferencing providers. It offers gaze correction, super-resolution, noise cancellation and face relighting. Nvidia said it can cut bandwidth sharply by sending facial key points for re-animation instead of full video, and Avaya was named as an early partner.
 
 ## Sources
 - https://www.edge-ai-vision.com/2020/10/nvidia-announces-cloud-ai-video-streaming-platform-to-better-connect-millions-working-and-studying-remotely/
-- https://gigazine.net/gsc_news/en/20201006-nvidia-maxine-ai-videoconferencing
+- https://venturebeat.com/technology/nvidia-unveils-maxine-a-managed-cloud-ai-videoconferencing-service

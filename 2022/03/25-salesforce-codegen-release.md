@@ -4,8 +4,8 @@
 - **Who:** Salesforce Research
 - **Type:** model
 
-Salesforce released CodeGen, a family of open code-generation language models from 350M to 16B parameters, with the 16B checkpoints (Mono, Multi and NL variants) dated 25 March 2022. The project was positioned as competitive with OpenAI Codex, and at 16B it was among the largest openly available LLMs at the time. The accompanying paper introduced multi-turn program synthesis as a training setup.
+Salesforce Research released CodeGen (arXiv 2203.13474, posted March 2022), a family of open code-generation language models from 350M to 16B parameters, trained with a multi-turn program synthesis setup. The paper reports competitive zero-shot results on HumanEval, and a later version says the 16B model outperforms OpenAI's Codex on that benchmark. The code and checkpoints are on GitHub.
 
 ## Sources
-- https://arxiv.org/abs/2203.13474
-- https://www.llmreference.com/model/codegen-16b-mono
+- https://arxiv.org/pdf/2203.13474
+- https://github.com/salesforce/CodeGen

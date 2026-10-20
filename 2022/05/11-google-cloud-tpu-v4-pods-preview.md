@@ -1,11 +1,11 @@
-# Google opens Cloud TPU v4 Pods in public preview
+# Google brings Cloud TPU v4 Pods to Google Cloud in preview
 
 - **Date:** 2022-05-11
 - **Who:** Google Cloud
 - **Type:** hardware
 
-At Google I/O 2022, Google announced public preview of a cluster of Cloud TPU v4 Pods in Oklahoma with a combined peak of about 9 exaflops and a claim of 90% carbon-free energy. A single v4 Pod contains 4,096 chips. The cluster gave researchers a rentable supercomputer for training large models, and the TPU v4 Pods later reached general availability.
+At Google I/O on May 11, 2022, Google announced a Cloud TPU v4 Pod cluster in Mayes County, Oklahoma, in preview. Google said the cluster had a peak of about 9 exaflops of bfloat16 performance, from eight TPU v4 Pods of 4,096 chips each (32,768 chips in total). The 9-exaflop figure is Google's own peak-performance measure, not a like-for-like comparison with other chips.
 
 ## Sources
-- https://techcrunch.com/2022/05/11/google-launches-a-9-exaflop-cluster-of-cloud-tpu-v4-pods-into-public-preview
+- https://www.nextplatform.com/2022/05/11/google-stands-up-exascale-tpuv4-pods-on-the-cloud/
 - https://www.datacenterdynamics.com/en/news/google-launches-tpu-v4-chips-builds-9-exaflops-ai-cluster

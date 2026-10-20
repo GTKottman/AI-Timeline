@@ -8,4 +8,4 @@ The arXiv paper "Rethinking Attention with Performers" introduced FAVOR+, which 
 
 ## Sources
 - https://arxiv.org/abs/2009.14794
-- https://research.google/blog/rethinking-attention-with-performers/
+- https://www.research.google/blog/rethinking-attention-with-performers/

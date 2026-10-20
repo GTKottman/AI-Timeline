@@ -8,4 +8,4 @@ Apple unveiled the A14 Bionic at its September 2020 event, debuting it in the ne
 
 ## Sources
 - https://www.apple.com/newsroom/2020/09/apple-unveils-all-new-ipad-air-with-a14-bionic-apples-most-advanced-chip/
-- https://en.wikichip.org/wiki/apple/ax/a14
+- https://www.tomshardware.com/uk/news/apple-a14-cpu-details

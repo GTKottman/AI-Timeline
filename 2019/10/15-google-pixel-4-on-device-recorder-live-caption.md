@@ -4,7 +4,7 @@
 - **Who:** Google
 - **Type:** product
 
-At its October 15, 2019 "Made by Google" event Google launched the Pixel 4 with on-device AI features. The Recorder app transcribes audio in real time and recognizes sound types such as applause, music and laughter. Live Caption captions any media in English without a network connection. Google said both use the same underlying speech model with custom training for each use. Running speech recognition on the phone rather than in the cloud was a clear example of consumer AI moving to edge hardware.
+At its October 15, 2019 "Made by Google" event Google launched the Pixel 4 with on-device AI features. The Recorder app transcribes audio on the device. Live Caption captions media in English without a network connection. Google said both use the same underlying speech model with custom training for each use. Running speech recognition on the phone rather than in the cloud was a clear example of consumer AI moving to edge hardware.
 
 ## Sources
 - https://www.engadget.com/2019-10-16-google-live-caption-rollout-pixel-4-accessibility.html

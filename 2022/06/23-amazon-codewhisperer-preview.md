@@ -1,11 +1,11 @@
 # Amazon CodeWhisperer enters preview
 
-- **Date:** 2022-06-00
+- **Date:** 2022-06-23
 - **Who:** Amazon Web Services
 - **Type:** product
 
-Amazon unveiled CodeWhisperer at its Re:MARS conference and opened it as a preview, an ML coding companion that suggests code in the IDE much like GitHub Copilot. It was trained on billions of lines of code from open source and Amazon repositories, initially supported Python, Java and JavaScript, and included security scans for Java and Python. The preview came through a waitlist. The exact day in June was not confirmed.
+Amazon unveiled CodeWhisperer at its re:MARS conference on June 23, 2022 and opened it as a preview, an ML coding companion that suggests code inside IDEs such as VS Code, IntelliJ, PyCharm, WebStorm and AWS Cloud9. The first version supported Python, Java and JavaScript and included security scans for Java and Python. The preview came through the AWS IDE Toolkit.
 
 ## Sources
-- https://aws.amazon.com/blogs/aws/now-in-preview-amazon-codewhisperer-ml-powered-coding-companion
+- https://techcrunch.com/2022/06/23/amazon-launches-codewhisperer-its-ai-pair-programming-tool
 - https://petri.com/amazon-codewhisperer-preview/

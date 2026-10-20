@@ -4,10 +4,8 @@
 - **Who:** Google TensorFlow team
 - **Type:** software
 
-TensorFlow 2.9 shipped with oneDNN CPU optimizations on by default for Linux x86 builds, and with DTensor, an experimental API for distributing models across devices. It added the tf.keras.optimizers.experimental API while moving the older optimizers to tf.keras.optimizers.legacy. Boosted-trees code was removed after security issues in TF 2.8, with users pointed to TensorFlow Decision Forests. DTensor was described by W&B as still very experimental.
-
-The TensorFlow blog gives May 18, 2022; a TensorFlow forum reply gives May 17 as the stable date, so the day varies by source.
+Google's TensorFlow team announced TensorFlow 2.9 in a blog post dated May 18, 2022. oneDNN CPU optimizations became on by default for Linux x86 packages, and it can be turned off with TF_ENABLE_ONEDNN_OPTS=0. It also added DTensor, an experimental API for distributing models across devices.
 
 ## Sources
 - https://blog.tensorflow.org/2022/05/whats-new-in-tensorflow-29.html
-- https://analyticsindiamag.com/tensorflow-v2-9-released-major-highlights/
+- https://www.intc.com/news-events/press-releases/detail/1548/intel-onednn-ai-optimizations-enabled-as-default-in

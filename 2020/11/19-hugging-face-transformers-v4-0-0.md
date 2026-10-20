@@ -4,7 +4,7 @@
 - **Who:** Hugging Face
 - **Type:** software
 
-Transformers v4.0.0 shipped on November 19, 2020, as the library's major release. It added fast tokenizers and model outputs as objects rather than tuples, which broke backward compatibility, and reorganized the file layout. It also introduced experimental model templates, starting with an encoder-only architecture like BERT. The release made the library a more stable base for the Hugging Face model hub.
+Transformers v4.0.0 made Rust-based fast tokenizers the default in AutoTokenizers and pipelines, and changed model outputs from tuples to named-tuple-like objects, which broke tuple unpacking. It also reorganized the file layout and introduced model templates, starting with an encoder-only template. The date of 19 November comes from one secondary source; the Zenodo archive of the release is dated November 30, 2020, so the day is unresolved.
 
 ## Sources
 - https://zenodo.org/record/4298849

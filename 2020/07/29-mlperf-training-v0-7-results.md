@@ -8,5 +8,5 @@ MLPerf released Training v0.7 results on July 29, 2020. NVIDIA said it submitted
 
 ## Sources
 - https://www.hpcwire.com/aiwire/2020/07/29/nvidia-dominates-latest-mlperf-training-benchmark-results/
-- https://cloud.google.com/blog/products/ai-machine-learning/google-breaks-ai-performance-records-in-mlperf-with-worlds-fastest-training-supercomputer
+- https://www.servethehome.com/mlperf-0-7-results-when-winners-only-apply-nvidia-google-intel-huawei-inspur/
 - https://syncedreview.com/2020/07/29/mlperf-training-v0-7-results-released-google-nvidia-lead-the-race/

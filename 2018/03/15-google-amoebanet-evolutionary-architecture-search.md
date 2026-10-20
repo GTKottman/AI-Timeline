@@ -8,3 +8,4 @@ Google Brain used evolutionary algorithms to evolve image classifier architectur
 
 ## Sources
 - https://research.google/blog/using-evolutionary-automl-to-discover-neural-network-architectures/
+- https://blog.research.google/2018/03/using-evolutionary-automl-to-discover.html

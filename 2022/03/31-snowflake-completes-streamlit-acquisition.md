@@ -4,8 +4,7 @@
 - **Who:** Snowflake; Streamlit (founders)
 - **Type:** acquisition
 
-Snowflake closed its purchase of Streamlit, the company behind the open-source Python framework for building data apps, on March 31, 2022. Snowflake's filings put the closing fair value at about $650.8 million (cash plus shares), while the earlier announced price was about $800 million. The deal gave Snowflake a widely used tool for ML and data-app prototyping, which Snowflake said it bought mainly for the talent and developer community.
+Snowflake completed its acquisition of Streamlit, the company behind the open-source Python framework for building data apps, on March 31, 2022, according to its SEC filings. The acquisition-date fair value of the purchase consideration was $650.8 million: $211.8 million in cash and 1.9 million Class A shares. Snowflake said it bought Streamlit mainly for its talent and developer community.
 
 ## Sources
 - https://www.sec.gov/Archives/edgar/data/1640147/000164014722000044/snow-20220430.htm
-- https://www.sec.gov/Archives/edgar/data/1640147/000164014722000023/snow-20220131.htm

@@ -4,9 +4,8 @@
 - **Who:** Viz.ai; Tiger Global and Insight Partners (leads)
 - **Type:** funding
 
-Viz.ai, which runs an AI platform for disease detection and care coordination, raised a $100 million Series D led by Tiger Global and Insight Partners at a $1.2 billion valuation. Existing investors such as GV and Kleiner Perkins also took part. The company said its hospital network had passed 1,000 hospitals and planned to use the money to detect and triage more diseases and expand globally.
+Viz.ai, which runs an AI platform for disease detection and care coordination, announced a $100 million Series D on April 7, 2022, led by Tiger Global and Insight Partners at a $1.2 billion valuation, per the company's press release. Existing investors including GV and Kleiner Perkins also took part. The company said more than 1,000 hospitals were using its platform and that it would use the money to detect and triage more diseases and expand globally.
 
 ## Sources
+- https://www.businesswire.com/news/home/20220407005351/en/Viz.ai-Raises-100-Million-in-Series-D-Funding-Led-by-Tiger-Global-and-Insight-Partners-at-1.2-Billion-Valuation
 - https://www.insightpartners.com/ideas/viz-ai-raises-100-million-in-series-d-funding-led-by-tiger-global-and-insight-partners-at-1-2-billion-valuation/
-- https://www.algemeiner.com/2022/04/07/viz-ai-raises-100-million-at-1-2-billion-valuation-to-become-israels-newest-unicorn/
-- https://en.globes.co.il/en/article-ai-disease-detection-co-vizai-raises-100m-at-12b-valuation-1001408577

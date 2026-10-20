@@ -4,7 +4,7 @@
 - **Who:** Adept (David Luan, Ashish Vaswani, Niki Parmar); led by Greylock and Addition
 - **Type:** funding
 
-Adept, a research and product lab founded by former Google Brain and OpenAI researchers, emerged from stealth with a $65 million Series A led by Greylock and Addition. Its stated goal was models that act in software (taking actions in apps, not only generating text). The launch marked the start of the action-taking agent direction that later products built on.
+Adept, a research and product lab founded by former Google Brain and OpenAI researchers, emerged from stealth on April 26, 2022 with a $65 million Series A led by Greylock and Addition. Its stated goal was models that act in software, taking actions in apps rather than only generating text.
 
 ## Sources
 - https://www.businesswire.com/news/home/20220426005963/en/AI-Transformer-Inventors-Launch-Adept-with-$65M-to-Lend-a-Hand-to-Knowledge-Workers

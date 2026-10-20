@@ -4,7 +4,7 @@
 - **Who:** Google Cloud
 - **Type:** product
 
-Google announced BigQuery ML, which lets analysts and data scientists build and deploy machine learning models on large datasets with SQL extensions instead of separate ML code. The post explained that it uses batch gradient descent, which does not depend on how the data is ordered on disk, a good fit for how BigQuery scans large tables. It moved model training to where the data already lives in the warehouse.
+Google announced BigQuery ML at Google Cloud Next 2018 in beta, as SQL language extensions that let analysts build and run machine learning models on data already stored in BigQuery, without separate ML code. Early coverage said the beta supported linear and logistic regression. It moved model training to where the data already lives in the warehouse.
 
 ## Sources
-- https://research.google/blog/machine-learning-in-google-bigquery/
+- https://sdtimes.com/ai/google-doubles-down-on-machine-learning-at-google-cloud-next-2018/

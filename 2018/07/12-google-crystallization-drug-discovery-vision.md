@@ -8,3 +8,4 @@ Google researchers adapted deep convolutional networks to recognize protein crys
 
 ## Sources
 - https://research.google/blog/automating-drug-discoveries-using-computer-vision/
+- https://venturebeat.com/2018/07/12/google-introduces-ai-for-drug-discovery-protein-recognition

@@ -4,7 +4,8 @@
 - **Who:** Run:ai; led by Tiger Global Management and Insight Partners
 - **Type:** funding
 
-Run:ai, which orchestrates and optimizes GPU clusters for AI workloads, raised a $75 million Series C. Tiger Global and Insight Partners also led its 2021 Series B. The round reflected investor interest in tools that squeeze more training and inference out of scarce GPU capacity.
+Run:ai, which orchestrates and optimizes GPU clusters for AI workloads, announced a $75 million Series C on March 15, 2022, led by Tiger Global and Insight Partners. Insight Partners had also led its 2021 Series B. The company said its annual recurring revenue grew nine-fold in a year, and it planned to use the money for global expansion and possible acquisitions.
 
 ## Sources
-- https://techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/
+- https://www.insightpartners.com/ideas/runai-raises-75m-in-series-c-round-to-accelerate-ai-adoption-worldwide/
+- https://en.globes.co.il/en/article-1001405659

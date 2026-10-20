@@ -4,9 +4,8 @@
 - **Who:** Microsoft Research; OpenAI (co-authors)
 - **Type:** research
 
-Microsoft Research published µTransfer, a method built on the µP parameterization from the "Tensor Programs V" paper, which lets hyperparameters tuned on a small proxy model carry over to much larger networks. The team tuned a 40-million-parameter proxy and copied the best settings onto the 6.7-billion-parameter GPT-3, using about 7 percent of GPT-3's pretraining compute for the tuning. It mattered because it gave labs a cheap way to tune networks too costly to train more than once, though The Register noted some hyperparameters still need direct tuning.
+Microsoft Research published µTransfer (Tensor Programs V, arXiv 2203.03466), a method built on µP parameterization that lets hyperparameters tuned on a 40-million-parameter proxy carry over to the 6.7-billion-parameter GPT-3. The authors report that the transferred model outperformed published 6.7B GPT-3 numbers, with tuning cost about 7% of pretraining cost. The Register described the work as a Microsoft and OpenAI collaboration.
 
 ## Sources
-- https://www.sdxcentral.com/press-releases/microsoft-research-expands-the-limits-of-tuning-enormous-neural-networks/
+- https://arxiv.org/abs/2203.03466
 - https://www.theregister.com/2022/03/14/microsoft_openai_mutransfer/
-- https://www.microsoft.com/en-us/research/wp-json/wp/v2/posts/823648

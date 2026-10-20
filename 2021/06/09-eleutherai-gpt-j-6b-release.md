@@ -7,4 +7,4 @@
 EleutherAI released GPT-J-6B, a 6-billion-parameter language model trained on The Pile with Mesh Transformer JAX, under the Apache 2.0 licence. It was one of the largest freely available GPT-style models at the time and became a common base for open-source experiments.
 
 ## Sources
-- https://en.wikipedia.org/wiki/GPT-J
+- https://www.infoq.com/news/2021/07/eleutherai-gpt-j

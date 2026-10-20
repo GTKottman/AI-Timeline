@@ -8,3 +8,4 @@ UNESCO's member states adopted the Recommendation on the Ethics of Artificial In
 
 ## Sources
 - https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence
+- https://algorithmwatch.org/en/unesco-adopts-recommendation-on-the-ethics-of-ai/

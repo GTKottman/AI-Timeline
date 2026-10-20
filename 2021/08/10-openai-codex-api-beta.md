@@ -8,4 +8,3 @@ OpenAI announced an upgraded Codex, a GPT-3 descendant trained on public code th
 
 ## Sources
 - https://openai.com/blog/openai-codex/
-- https://techxplore.com/news/2021-08-codex-ai-natural-language-code.pdf

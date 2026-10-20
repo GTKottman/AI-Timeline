@@ -1,6 +1,6 @@
 # OpenAI releases Microscope visualization tool
 
-- **Date:** 2020-04 (exact day not confirmed)
+- **Date:** 2020-04-00
 - **Who:** OpenAI
 - **Type:** software
 

@@ -1,6 +1,6 @@
 # OpenAI releases Image GPT, generative pretraining from pixels
 
-- **Date:** 2020-06 (exact day not confirmed)
+- **Date:** 2020-06-00
 - **Who:** OpenAI (Mark Chen, Alec Radford, Ilya Sutskever and colleagues)
 - **Type:** model
 

@@ -4,8 +4,8 @@
 - **Who:** Anthropic
 - **Type:** product
 
-Anthropic launched Claude Code Security as a limited research preview inside Claude Code on the web. It scans codebases for security vulnerabilities, gives a confidence level per finding and proposes targeted patches for human review rather than applying fixes automatically. It opened to Enterprise and Team customers, with expedited free access for open-source maintainers. It moved frontier coding models into application-security work.
+Anthropic launched Claude Code Security as a limited research preview inside Claude Code on the web. It scans codebases for security vulnerabilities, uses multi-step verification to reduce false positives, and proposes targeted patches for human review rather than applying fixes automatically. It opened to Enterprise and Team customers, with expedited free access for open-source maintainers. It moved frontier coding models into application-security work.
 
 ## Sources
-- https://anthropic.com/news/claude-code-security
-- https://www.testingcatalog.com/anthropic-released-claude-code-security-as-research-preview.md
+- https://www.techdogs.com/tech-news/td-newsdesk/anthropic-launches-claude-code-security-in-limited-preview-on-the-web
+- https://www.zataz.com/claude-code-security-anthropic-aims-to-industrialize-ai-audits/

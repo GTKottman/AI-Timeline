@@ -8,4 +8,3 @@ GenCast, a diffusion-based ensemble model, was published in Nature on December 4
 
 ## Sources
 - https://deepmind.google/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/
-- https://www.technologyreview.com/2024/12/04/1107892/google-deepminds-new-ai-model-is-the-best-yet-at-weather-forecasting/

@@ -8,4 +8,4 @@ OpenAI rolled out live video and screen sharing inside Advanced Voice Mode on Da
 
 ## Sources
 - https://www.neowin.net/news/chatgpt-mobile-apps-now-support-video-and-screensharing-in-advanced-voice-mode/
-- https://www.digitaltrends.com/computing/openai-adds-video-analysis-and-screen-sharing-to-advanced-voice-mode
+- https://truefuturemedia.com/articles/chatgpt-video-screen-share-update

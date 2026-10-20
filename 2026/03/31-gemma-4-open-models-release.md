@@ -1,11 +1,11 @@
 # Google releases Gemma 4 open models under Apache 2.0
 
-- **Date:** 2026-03-31
+- **Date:** 2026-04-02
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google's release log dates the first Gemma 4 sizes (E2B, E4B, 31B and 26B A4B) to March 31, 2026, with press coverage following on April 2. The models are multimodal, built from the same research as Gemini 3, and ship under Apache 2.0, a change from Google's earlier custom Gemma license. They were available immediately on Hugging Face, Kaggle, Ollama and Google's own cloud platforms.
+Google released Gemma 4 on April 2, 2026, in E2B, E4B, 26B A4B and 31B sizes. The models are multimodal and ship under Apache 2.0, a change from Google's earlier custom Gemma license. They were available on Hugging Face, Kaggle and Ollama.
 
 ## Sources
-- https://ai.google.dev/gemma/docs/releases?hl=en
-- https://datanorth.ai/news/google-releases-gemma-4-open-models
+- https://the-decoder.com/googles-gemma-4-is-now-available-with-apache-2-0-licensing-for-the-first-time/
+- https://www.techwyse.com/news/ai-search/google-deepmind-gemma-4-open-models-apache-2-0-release

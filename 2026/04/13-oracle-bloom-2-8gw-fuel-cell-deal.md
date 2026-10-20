@@ -4,8 +4,8 @@
 - **Who:** Oracle, Bloom Energy
 - **Type:** other
 
-Oracle signed a master services agreement to buy up to 2.8 GW of Bloom Energy fuel-cell systems for its US data centers, with 1.2 GW already contracted for use in 2026 and 2027. Bloom says its systems supply the fast, load-following power AI workloads need, which grids and gas turbines are slow to provide. Bloomberg reported the deal on April 13 and Bloom shares rose about 14% after hours. The figures come from the companies' announcements.
+Oracle signed a master services agreement to buy up to 2.8 GW of Bloom Energy fuel-cell systems for its US data centers, with an initial 1.2 GW contracted. Bloom says its systems supply the fast, load-following power AI workloads need, which grids and gas turbines are slow to provide. Converge Digest dates the deal April 13, 2026; the Business Wire release text carries no date.
 
 ## Sources
-- https://www.bloomberg.com/news/articles/2026-04-13/oracle-agrees-to-buy-power-from-bloom-for-ai-data-centers
-- https://www.theregister.com/2026/04/14/oracle_bloom_fuel_cells/
+- https://convergedigest.com/bloom-energy-oracle-scale-fuel-cell-deal-to-2-8-gw/
+- https://www.fierce-network.com/newswire/oracle-commits-28gw-blooms-fuel-cell-power

@@ -4,8 +4,8 @@
 - **Who:** Zhipu AI (Z.ai)
 - **Type:** model
 
-Zhipu released GLM-5, a 744B-parameter mixture-of-experts model with 40B active parameters, roughly double GLM-4.5's scale, with open weights and a 200K-token context via DeepSeek Sparse Attention. Zhipu reported 77.8% on SWE-bench Verified, and it topped open-weight rankings on Artificial Analysis and LMArena's text arena in early coverage. Zhipu claims it was trained on Huawei Ascend chips without Nvidia hardware, which the company stated and was not independently verified.
+Zhipu released GLM-5, a 744B-parameter mixture-of-experts model with 40B active parameters and a 200K-token context window, with open weights under the MIT license on Hugging Face and ModelScope. Zhipu reported 77.8% on SWE-bench Verified. Sources differ on whether the model was trained only on Huawei Ascend chips; that claim is unverified.
 
 ## Sources
-- https://huggingface.co/blog/mlabonne/glm-5
 - https://rits.shanghai.nyu.edu/ai/glm-5-zhipu-ai-ships-a-744b-open-weight-frontier-model/
+- https://the-decoder.com/?p=32063

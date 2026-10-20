@@ -8,3 +8,4 @@ MEPs adopted their negotiating position on the Digital Omnibus for AI by 569 vot
 
 ## Sources
 - https://www.freevacy.com/news/european-parliament/eu-parliament-adopts-digital-omnibus-for-ai-negotiating-position/7257
+- https://www.globalpolicywatch.com/2026/03/meps-adopt-joint-position-on-proposed-digital-omnibus-on-ai/

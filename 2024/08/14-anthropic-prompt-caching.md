@@ -8,5 +8,4 @@ Anthropic added prompt caching to the Claude API in public beta, so developers c
 
 ## Sources
 - https://claude.com/blog/prompt-caching
-- https://simonwillison.net/2024/Aug/14/prompt-caching-with-claude/
-- https://sdtimes.com/ai/anthropic-introduces-prompt-caching-to-reduce-latency-and-costs
+- https://venturebeat.com/ai/anthropics-new-claude-prompt-caching-will-save-developers-a-fortune

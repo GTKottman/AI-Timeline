@@ -4,8 +4,9 @@
 - **Who:** ByteDance
 - **Type:** model
 
-ByteDance launched Seedance 2.0, a video-generation model that takes up to nine images, three video clips, three audio clips and text, and generates video with stereo dialogue, sound effects and background audio together. It launched first to Chinese Douyin users, with global access via CapCut planned. The release went viral in China and drew Hollywood criticism and privacy debate over biometric use.
+ByteDance launched Seedance 2.0 on February 12, 2026. It takes up to nine images, three video clips, three audio clips and text, and generates video with stereo audio together. The CapCut and Dreamina rollout started in stages on March 26 in Southeast Asian and Latin American markets, not the US. It drew Hollywood copyright complaints from studios.
 
 ## Sources
-- https://www.eweek.com/news/bytedance-seedance-2-ai-video-race
+- https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/
 - https://rits.shanghai.nyu.edu/ai/seedance-2-0-bytedances-multimodal-audio-video-ai-model/
+- https://www.freemalaysiatoday.com/category/business/2026/03/26/bytedance-quietly-rolls-out-seedance-2-0-globally

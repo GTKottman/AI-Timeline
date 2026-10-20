@@ -8,4 +8,4 @@ Sierra, the enterprise AI customer-service agent startup co-founded by Bret Tayl
 
 ## Sources
 - https://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m
-- https://www.axios.com/2024/10/29/sierra-bret-taylor-175-million
+- https://pulse2.com/sierra-conversational-ai-company-raises-175-million-at-4-5-billion-valuation

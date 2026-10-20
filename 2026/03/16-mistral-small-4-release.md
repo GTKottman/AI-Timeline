@@ -8,4 +8,4 @@ Mistral Small 4 merges the earlier Magistral (reasoning), Pixtral (multimodal) a
 
 ## Sources
 - https://mistral.ai/news/mistral-small-4/
-- https://alternativeto.net/news/2026/3/mistral-small-4-blends-reasoning-coding-and-multimodal-ai-into-one-open-source-model
+- https://rits.shanghai.nyu.edu/ai/mistral-small-4-four-models-unified-in-one-open-source-moe

@@ -8,5 +8,3 @@ Google added Imagen 3 to the Gemini apps and launched Custom Gems, user-built ch
 
 ## Sources
 - https://blog.google/products/gemini/google-gemini-update-august-2024/
-- https://petapixel.com/2024/08/29/googles-powerful-ai-image-generator-is-coming-to-gemini-imagen-3/
-- https://siliconangle.com/2024/08/28/google-updates-gemini-new-image-generation-model-custom-gem-chatbots/

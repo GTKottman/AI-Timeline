@@ -4,8 +4,7 @@
 - **Who:** xAI
 - **Type:** model
 
-Grok 4.3 reached the xAI API on April 30 after a limited beta that began in mid-April for the SuperGrok Heavy tier. It has a 1M-token context window and is priced at $1.25 input and $2.50 output per million tokens. Artificial Analysis scored it 53 on its Intelligence Index, behind GPT-5.5 and Claude Opus 4.7, so it was positioned as a price and speed option. The release came with little press coverage; broader availability followed on May 1.
+xAI's Grok 4.3 reasoning model reached the xAI API on April 30, 2026, per one source; other sources list May 1 or May 6. It has a 1M-token context window. xAI's model page lists $1.25 per million input tokens and $2.50 per million output tokens for prompts under 200K tokens, and $2.50 and $5.00 for prompts at 200K tokens or more.
 
 ## Sources
-- https://vercel.com/ai-gateway/models/grok-4.3/about
-- https://www.roborhythms.com/grok-4-3-release-april-2026/
+- https://docs.x.ai/docs/models

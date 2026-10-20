@@ -4,9 +4,8 @@
 - **Who:** Google / Google DeepMind
 - **Type:** product
 
-At Google I/O, Google introduced Jules, an asynchronous coding agent that can write tests, build features, fix bugs and bump dependency versions, in public beta with no waitlist. It also announced Imagen 4, with better fine detail and text rendering, and Gemini Diffusion, an experimental model that applies diffusion to text. The keynote also featured Gemini 2.5 Pro and Flash, and Flow, a filmmaking tool built on Veo. Coverage of Gemini Diffusion was thin, and the sources checked were mostly secondary.
+At Google I/O, Google moved Jules, its asynchronous coding agent, to public beta with no waitlist. It also announced Imagen 4, which adds higher resolution up to 2K and better text rendering, and showed Gemini Diffusion as an experimental text model. Gemini Diffusion details are in its own entry.
 
 ## Sources
-- https://9to5google.com/2025/05/20/google-i-o-2025-news/
-- https://dev.to/iwaken71/google-io-2025-ai-and-xr-redefine-the-future-key-announcements-recap-4i6d
-- https://elephas.app/blog/google-io-2025-complete-guide-to-major-ai-announcements-cmb0fyq2g002nmjqltdu0msug.md
+- https://www.techradar.com/tech-events/the-12-useful-new-tools-from-google-i-o-2025-you-can-actually-try-right-now
+- https://developers.googleblog.com/google-io-2025-developer-keynote-recap/

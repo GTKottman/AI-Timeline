@@ -4,7 +4,7 @@
 - **Who:** Amazon (Amazon AGI SF Lab)
 - **Type:** product
 
-Amazon launched Nova Act as a research preview, an AI agent that can take control of a web browser and carry out simple tasks on its own. It came from Amazon's new AGI lab in San Francisco and was released with a Python SDK for building agent prototypes. Access began through nova.amazon.com for US customers, and Amazon said Nova Act would power key parts of the upcoming Alexa+. It was positioned against OpenAI's Operator and Anthropic's Computer Use.
+Amazon launched Nova Act as a research preview, an AI agent that can control a web browser and carry out simple multi-step tasks, with a Python SDK for building agent prototypes. It came from Amazon's AGI lab in San Francisco. Amazon said Nova Act would power key features of the upcoming Alexa+, and reported a 94% score on ScreenSpot Web Text.
 
 ## Sources
 - https://techcrunch.com/2025/03/31/amazon-unveils-nova-act-an-ai-agent-that-uses-a-web-browser/

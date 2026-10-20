@@ -4,8 +4,8 @@
 - **Who:** Nvidia; Jensen Huang; Qualcomm, Fujitsu, MediaTek, Marvell, Alchip (partners)
 - **Type:** hardware
 
-Nvidia's Computex keynote in Taipei introduced NVLink Fusion, an open platform that lets customers pair third-party or their own CPUs with Nvidia accelerators, where before Nvidia offered only proprietary configurations. Partners named for custom chips included Qualcomm, Fujitsu, MediaTek, Marvell and Alchip. Huang also headlined the Rubin platform (Rubin GPU, Vera CPU, HBM4), expected in 2026, and said GB300 systems would ship in Q3 2025.
+Nvidia's Computex keynote in Taipei introduced NVLink Fusion, a licensed platform that lets other chipmakers' CPUs and custom accelerators connect to Nvidia GPUs. Named partners include Marvell and MediaTek, which plan to use it for custom chips, plus Alchip, Fujitsu and Qualcomm. Rubin was presented as the step after Blackwell Ultra. One outlet, relaying Bloomberg, reported GB300 systems were slated for the third quarter of 2025.
 
 ## Sources
 - https://mezha.ua/en/news/nvidia-announces-new-platform-for-data-centers-302033/
-- https://www.techinsights.com/ko/node/59983
+- https://www.freemalaysiatoday.com/category/business/2025/05/20/nvidia-plans-to-sell-tech-to-speed-ai-chip-communication

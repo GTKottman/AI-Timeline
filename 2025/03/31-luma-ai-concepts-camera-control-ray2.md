@@ -4,7 +4,8 @@
 - **Who:** Luma AI
 - **Type:** product
 
-Luma AI made Concepts available for its Ray2 video model, a set of camera-motion controls that let users direct generated video more precisely. It was a feature update to an existing model rather than a new model. The only source seen is Luma's own news page, so the date rests on that listing.
+Luma AI launched Camera Motion Concepts for its Ray2 video model. Users teach a camera move from one or a few examples and reuse it across shots and styles. The launch included 15 camera movements, such as crane, orbit, pull out, push in and aerial drone. Luma says the concepts work alongside Ray2's image-to-video, start and end keyframe, and loop features. This was a feature update to an existing model, not a new model.
 
 ## Sources
-- https://lumalabs.ai/news
+- https://lumalabs.ai/news/camera-motion-concepts
+- https://lumalabs.ai/changelog/camera-motion-concepts-launch

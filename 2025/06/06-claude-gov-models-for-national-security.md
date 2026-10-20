@@ -4,7 +4,7 @@
 - **Who:** Anthropic
 - **Type:** product
 
-Anthropic announced Claude Gov, a set of Claude models tuned for US defence and intelligence customers, for work that can handle classified information. Reports say the models were already in use by top-level national security agencies. It mattered because it was a frontier lab's first purpose-built government model line (Anthropic had earlier partnered with Palantir and AWS on defence access).
+Anthropic announced Claude Gov, a set of Claude models built only for US national security customers, for work that can involve classified material. Anthropic says agencies at the highest level of US national security already use the models, and the models went through the same safety testing as its other Claude models. Anthropic has not disclosed agency names.
 
 ## Sources
-- https://mezha.ua/en/news/anthropic-claude-dlya-armiji-ta-rozvidki-302482/amp/
+- https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers

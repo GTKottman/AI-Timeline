@@ -8,4 +8,3 @@ Microsoft agreed to buy the output of Constellation's Three Mile Island Unit 1 f
 
 ## Sources
 - https://world-nuclear-news.org/articles/constellation-to-restart-three-mile-island-unit-powering-microsoft
-- https://redmondmag.com/articles/2024/09/23/microsoft-three-mile-island.aspx

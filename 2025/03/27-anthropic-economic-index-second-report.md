@@ -4,8 +4,8 @@
 - **Who:** Anthropic
 - **Type:** research
 
-Anthropic published its second Economic Index report, titled "Insights from Claude Sonnet 3.7", with a companion data release on Hugging Face. It used Clio, Anthropic's privacy-preserving analysis system, to map roughly four million Claude.ai conversations to O*NET occupational tasks and to a bottom-up set of usage clusters. It followed the first report of February 10, 2025.
+Anthropic published its second Economic Index report, "Insights from Claude 3.7 Sonnet". It analysed about one million Claude.ai conversations, mapped to O*NET occupational tasks by Clio, Anthropic's privacy-preserving analysis system. It found modest increases in the share of usage in categories such as coding, education and the sciences, and no change in the balance between augmentation and automation. It followed the first report of February 10, 2025.
 
 ## Sources
-- https://www.anthropic.com/economic-futures?q=rss.xml
-- https://www.aiwiki.ai/wiki/anthropic_economic_index
+- https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7
+- https://gigazine.net/gsc_news/en/20250331-anthropic-economic-index-insights-claude

@@ -4,8 +4,9 @@
 - **Who:** Pika Labs
 - **Type:** product
 
-Pika Labs launched Pika 1.0, a new model and app that generates short videos from text, image and video prompts in styles such as 3D animation, anime and cinematic. It added tools to extend clip length, change aspect ratio and edit content such as clothing or added characters. It rolled out to new users on the web and Discord, and the company reported about half a million users and $55 million raised in total, including a $35 million Series A led by Lightspeed.
+Pika Labs launched Pika 1.0, a new model and web platform that generates and edits short videos from text prompts in styles such as 3D animation, anime and cinematic, with image-to-video and video-to-video support. The company said it had about half a million users. It had raised $55 million in total, including a $35 million Series A led by Lightspeed Venture Partners.
 
 ## Sources
-- https://alternativeto.net/news/2023/11/ai-video-editing-platform-pika-releases-public-version-1-0-with-new-features-and-look
 - https://venturebeat.com/ai/pika-labs-raises-55m-launches-new-ai-video-platform-to-take-on-runway
+- https://voicebot.ai/2023/11/29/generative-ai-video-startup-pika-raises-35m/
+- https://www.businesswire.com/news/home/20231127388431/en

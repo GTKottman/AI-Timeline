@@ -8,4 +8,3 @@ Google DeepMind announced Veo 2, a text and image to video model that outputs up
 
 ## Sources
 - https://blog.google/technology/google-labs/video-image-generation-update-december-2024/
-- https://www.etvbharat.com/amp/en/!technology/google-veo-2-ai-video-model-imagen-3-image-generator-enn24121706375

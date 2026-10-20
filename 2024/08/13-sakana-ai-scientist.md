@@ -8,4 +8,4 @@ Sakana AI, with researchers from Oxford and UBC, announced The AI Scientist, a s
 
 ## Sources
 - https://siliconangle.com/2024/08/13/sakana-ai-creates-ai-scientist-automate-scientific-research-discovery/
-- https://constellationr.com/insights/news/sakana-ai-aims-automate-scientific-research-genai
+- https://www.constellationr.com/insights/news/sakana-ai-aims-automate-scientific-research-genai

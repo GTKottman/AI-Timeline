@@ -4,9 +4,8 @@
 - **Who:** xAI
 - **Type:** model
 
-xAI released Grok Voice 3.0 as a speech-to-speech model through its Voice Agent API (grok-voice-3.0), replacing Grok Voice 2.0 as the default at a flat $0.08 per minute. It is aimed at phone support, contact centres and in-app assistants, and xAI says it reached first place on Artificial Analysis's Speech-to-Speech Index with latency under one second. Those performance numbers are xAI's own figures and independent verification was not found, and the Starlink support usage cited by coverage is company-reported.
+xAI released Grok Voice 3.0 (grok-voice-3.0), a speech-to-speech model in its Voice Agent API, on October 14, 2026, at a flat $0.08 per minute, the same rate as Grok Voice 2.0. It is aimed at phone support, contact centres and in-app assistants. xAI says the model ranks first on Artificial Analysis's Speech-to-Speech Index with a score of 86.9, and cites a 97% Full Duplex Bench score; these are company figures. Sources name the model differently (Grok Voice 3.0 or Grok Voice Think Fast 2.0), so check the current identifier on xAI's pricing page.
 
 ## Sources
-- https://www.devx.com/artificial-intelligence-ai/what-is-grok-voice-3-0-xai-speech-to-speech-model/
-- https://www.llmreference.com/model/grok-voice-3.0/xai-console
-- https://aipicks.jp/news/20261015-xai-grok-voice-3-0-1-0-08-1
+- https://aiweekly.co/alerts/xai-grok-voice-30-ships-at-008min-tops-index-at-869
+- https://www.eesel.ai/blog/grok-voice-3-pricing

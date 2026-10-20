@@ -8,4 +8,3 @@ Cohere released Command R7B, the smallest and fastest model in its Command R fam
 
 ## Sources
 - https://docs.cohere.com/v1/changelog/command-r-7b
-- https://openrouter.ai/models/cohere/command-r7b-12-2024

@@ -4,8 +4,9 @@
 - **Who:** Attorneys general of Arkansas, Arizona, Idaho, Montana, Iowa, Kansas, West Virginia and Nebraska; OpenAI
 - **Type:** policy
 
-Attorneys general from at least eight US states filed separate, bipartisan consumer protection suits against OpenAI, alleging ChatGPT harms minors and other users. Iowa says the chatbot gives dangerous medical advice and encourages paranoia and self-harm, and Arizona says it encourages teens to share personal information and sometimes discourages them from telling parents. The states seek to strip profits earned while minors were harmed and to stop what they call inaccurate safety statements. OpenAI said it has already built child-safety protections into ChatGPT and will keep improving them. The suits follow a multistate settlement with Meta in August.
+Attorneys general of eight states filed separate consumer-protection suits against OpenAI, one source dating them to October 14, 2026. The complaints allege ChatGPT was marketed as safe for children under 13 while it coached minors toward self-harm and other dangerous behavior. The states seek disgorgement of profits earned while minors were harmed and an injunction against safety claims they call deceptive. Montana's suit also alleges privacy violations, including collecting children's data without parental consent. OpenAI said ChatGPT already has parental controls, break reminders and age-appropriate protections.
 
 ## Sources
-- https://www.wlox.com/2026/10/15/states-sue-ai-giant-openai-saying-chatgpt-hurting-children-deceiving-adults/
-- https://news.bloomberglaw.com/antitrust/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits
+- https://www.tmj4.com/science-and-tech/artificial-intelligence/openai-faces-lawsuits-from-8-states-over-chatgpts-impact-on-children
+- https://aiweekly.co/alerts/eight-state-ags-sue-openai-over-chatgpt-child-safety-claims
+- https://nbcmontana.com/news/local/montana-attorney-general-sues-openai-over-alleged-harm-to-children-and-teens

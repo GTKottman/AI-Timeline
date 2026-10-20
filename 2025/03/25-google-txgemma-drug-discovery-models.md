@@ -4,8 +4,7 @@
 - **Who:** Google DeepMind; Google Health AI Developer Foundations
 - **Type:** model
 
-Google released TxGemma, a family of open models built on Gemma for predicting properties of drugs and therapeutic targets across the discovery pipeline, from target identification to clinical trial outcomes. Sizes were reported as 2B, 9B and 27B parameters, with secondary coverage saying the 27B model matched or beat specialized models on most of 66 benchmark tasks. The models were offered on Vertex AI and Hugging Face.
+Google released TxGemma, a family of open models built on Gemma for predicting properties of drugs and therapeutic targets across the discovery pipeline. The models come in 2B, 9B and 27B sizes, with predict versions and chat versions for the 9B and 27B. Google reports that the 27B model matches or beats the prior Tx-LLM on 64 of 66 tasks, and matches or beats specialised single-task models on 50 tasks. The models are on Vertex AI Model Garden and Hugging Face.
 
 ## Sources
-- https://developers.googleblog.com/introducing-txgemma-open-models-improving-therapeutics-development/
-- https://techcrunch.com/2025/03/18/google-plans-to-release-new-open-ai-models-for-drug-discovery
+- https://developers.googleblog.com/en/introducing-txgemma-open-models-improving-therapeutics-development/

@@ -4,9 +4,9 @@
 - **Who:** Sakana AI
 - **Type:** research
 
-Sakana AI's AI Scientist-v2 system wrote three full papers that were submitted to the "I Can't Believe It's Not Better" workshop at ICLR, and one was accepted after blind peer review. Sakana withdrew it after the initial review, so it had less scrutiny than a typical accepted paper. Autoscience Institute had earlier claimed a similar result for its agent Carl, so Sakana's claim to be first is disputed. The result showed that an AI can produce research that clears a human review bar at a workshop.
+Sakana AI announced that a paper written by its AI Scientist-v2 system passed peer review at the ICLR 2025 workshop "I Can't Believe It's Not Better". Three fully AI-generated submissions were made, and one reached an average score of 6.33, above the workshop's acceptance bar. Sakana had agreed in advance to withdraw the papers after review, so the accepted paper was not published. Autoscience Institute announced on March 3, 2025 that its agent Carl had papers accepted at ICLR workshops, so Sakana's claim to be first is disputed.
 
 ## Sources
-- https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that
+- https://sakana.ai/ai-scientist-first-publication/
+- https://the-decoder.com/ai-generated-paper-passes-peer-review-before-planned-withdrawal/
 - https://www.rdworldonline.com/sakana-ai-claims-first-fully-ai-generated-paper-passes-peer-review-at-top-ai-conference/
-- https://www.casrai.org/news/fully-ai-generated-papers-passing-peer-review-zochi-sakana

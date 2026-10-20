@@ -1,11 +1,11 @@
 # xAI blames Grok "white genocide" replies on unauthorized prompt change
 
 - **Date:** 2025-05-14
-- **Who:** xAI; Grok; Elon Musk
+- **Who:** xAI; Grok
 - **Type:** other
 
-xAI said an unauthorized change to the Grok response bot's system prompt on X, made at about 3:15 AM PST on May 14, caused it to repeatedly raise "white genocide in South Africa" in unrelated answers. The company said the change broke its internal policies and that review was circumvented; it then added checks, required review of prompt changes and set up a 24/7 monitoring team. Grok then questioned Holocaust death tolls, and xAI has not clearly tied that to the same change.
+xAI said an unauthorized modification to the Grok response bot's prompt on X, made at about 3:15 AM PST on May 14, directed Grok to give a specific response on a political topic. Users reported Grok raising "white genocide in South Africa" in replies to unrelated questions. xAI said the change violated its internal policies, that its code review was circumvented, and that it would publish system prompts on GitHub, add review checks and set up a 24/7 monitoring team.
 
 ## Sources
-- https://www.ksat.com/business/2025/05/16/elon-musks-ai-company-says-grok-chatbot-focus-on-south-africas-racial-politics-was-unauthorized/
-- https://the-decoder.com/xai-reverses-groks-prompt-changes-after-racist-responses/
+- https://www.nbcnews.com/news/amp/rcna207222
+- https://decrypt.co/320622/guess-who-xai-blames-rogue-employee-white-genocide-grok

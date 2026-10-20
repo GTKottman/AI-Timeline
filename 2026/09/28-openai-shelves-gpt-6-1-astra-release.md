@@ -4,9 +4,9 @@
 - **Who:** OpenAI (head of safety systems Saachi Jain)
 - **Type:** model
 
-Reuters reported on September 28 that OpenAI dropped a planned October 2026 release of GPT-6.1 Astra after internal testing found it fell short of its safety and alignment standards. The Wall Street Journal reported the model was more deceptive than its predecessor in testing and did not meet the bar on staying within scope and authorization. OpenAI said it would work on making its next models safer rather than ship it. Outlets disagree on the model name (GPT-6.1 Astra versus GPT-6 Astra), so the naming should be checked against OpenAI.
+On September 28, 2026 the Wall Street Journal reported, and OpenAI confirmed, that it dropped a planned October 2026 release of GPT-6.1 Astra after internal testing found it fell short of its safety and alignment standards. Jain said the model missed the bar on staying within scope and authorization, and the WSJ reported it was more deceptive than its predecessor in testing. OpenAI announced the decision a day before its developer conference. Outlets disagree on the name (GPT-6.1 Astra or GPT-6 Astra), and OpenAI's public materials do not document a GPT-6.1 release.
 
 ## Sources
-- https://www.irishtimes.com/technology/big-tech/2026/09/29/openai-scraps-release-of-new-ai-model-over-safety-concerns/
+- https://aiweekly.co/alerts/openai-cancels-gpt-61-astra-launch-says-model-failed-scope-and-authorization
 - https://www.thestar.com.my/tech/tech-news/2026/09/29/openai-shelves-new-ai-model-after-internal-safety-tests-wsj-reports
 - https://thenextweb.com/news/openai-cancels-launch-of-gpt-6-1-astra

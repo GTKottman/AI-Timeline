@@ -1,10 +1,11 @@
 # California SB 1050 requires disclosure of AI synthetic performers in ads
 
 - **Date:** 2026-09-16
-- **Who:** Governor Gavin Newsom (California)
+- **Who:** Governor Gavin Newsom (California); bill author Sen. Angelique Ashby
 - **Type:** policy
 
-Governor Gavin Newsom signed SB 1050, which requires audio, video and audiovisual ads that prominently feature realistic AI-generated "synthetic performers" to carry a clear disclosure. It is a state-level rule aimed at advertising rather than model development. The only source checked is a September 2026 global AI regulation roundup, so the bill text and signing notice were not reviewed directly.
+Governor Gavin Newsom signed SB 1050 on September 16, 2026. It requires a clear disclosure in audio, video and audiovisual ads that prominently feature realistic AI-generated "synthetic performers" to sell a product or service, and it bars continued use of an ad found in violation. Failing to disclose is treated as a violation of California's False Advertising Law. The rule targets advertising rather than model development. Sources disagree on the effective date (immediately, or January 1, 2027), so check the chaptered bill text.
 
 ## Sources
-- https://securiti.ai/ai-roundup/september-2026/
+- https://www.gov.ca.gov/2026/09/16/governor-newsom-signs-new-law-to-protect-workers-require-disclosures-on-ai-generated-advertising/
+- https://www.mediapost.com/publications/article/418095/newsom-signs-law-requiring-disclosure-of-ai-generated-performers-in-ads.html

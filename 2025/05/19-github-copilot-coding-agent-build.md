@@ -4,9 +4,8 @@
 - **Who:** GitHub / Microsoft
 - **Type:** product
 
-At Microsoft Build, GitHub announced the Copilot coding agent. It takes on a task from an assigned GitHub issue or a prompt in VS Code, sets up its own environment in GitHub Actions, and commits its work to a draft pull request with session logs. Existing branch protections still apply, and CI workflows on the agent's pull requests need human approval. It was offered to Copilot Enterprise and Copilot Pro+ customers.
+At Microsoft Build, GitHub announced the Copilot coding agent. It starts from a GitHub issue assigned to Copilot or from a request in Copilot Chat in VS Code, runs in a development environment powered by GitHub Actions, and pushes its commits to a draft pull request with session logs. Branch protections still apply, and CI workflows on the agent's pull requests need human approval before they run.
 
 ## Sources
+- https://visualstudiomagazine.com/articles/2025/05/19/microsoft-heralds-the-age-of-ai-agents-at-build-2025.aspx
 - https://decrypt.co/320961/microsoft-introduces-github-ai-agent-now-with-more-vibe-coding
-- https://www.therundown.ai/p/microsofts-top-5-releases-at-build-2025
-- https://azure.microsoft.com/en-us/blog/agentic-devops-evolving-software-development-with-github-copilot-and-microsoft-azure/

@@ -4,8 +4,8 @@
 - **Who:** MiniMax
 - **Type:** model
 
-MiniMax announced M3.1-Flash-Preview, available inside its MiniMax Code tool and on its Token Plan. It is a preview with a 1M-token context window, text, image and video input, and always-on reasoning with effort set from low to max. No per-token price, benchmark table or open weights had been published in the sources checked, and one source's parameter count was not confirmed.
+MiniMax announced M3.1-Flash-Preview on September 27, 2026, available inside its MiniMax Code tool and on its Token Plan. It is a preview with a 1M-token context window, text, image and video input, and reasoning effort set from low to max. Pricing, benchmarks, parameter count and open weights had not been published in the sources checked.
 
 ## Sources
-- https://datanorth.ai/news/minimax-releases-m3-1-flash-preview
+- https://datanorth.ai/news/minimax-releases-minimax-m3-1-flash-preview
 - https://hermes-ai.net/news/minimax-quietly-slips-m3-1-flash-preview-into-its-coding-tool/

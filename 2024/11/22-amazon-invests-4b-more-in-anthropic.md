@@ -8,4 +8,3 @@ Amazon announced a further $4 billion investment in Anthropic, bringing its tota
 
 ## Sources
 - https://abcnews.go.com/US/wireStory/amazon-invest-additional-4-billion-ai-startup-anthropic-116134356
-- https://www.bloomberg.com/news/articles/2024-11-22/amazon-investing-an-additional-4-billion-in-ai-firm-anthropic

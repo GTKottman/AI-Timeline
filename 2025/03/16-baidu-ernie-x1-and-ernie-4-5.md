@@ -4,9 +4,8 @@
 - **Who:** Baidu
 - **Type:** model
 
-Baidu launched ERNIE X1, a reasoning model for harder analytical tasks, alongside the multimodal ERNIE 4.5. Baidu says X1 matches DeepSeek-R1 at lower cost and is the first deep-thinking model to use tools autonomously. Both were offered through Baidu's own platforms and cloud, not as open weights. Baidu later released X1.1 in September 2025.
+Baidu launched ERNIE X1, a deep-thinking reasoning model, alongside the multimodal ERNIE 4.5. Baidu says X1 performs on par with DeepSeek-R1 at about half the price. Both models are free for individual users through ERNIE Bot's website. The launch press release did not mention open weights.
 
 ## Sources
-- https://fidelity.com/news/article/company-news/202503152209RTRSNEWSCOMBINED_L4N3PZ003_1
-- https://wandb.ai/byyoung3/ml-news/reports/Baidu-Unveils-ERNIE-4-5-and-ERNIE-X1--VmlldzoxMTgyODA5NA
-- https://geekchamp.com/baidu-delivers-new-llms-ernie-4-5-and-ernie-x1-undercutting-deepseek-openai-on-cost-but-theyre-not-open-source-yet/
+- https://seekingalpha.com/pr/20035243-baidu-unveils-ernie-4_5-and-reasoning-model-ernie-x1-makes-ernie-bot-free-ahead-of-schedule
+- https://wbgsv0a.gigazine.net/gsc_news/en/20250317-baidu-ernie-4-5-x1

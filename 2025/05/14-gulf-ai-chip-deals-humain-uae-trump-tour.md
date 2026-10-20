@@ -1,12 +1,11 @@
-# Nvidia, AMD and US firms sign AI chip deals with Saudi Arabia and the UAE
+# Nvidia and AMD sign AI chip deals with Saudi firm Humain during Trump's Gulf tour
 
 - **Date:** 2025-05-14
-- **Who:** NVIDIA, AMD, Qualcomm, Amazon, Humain, the UAE government, US Commerce Department
+- **Who:** NVIDIA; AMD; Humain; US government
 - **Type:** policy
 
-During President Trump's Gulf tour, NVIDIA agreed to supply Saudi firm Humain with an initial 18,000 Blackwell chips for a 500-megawatt data centre, with hundreds of thousands more planned over five years. AMD announced a $10 billion collaboration with Humain, and Amazon and Humain planned more than $5 billion in an AI zone. The UAE and US said they would build the largest AI data centre outside the US in Abu Dhabi, and reports said the UAE could import 500,000 advanced Nvidia chips a year. Commerce said such deals needed its approval, and Democratic lawmakers criticised the chip volumes. The article date is May 14, and the tour ran mid-May.
+During President Trump's Gulf tour, NVIDIA said it would supply Saudi firm Humain with an initial 18,000 Blackwell chips for a 500-megawatt data center, with several hundred thousand GPUs expected over five years. AMD announced a $10 billion collaboration with Humain to provide 500 megawatts of AI compute. Reuters reported $600 billion in Saudi commitments to US companies during the tour.
 
 ## Sources
-- https://www.businesstoday.in/amp/technology/news/story/donald-trump-gulf-visit-leads-nvidia-amd-to-strike-ai-deals-with-saudi-arabia-uae-476191-2025-05-14
-- https://www.axios.com/2025/05/16/trump-ai-deals-gulf-chips-china-trade-policy
-- https://restofworld.org/2025/trump-middle-east-trip-ai-chip-tech-deals/
+- https://www.fortune.com/2025/05/14/nvidia-ai-humain-saudi-arabia-front-of-the-line-wedbush-dan-ives
+- https://www.techrepublic.com/article/news-nvidia-saudi-arabia-ai-chips/

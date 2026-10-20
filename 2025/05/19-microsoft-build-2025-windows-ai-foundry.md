@@ -4,8 +4,8 @@
 - **Who:** Microsoft
 - **Type:** product
 
-At Build, Microsoft launched Windows AI Foundry, a framework for running open and proprietary models locally on CPUs, GPUs and NPUs in Copilot+ PCs. It announced Model Context Protocol support built into Windows 11 so agents can reach native apps and system services, and made Azure AI Foundry Agent Service generally available. GitHub Copilot was expanded into a more autonomous coding agent for review, deployment and debugging.
+At Build, Microsoft introduced Windows AI Foundry, a framework for running AI models locally on Windows devices, aimed at Copilot+ PCs. It announced Model Context Protocol support built into Windows 11 so agents can reach native apps and system services. It also made Azure AI Foundry Agent Service generally available, and GitHub Copilot was expanded into a more autonomous coding agent.
 
 ## Sources
 - https://www.infoq.com/news/2025/05/microsoft-build-2025
-- https://www.therundown.ai/p/microsofts-top-5-releases-at-build-2025
+- https://sdtimes.com/ai-agents/microsoft-build-github-copilot-coding-agent-azure-ai-foundry-updates-support-for-mcp-and-more/

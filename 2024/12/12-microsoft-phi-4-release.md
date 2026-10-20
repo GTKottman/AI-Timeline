@@ -4,7 +4,7 @@
 - **Who:** Microsoft Research
 - **Type:** model
 
-Microsoft released Phi-4, a 14-billion-parameter language model. The first access was limited to Azure AI Foundry under a research license, and the open weights followed later on Hugging Face. Some outlets reported the launch on December 13 because of time zones. It continued the push toward small models that were cheap to run.
+Microsoft released Phi-4, a 14-billion-parameter language model. The first access was limited to Azure AI Foundry under a research license, and the open weights followed later on Hugging Face. Some outlets reported the launch on December 13 because of time zones.
 
 ## Sources
 - https://www.artificialintelligence-news.com/news/microsoft-releases-phi-4-language-model-hugging-face/

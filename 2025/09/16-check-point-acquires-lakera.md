@@ -4,8 +4,9 @@
 - **Who:** Check Point Software Technologies, Lakera
 - **Type:** acquisition
 
-Check Point agreed to acquire Lakera, a Zurich and San Francisco company that secures agentic AI applications, to build an end-to-end AI security stack. Terms were not disclosed, though SecurityWeek reported an estimated $300 million, and closing was expected in Q4 2025. Lakera was to become the base of a Global Centre of Excellence for AI Security. The same day CrowdStrike announced its own AI security purchase, Pangea, showing security vendors buying up AI-specific defenses.
+Check Point agreed to acquire Lakera, a company that secures agentic AI applications, to build an end-to-end AI security stack. Check Point's press release is dated September 16, 2025. CRN and Entrepreneur India reported a price of about $300 million, while CSO Online said the price was undisclosed. Closing was expected in Q4 2025, and Lakera was to become Check Point's Global Center of Excellence for AI Security.
 
 ## Sources
-- https://www.securityweek.com/check-point-to-acquire-ai-security-firm-lakera/
-- https://itwire.com/deals/check-point-acquires-lakera-to-deliver-end-to-end-ai-security-for-enterprises.html
+- https://www.checkpoint.com/press-releases/check-point-acquires-lakera/
+- https://www.crn.in/?p=73080
+- https://cyberscoop.com/check-point-lakera-acquistion-ai-security/

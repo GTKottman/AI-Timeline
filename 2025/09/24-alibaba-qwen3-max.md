@@ -4,8 +4,8 @@
 - **Who:** Alibaba (Tongyi Qianwen / Qwen team)
 - **Type:** model
 
-Alibaba launched Qwen3-Max in full at its Apsara Conference, after a Qwen3-Max-Preview over 1 trillion parameters opened on September 5 and 6. Alibaba called it its most powerful Qwen model to date with stronger coding and agent abilities, and it is closed-weight, sold through Alibaba Cloud's API. One tracker dates the launch September 23, while most sources say September 24.
+Alibaba launched Qwen3-Max in full at its Apsara Conference, after a Qwen3-Max-Preview of over 1 trillion parameters opened on September 5. Most sources say the Max tier stayed closed-weight and is sold through Alibaba Cloud's API, though one AI Wire article says most Qwen models are open and implies Max would follow. One tracker dates the launch September 23, while most sources say September 24.
 
 ## Sources
-- https://startuptalky.com/news/ranked-3-worldwide-alibabas-qwen-3-max-is-making-headlines/
-- https://medium.com/@leucopsis/qwen-3-max-preview-alibabas-trillion-parameter-llm-e9cb6f982042
+- https://dev.aiwire.net/2025/09/24/alibabas-qwen3-max-joins-the-frontier-of-trillion-parameter-ai-models/
+- https://aiwiki.ai/wiki/qwen3_max

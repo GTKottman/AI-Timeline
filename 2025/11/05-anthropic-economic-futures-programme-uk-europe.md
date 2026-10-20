@@ -4,7 +4,7 @@
 - **Who:** Anthropic
 - **Type:** other
 
-Anthropic launched its Economic Futures Programme for the UK and Europe, a research and policy effort on how AI affects jobs and the economy in those regions. It was listed in Anthropic's news index under Economic Research. Details of the programme's funding and deliverables were not in the source checked.
+Anthropic launched its Economic Futures Programme for the UK and Europe, starting with a symposium at the London School of Economics. The programme offers research grants and Claude credits for UK and EU researchers, forums for evaluating AI policy, and more granular data on AI use in these countries. It builds on the US programme introduced on June 27, 2025.
 
 ## Sources
-- https://www.anthropic.com/news?q=rss.xml
+- https://anthropic.com/news/economic-futures-uk-europe

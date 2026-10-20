@@ -4,7 +4,7 @@
 - **Who:** Meta AI
 - **Type:** model
 
-Meta released Omnilingual ASR, an open-source speech recognition system that covers more than 1,600 languages, including over 500 that no earlier ASR system supported. It comes as a family of models from 300M-parameter versions for low-power devices up to 7B for maximum accuracy. Meta reports a character error rate below 10 for 78% of the languages tested. Meta also released a corpus of transcribed speech in 350 under-represented languages under CC-BY. Secondary coverage gives the models an Apache 2.0 licence, which was not confirmed on the primary source. Extension to 5,400 languages uses zero-shot in-context learning and is a capability claim, not verified coverage.
+Meta released Omnilingual ASR, an open-source speech recognition system that covers more than 1,600 languages, including over 500 that no earlier ASR system supported. It comes as a family of models from 300M-parameter versions for low-power devices up to 7B for maximum accuracy. Meta reports a character error rate below 10 for 78% of the languages tested, and released a corpus of transcribed speech in 350 under-represented languages under CC-BY. The extension to 5,400 languages uses zero-shot in-context learning and is a capability claim, not verified coverage.
 
 ## Sources
 - https://arxiv.org/pdf/2511.09690

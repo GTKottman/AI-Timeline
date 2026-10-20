@@ -4,8 +4,9 @@
 - **Who:** Allen Institute for AI (Ai2)
 - **Type:** model
 
-Ai2 released OLMo, a fully open language model family, with full training data (Dolma and its tooling), model weights for 7B and 1B models, training, inference and evaluation code, and 500+ checkpoints per base model. The release also included instruction-tuned OLMo-7B-Instruct and OLMo-7B-SFT variants. It mattered because it went further than open-weight releases by making the data, code and training process available for research on how language models are built.
+Ai2 released OLMo, a fully open language model family, with the Dolma training data and tooling, 7B and 1B base models, and training, inference and evaluation code. Each model shipped with 500+ intermediate checkpoints, and all code, weights and checkpoints were released under Apache 2.0. It went further than open-weight releases by making the data, code and training process available for research on how language models are built.
 
 ## Sources
-- https://allenai.org/blog/olmo-open-language-model-87ccfc95f580
+- https://blog.allenai.org/olmo-open-language-model-87ccfc95f580
 - https://arxiv.org/pdf/2402.00838
+- https://analyticsindiamag.com/ai-news-updates/allen-institute-for-ai-releases-olmo-open-source-7b-and-1b-models

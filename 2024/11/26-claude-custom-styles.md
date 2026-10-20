@@ -4,7 +4,9 @@
 - **Who:** Anthropic
 - **Type:** product
 
-Anthropic added writing styles to Claude.ai, with three presets (Formal, Concise and Explanatory) and the option to build a custom style from writing samples or written instructions. Claude processes the samples in the background to generate a style, and users can edit styles later. The feature let people set a consistent voice across chats without re-prompting. It was part of Anthropic's push on personalization in its consumer product.
+Anthropic added custom styles for all Claude.ai users, with three presets (Formal, Concise and Explanatory) alongside the default. Users can build a custom style by uploading or pasting writing samples, or by describing the style they want, and can edit styles later. The feature let people set a consistent voice across chats without re-prompting.
 
 ## Sources
-- https://www.tomsguide.com/ai/claude-gets-custom-style-feature-makes-the-ai-chatbot-write-just-like-you
+- https://www.maginative.com/article/anthropic-introduces-custom-writing-styles-for-claude-ai/
+- https://support.anthropic.com/en/articles/10185698-configuring-and-using-styles
+- https://www.techradar.com/computing/artificial-intelligence/you-can-now-ask-claude-to-mimic-your-writing-style

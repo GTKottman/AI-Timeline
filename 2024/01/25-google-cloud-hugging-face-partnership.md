@@ -4,8 +4,9 @@
 - **Who:** Google Cloud, Hugging Face
 - **Type:** other
 
-Google Cloud and Hugging Face announced a strategic partnership under which Google Cloud became a preferred destination for Hugging Face training and inference workloads. Developers can train, tune and serve Hugging Face models through Vertex AI and GKE directly from the Hugging Face platform, with access to Cloud TPU v5e and Nvidia H100 capacity. It mattered because it tied the main open-model hub to a hyperscaler, making open models easier to deploy at scale.
+Google Cloud and Hugging Face announced a strategic partnership that makes Google Cloud Hugging Face's preferred cloud partner. Vertex AI and GKE were to be offered as deployment options on the Hugging Face platform in the first half of 2024, Cloud TPU v5e access was extended to more open-source developers, and H100 support was tied to future A3 VMs. Billing was integrated with Google Cloud Marketplace. It tied the main open-model hub more closely to a hyperscaler.
 
 ## Sources
-- https://www.googlecloudpresscorner.com/2024-01-25-Google-Cloud-and-Hugging-Face-Announce-Strategic-Partnership-to-Accelerate-Generative-AI-and-ML-Development
+- https://www.maginative.com/article/google-secures-important-strategic-partnership-with-hugging-face/
+- https://www.thurrott.com/?p=296725
 - https://gigazine.net/gsc_news/en/20240126-hugging-face-google-cloud

@@ -4,8 +4,8 @@
 - **Who:** MiniMax
 - **Type:** model
 
-MiniMax released M2.1, an upgrade to its M2 model focused on coding and multilingual software work, which MiniMax said it was handing to the open-source community. Listings describe about 230B total and 10B active parameters with roughly 205K context. MiniMax's own benchmark claims (72.5% on SWE-multilingual) are vendor-reported. The release came days before MiniMax's Hong Kong listing.
+MiniMax released M2.1, an upgrade to its M2 model focused on multi-language coding and complex real-world software tasks, with open weights on Hugging Face under a modified MIT licence (per NVIDIA's model listing, which gives a December 20 Hugging Face date). Listings describe about 230 billion total parameters. MiniMax says response speed improved and token use fell compared with M2. The release came about two weeks before MiniMax's Hong Kong listing.
 
 ## Sources
-- https://aitoolly.com/ai-model/minimax-m2-1
+- https://www.minimax.io/news/minimax-m21
 - https://www.siliconflow.com/models/minimax-m2-1

@@ -8,3 +8,4 @@ MLCommons released MLPerf Training v3.1 results on November 8, 2023. NVIDIA's Eo
 
 ## Sources
 - https://www.hpcwire.com/2023/11/10/gaudi2-4th-gen-xeon-show-strength-in-mlperf-training-3-1-but-still-trail-nvidia/
+- https://newsroom.intel.com/artificial-intelligence/intel-gaudi-ai-accelerator-brings-greater-ai-choice

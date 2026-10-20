@@ -1,11 +1,12 @@
-# MiniMax lists in Hong Kong, shares jump 42%
+# MiniMax lists in Hong Kong, shares more than double on debut
 
 - **Date:** 2026-01-09
 - **Who:** MiniMax
 - **Type:** funding
 
-MiniMax debuted on the Hong Kong Stock Exchange on January 9, 2026 after pricing at the top of its range, HK$165 per share, raising about HK$4.82 billion (about $619 million). Shares opened at HK$235.40 and rose about 42.7% on debut. The offering was upsized and heavily oversubscribed, and it made MiniMax one of the first listed frontier-model labs.
+MiniMax debuted on the Hong Kong Stock Exchange on January 9, 2026 after pricing at HK$165 per share, raising about HK$4.82 billion (about $619 million) by one account. The offering was heavily oversubscribed. Shares more than doubled on debut: SCMP reported a close about 109% higher, while Yicai reported about 103%, so the exact close is uncertain.
 
 ## Sources
-- https://www.caixinglobal.com/2026-01-06/minimaxs-hong-kong-ipo-oversubscribed-1848-times-as-ai-frenzy-builds-102400879.html
-- https://www.thestandard.com.hk/innovation/article/320794/Chinese-AI-firm-MiniMax-set-to-price-Hong-Kong-IPO-at-top-of-range-sources-say
+- https://www.scmp.com/business/banking-finance/article/3339251/chinese-ai-start-minimax-shines-hong-kong-ipo-debut
+- https://technode.com/2026/01/09/mihoyo-backed-ai-firm-minimax-jumps-on-hong-kong-debut-market-value-tops-11-5-billion/
+- https://cdn.dealstreetasia.com/stories/minimax-group-hong-kong-ipo-468716

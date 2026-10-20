@@ -1,6 +1,6 @@
 # OpenAI acquires Statsig for about $1.1 billion
 
-- **Date:** 2025-09-03
+- **Date:** 2025-09-02
 - **Who:** OpenAI, Statsig (Vijaye Raji)
 - **Type:** acquisition
 

@@ -4,8 +4,8 @@
 - **Who:** OpenAI
 - **Type:** model
 
-OpenAI released GPT Image 1.5 to all ChatGPT users and in the API, with a new Images section in ChatGPT. The model generates images up to about 4x faster than its predecessor and keeps details such as lighting, faces and logos intact during edits, with better text rendering. The release was widely read as a response to Google's image models, which had gained ground in late 2025. One outlet dated the API launch to December 17, so the day is taken from the primary-channel posts.
+OpenAI released GPT Image 1.5 to all ChatGPT users and in the API, with a redesigned Images section in ChatGPT. OpenAI says the model generates images up to 4x faster than its predecessor, improves edit precision, and renders small, dense text better. The API model ID is gpt-image-1.5. Some outlets dated the API launch to December 17, so the day here is taken from OpenAI's own post.
 
 ## Sources
-- https://forklog.com/en/openai-launches-new-image-generator-gpt-image-1-5/
-- https://vercel.com/ai-gateway/models/gpt-image-1.5
+- https://openai.com/index/new-chatgpt-images-is-here/
+- https://www.storyboard18.com/digital/what-is-new-in-chatgpt-images-openai-rolls-out-gpt-image-1-5-with-faster-generation-and-sharper-edits-86061.htm

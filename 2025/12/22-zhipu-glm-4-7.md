@@ -4,8 +4,8 @@
 - **Who:** Zhipu AI (Z.ai)
 - **Type:** model
 
-Zhipu released GLM-4.7, an open-weight mixture-of-experts model aimed at coding and agent work, under an MIT license. Third-party listings give about 355–358B total parameters and roughly 200K context. Reported figures include 73.8% on SWE-bench Verified, which are vendor-adjacent and not independently checked. It continued Zhipu's run of frontier open-weight releases from China.
+Zhipu released GLM-4.7, an open-weight mixture-of-experts model aimed at coding and agent work, under an MIT license according to NVIDIA's model listing. Third-party listings give about 355 billion total parameters and roughly 200K context. Aggregator tables report 73.8% on SWE-bench Verified, up from 68.8% for GLM-4.6; these are not independently checked.
 
 ## Sources
-- https://epoch.ai/models/glm-4-7
 - https://www.mindstudio.ai/models/glm-4-7
+- https://docs.api.nvidia.com/nim/reference/z-ai-glm4-7

@@ -4,9 +4,9 @@
 - **Who:** OpenAI
 - **Type:** product
 
-OpenAI launched ChatGPT Health, a separate health section inside ChatGPT where users can connect medical records and wellness apps such as Apple Health, MyFitnessPal, AllTrails, Peloton and Instacart. OpenAI said more than 230 million users ask health questions each week and that health chats are kept separate from regular chats and are not used to train foundation models. Access began through a waitlist, and EHR connections in the US run through b.well. OpenAI says the product is not meant for diagnosis or treatment.
+OpenAI launched ChatGPT Health, a separate health section inside ChatGPT where users can connect wellness apps such as Apple Health and MyFitnessPal, and in the US, medical records through the b.well network. OpenAI says health chats are kept separate from regular chats and are not used to train its foundation models. Medical-records connections are limited to US users, and the Apple Health connection requires an iPhone. Coverage of a later relaunch in July 2026 is not reflected here.
 
 ## Sources
-- https://www.fortune.com/2026/01/07/openai-launches-chatgpt-health-in-a-push-to-become-a-hub-for-personal-health-data
-- https://www.storyboard18.com/digital/openai-launches-chatgpt-health-as-230-million-users-seek-health-advice-weekly-87201.htm
-- https://www.htworld.co.uk/?p=47175
+- https://openai.com/index/introducing-chatgpt-health/
+- https://www.mobihealthnews.com/news/openai-launches-chatgpt-health-partners-bwell
+- https://cyberinsider.com/openai-launches-chatgpt-health-with-promises-of-strong-data-privacy/

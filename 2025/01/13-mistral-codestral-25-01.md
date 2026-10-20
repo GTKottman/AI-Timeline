@@ -4,8 +4,8 @@
 - **Who:** Mistral AI
 - **Type:** model
 
-Codestral 25.01 is Mistral's code generation model aimed at low-latency work such as code completion, fill-in-the-middle and test generation, covering more than 80 programming languages. Google Cloud lists it on Vertex AI from the same date. Sources disagree on its context length (32K on Vertex AI, 256K in other listings) and on its license, so check Mistral's own documentation before relying on either.
+Mistral released Codestral 25.01, an updated code model for low-latency work such as code completion and fill-in-the-middle, covering more than 80 programming languages. Mistral says it generates and completes code about twice as fast as the original Codestral from May 2024. It is offered through Mistral's API and through partner clouds including Google, Microsoft and Amazon.
 
 ## Sources
-- https://docs.cloud.google.com/vertex-ai/generative-ai/docs/partner-models/mistral/codestral-2501
-- https://atmarkit.itmedia.co.jp/ait/articles/2501/16/news067.html
+- https://mistral.ai/news/codestral-2501
+- https://the-decoder.com/mistral-releases-updated-code-model-codestral-25-01/

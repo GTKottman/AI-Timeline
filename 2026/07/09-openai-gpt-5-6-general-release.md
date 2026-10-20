@@ -4,9 +4,9 @@
 - **Who:** OpenAI
 - **Type:** model
 
-On July 9, 2026 OpenAI opened the GPT-5.6 family, Sol, Terra and Luna, to ChatGPT, Codex and the API after the June 26 limited preview, with reports saying the Commerce Department approved the broader launch. Sol is the flagship and is also offered on Cerebras to select customers, and the release adds a "max" reasoning effort and an "ultra" mode that runs subagents. OpenAI said the government access process should not become the long-term default. Sources do not fully confirm whether the July 9 rollout covered every product and region.
+On July 9, 2026 OpenAI made the GPT-5.6 family, Sol, Terra and Luna, publicly available after the June 26 limited preview. Axios reported that the Commerce Department approved the broad launch; Reuters could not immediately verify that. OpenAI said government access should not become the long-term default. The release adds a "max" reasoning effort and an "ultra" mode that runs subagents. Sources do not confirm whether ChatGPT access started on the same day as the API.
 
 ## Sources
-- https://www.kucoin.com/news/flash/openai-launches-gpt-5-6-model-family-with-sol-terra-and-luna-tiers
-- https://rits.shanghai.nyu.edu/ai/openai-launches-gpt-5-6-family-sol-terra-and-luna-reach-general-availability/
-- https://runtimewire.com/article/openai-gpt-5-6-sol-terra-luna-public-launch-july-9
+- https://qz.com/openai-gpt-56-sol-us-government-approval-launch-070926
+- https://aiweekly.co/alerts/commerce-clears-openais-gpt-56-for-broad-thursday-launch
+- https://www.thestar.com.my/tech/tech-news/2026/07/08/openai-gets-us-approval-for-broad-gpt-56-rollout-axios-reports

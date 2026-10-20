@@ -4,8 +4,8 @@
 - **Who:** CoreWeave; Weights & Biases
 - **Type:** acquisition
 
-CoreWeave announced an agreement to acquire Weights & Biases, the AI developer platform used for model training tracking and for evaluating and monitoring AI applications. The deal was reported at about $1.7 billion and was meant to pair CoreWeave's GPU cloud with an MLOps layer, giving AI labs and enterprises one end-to-end stack for building and deploying AI applications.
+CoreWeave announced on March 4, 2025 an agreement to acquire Weights & Biases, the AI developer platform used for model training tracking and for evaluating and monitoring AI applications. The release did not disclose financial terms. The Information reported the deal could be worth about $1.7 billion, citing unnamed sources.
 
 ## Sources
 - https://coreweave.com/news/coreweave-to-acquire-weights-biases---industry-leading-ai-developer-platform-for-building-and-deploying-ai-applications
-- https://aiwire.net/2025/03/05/coreweave-to-acquire-weights-biases-expanding-mlops-capabilities
+- https://www.maginative.com/article/coreweave-acquires-weights-biases-in-a-1-7-billion-ai-cloud-play/

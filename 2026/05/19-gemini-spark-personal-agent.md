@@ -4,8 +4,9 @@
 - **Who:** Google
 - **Type:** product
 
-Gemini Spark, presented as the biggest announcement of Google I/O 2026, is a personal agent that runs on cloud virtual machines so a laptop or phone does not need to stay awake. It runs on Gemini 3.5 with Google's Antigravity harness, integrates with Gmail, Docs and Slides, and adds MCP connections to third-party services. A beta went to Google AI Ultra subscribers the following week.
+Google announced Gemini Spark at I/O 2026 on May 19, a personal agent that runs on Google Cloud virtual machines, so it keeps working when a laptop is closed or a phone is off. It is built on Gemini 3.5 and the Antigravity agent harness, works with Gmail and Workspace, and can be sent tasks by email. A beta went to US Google AI Ultra subscribers the following week, priced around $100 a month by one source. One report says third-party MCP connections are coming; sources differ on the announcement day of the week.
 
 ## Sources
-- https://www.gigazine.net/gsc_news/en/20260520-google-gemini-spark
+- https://goodfest.westfield.com/2026/05/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration-at-io-2026/
+- https://thenextweb.com/news/google-gemini-spark-agentic-assistant-gmail-io-2026
 - https://letsdatascience.com/news/google-launches-gemini-spark-personal-ai-agent-50839617

@@ -4,7 +4,7 @@
 - **Who:** Qualcomm, Modular (cofounders Chris Lattner and Tim Davis)
 - **Type:** acquisition
 
-Qualcomm announced it will buy Modular, whose software lets AI models run across different chip architectures without per-chip rewrites, for roughly $4 billion, mostly in stock. Reuters puts the value at $3.92 billion, with Qualcomm expecting to issue up to 19.2 million shares. Qualcomm says the deal strengthens its generative and agentic AI software and its data center push, and Reuters frames it as a challenge to Nvidia's CUDA software platform. Closing is expected in the second half of 2026, subject to approvals.
+Qualcomm announced on June 24, 2026 that it will buy Modular, whose software lets AI models run across different chip architectures without per-chip rewrites, for roughly $4 billion. Reuters values the deal at $3.92 billion, mostly in stock, with up to 19.2 million Qualcomm shares and $300 million for Modular employees. Reuters frames it as a challenge to Nvidia's CUDA platform. Closing is expected in the second half of 2026, subject to approvals.
 
 ## Sources
 - https://www.thestar.com.my/tech/tech-news/2026/06/24/qualcomm-to-buy-ai-startup-modular

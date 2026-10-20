@@ -4,8 +4,8 @@
 - **Who:** Mistral AI
 - **Type:** model
 
-Mistral unveiled Robostral Navigate, an 8B vision-language model that takes RGB camera images and a plain-language instruction, such as "go to the loading dock", and moves a robot through an environment. Mistral describes it as hardware-agnostic, and one report says it was trained in simulation on about 400,000 trajectories across 6,000 scenes. It is Mistral's first embodied-robotics model and follows its May 2026 acquisition of Emmi AI. Some coverage places the press release on July 7; July 8 is the more widely reported date. The benchmark claim comes from secondary sources.
+Mistral released Robostral Navigate on July 8, 2026, an 8B vision-language model that takes one forward-facing RGB camera feed and a plain-language instruction, such as "go to the loading dock", and moves a robot through an environment. It needs no LiDAR, depth sensors or prebuilt maps, and Mistral says it works across wheeled, legged and flying robots. Mistral reports 76.6% success on unseen R2R-CE environments, trained in simulation on about 400,000 paths across 6,000 spaces; these are Mistral's own figures. It is Mistral's first embodied-robotics model, following its acquisition of Emmi AI.
 
 ## Sources
-- https://www.globalbankingandfinance.com/mistral-launches-first-robotics-model-physical-ai-push/
-- https://tech-insider.org/mistral-robotics-model-valuation-2026/
+- https://rits.shanghai.nyu.edu/ai/mistral-releases-robostral-navigate-single-camera-robot-navigation/
+- https://pulse2.com/mistral-ai-launches-robostral-navigate-an-8b-robotics-model-that-steers-robots-with-a-single-camera-and-plain-language-commands/

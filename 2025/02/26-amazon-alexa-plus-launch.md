@@ -4,8 +4,8 @@
 - **Who:** Amazon (Devices & Services, Panos Panay)
 - **Type:** product
 
-Amazon unveiled Alexa+ at a New York event, a conversational assistant built on generative AI that uses Amazon Nova and Anthropic models among others. It is free with Prime and $19.99 per month for non-Prime users. The launch was preceded by a limited preview of over 100,000 early users, and the service was announced after its original fall 2024 target slipped.
+Amazon unveiled Alexa+ at a New York event, a conversational assistant built on generative AI. It is free with Prime and costs $19.99 a month for non-Prime users. Early access was set to begin in March 2025, with wider availability in waves after that.
 
 ## Sources
-- https://www.axios.com/2025/02/26/amazon-alexa-plus-ai-assistant
-- https://decrypt.co/317605/amazon-rolling-out-enhanced-alexa?amp=1
+- https://tech.yahoo.com/ai/articles/amazon-finally-unveils-alexa-ai-163836187.html
+- https://www.thurrott.com/hardware/318571/panos-panay-details-amazons-new-consumer-product-strategy

@@ -4,8 +4,8 @@
 - **Who:** Luma AI
 - **Type:** model
 
-Luma announced Ray2, its successor to the Ray 1 video model, on January 15, 2025. Luma says it was trained with ten times the compute of Ray 1 on a multimodal architecture trained directly on video sequences, aimed at better motion and physics. It launched on the Dream Machine platform with text-to-video at launch, with clips of roughly 5 to 10 seconds.
+Luma AI released Ray2, the successor to its Ray 1 video model, on its Dream Machine platform. Luma had announced Ray 2 in December 2024 at AWS re:Invent, and Amazon Bedrock availability followed in late January 2025. Ray2 generates video from text and image prompts, and Luma says it improves motion and physics. The January 15 date comes from secondary coverage; the Amazon Bedrock listing is dated January 23, 2025.
 
 ## Sources
-- https://getcoai.com/news/luma-labs-launches-new-ai-video-model-with-improved-motion-and-physics
-- https://www.mindstudio.ai/models/ray-2
+- https://press.aboutamazon.com/aws/2024/12/luma-ai-announces-new-video-model-ray-2-will-soon-be-available-to-consumers-professionals-and-developers
+- https://aws.amazon.com/vi/about-aws/whats-new/2025/01/luma-ais-ray2-visual-ai-model-amazon-bedrock/

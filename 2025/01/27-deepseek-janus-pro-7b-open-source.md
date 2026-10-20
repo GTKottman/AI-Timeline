@@ -4,9 +4,8 @@
 - **Who:** DeepSeek
 - **Type:** model
 
-DeepSeek released Janus-Pro, a multimodal model in 1B and 7B sizes that handles both image understanding and image generation. It separates the visual encoders for the two tasks and keeps one transformer. DeepSeek says the 7B version beats DALL-E 3 on GenEval and DPG-Bench, a company-reported claim that independent tests found visible artefacts for. The code is on GitHub under an MIT licence, and model use is governed by the DeepSeek Model License.
+DeepSeek released Janus-Pro, a multimodal model in 1B and 7B sizes that handles both image understanding and image generation. It uses separate visual encoders for the two tasks and keeps one transformer. DeepSeek says the 7B version beats DALL-E 3 on GenEval and DPG-Bench, a company-reported result. The code is MIT-licensed on GitHub; use of the models is governed by the DeepSeek Model License.
 
 ## Sources
-- https://seekingalpha.com/news/4398945-deepseek-releases-open-source-ai-multimodal-model-janus-pro-7b
-- https://www.infoq.com/news/2025/01/deepseek-ai-janus/
-- https://www.datacamp.com/blog/janus-pro
+- https://www.theregister.com/2025/01/27/deepseek_image_openai/
+- https://gigazine.net/gsc_news/en/20250128-deepseek-janus-pro-image-model

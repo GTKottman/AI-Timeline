@@ -4,8 +4,8 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Gemini Omni, announced at Google I/O 2026, combines Gemini with Google's media generators, taking text, images, audio and video as input. Its first release, Omni Flash, generates short AI videos (up to about 10 seconds per one summary) and rolled out to paid Gemini app and Flow subscribers, with YouTube Shorts access and developer API access to follow. Hassabis said it draws on Veo, Nano Banana and Genie. Specs and pricing were not confirmed in an official spec sheet at the time.
+Google introduced Gemini Omni at I/O 2026, a model for generating media from text, image, audio and video input. Its first release, Omni Flash, generates video clips of up to about 10 seconds, and users can revise results through conversation. Omni Flash rolled out to Google AI Plus, Pro and Ultra subscribers in the Gemini app and Google Flow, and at no cost on YouTube Shorts and YouTube Create. Gemini 3.5 Flash launched alongside it; specs and API pricing were not confirmed in a spec sheet at launch.
 
 ## Sources
-- https://decrypt.co/368393
-- https://www.trendingtopics.eu/google-i-o-2026-ai-takes-center-stage-with-new-gemini-and-video-generator/
+- https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/
+- https://rits.shanghai.nyu.edu/ai/google-introduces-gemini-omni-and-gemini-3-5-at-i-o/

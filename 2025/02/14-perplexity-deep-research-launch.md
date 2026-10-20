@@ -4,9 +4,9 @@
 - **Who:** Perplexity AI
 - **Type:** product
 
-Perplexity launched Deep Research, which runs dozens of searches, reads hundreds of sources and writes a report that can be exported as PDF or turned into a Perplexity Page. Free users got five queries a day and Pro subscribers 500. Perplexity reported 21.1% on Humanity's Last Exam, below the 26.6% that one outlet gave for OpenAI's Deep Research. It followed Google's Gemini version from December 2024 and OpenAI's launch in early February 2025.
+Perplexity launched Deep Research, which runs multiple searches, reads sources and writes a report that users can export as PDF. According to the company's launch post, free users got five queries a day and Pro subscribers 500. Perplexity reported 21.1% on Humanity's Last Exam, a company-reported result.
 
 ## Sources
 - https://techcrunch.com/2025/02/15/perplexity-launches-its-own-freemium-deep-research-product/
-- https://businesstoday.in/technology/news/story/perplexity-unveils-deep-research-ai-beats-chatgpt-and-gemini-in-task-speed-464860-2025-02-17
-- https://tomsguide.com/ai/perplexity-ais-deep-research-feature-is-available-now-heres-how-to-try-it-for-free
+- https://www.tomsguide.com/ai/perplexity-ais-deep-research-feature-is-available-now-heres-how-to-try-it-for-free
+- https://alternativeto.net/news/2025/2/perplexity-introduces-deep-research-for-ai-driven-research-automation

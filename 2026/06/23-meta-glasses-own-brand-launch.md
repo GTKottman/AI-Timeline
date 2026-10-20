@@ -4,8 +4,8 @@
 - **Who:** Meta (made with EssilorLuxottica)
 - **Type:** hardware
 
-On June 23, 2026 Meta announced its first smart glasses that carry neither Ray-Ban nor Oakley branding, priced at about $299 with 26 styles and prescription-lens compatibility. The launch followed reports of a codename "Modelo", with a later "Luna" line expected in the fall. It widens Meta's AI-glasses range below the Ray-Ban Meta line. Price figures differ slightly between sources, and Meta's own newsroom was not checked.
+On June 23, 2026 Meta launched Meta Glasses, its first smart glasses without Ray-Ban or Oakley branding, made with EssilorLuxottica. The Meta Adventurer and Meta Fury start at $299, and a Meta Glasses by Kylie model is priced at $399 (Road to VR says $400). The line has 26 styles, a camera and speakers but no screen, and sits below the Ray-Ban Meta range.
 
 ## Sources
-- https://idevice.com/smart-glasses/meta-glasses/features/the-first-meta-glasses-without-ray-ban-or-oakley
-- https://technave.com/tag/Meta-Glasses-release---voice-activated-Meta-AI-assistant
+- https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/
+- https://www.roadtovr.com/meta-announces-cheaper-smart-glasses-without-ray-ban-or-oakley-branding-starting-at-300/

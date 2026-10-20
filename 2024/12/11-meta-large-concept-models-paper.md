@@ -4,7 +4,7 @@
 - **Who:** Meta FAIR
 - **Type:** paper
 
-The paper "Large Concept Models: Language Modeling in a Sentence Representation Space" proposes modeling text as sequences of sentence-level concepts instead of tokens. Input sentences are encoded with the fixed SONAR embedding space, and a LCM predicts the next concept embedding. Reported zero-shot XLSum results show a 7B LCM outperforming Llama-3.1-8B.
+The paper "Large Concept Models: Language Modeling in a Sentence Representation Space" proposes modeling text as sequences of sentence-level concepts instead of tokens. Input sentences are encoded with the existing SONAR embedding space, and the model predicts the next concept embedding. The authors claim zero-shot generalization to many languages that outperforms existing LLMs of the same size; the experiments are reported by the authors.
 
 ## Sources
 - https://arxiv.org/abs/2412.08821

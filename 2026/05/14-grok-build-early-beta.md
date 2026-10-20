@@ -4,8 +4,8 @@
 - **Who:** xAI
 - **Type:** software
 
-Grok Build is a terminal-first agentic coding CLI that plans implementations, edits files, runs shell commands and coordinates subagents, with Agent Client Protocol support for IDEs. It launched in early beta for the top SuperGrok Heavy tier and is positioned against Claude Code, OpenAI Codex and Gemini CLI. Reports date the launch to May 14, with one outlet saying May 15.
+xAI launched Grok Build, a terminal coding agent, in early beta on May 14, 2026, initially for SuperGrok Heavy subscribers. It plans implementations, edits files and runs shell commands, and a plan-review step lets the developer approve or change steps before code is applied. xAI positions it against Claude Code, OpenAI Codex and Gemini CLI. One outlet dates the launch to May 15, and extra details reported by only one or two sources (such as subagent counts and tier prices) are left out.
 
 ## Sources
-- https://www.eweek.com/news/xai-grok-build-coding-agent/
-- https://www.basenor.com/blogs/news/xai-launches-grok-build-an-agentic-cli-that-runs-your-computer
+- https://pulse2.com/xai-grok-build-launches-early-beta-coding-agent-cli/
+- https://aibusiness.com/generative-ai/musk-s-xai-launches-grok-build-take-claude-code-codex

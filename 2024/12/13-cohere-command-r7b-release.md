@@ -4,7 +4,7 @@
 - **Who:** Cohere
 - **Type:** model
 
-Cohere released Command R7B, the smallest and fastest model in its Command R family, with a 128K context window. Cohere positions it for retrieval-augmented generation, tool use and agentic workflows where speed and cost matter. Cohere's changelog describes it as the final model in the R line.
+Cohere released Command R7B, the smallest and fastest model in its Command R family, with a 128K context window. Cohere positions it for retrieval-augmented generation, tool use and agentic workflows where speed and cost matter. It was offered on the Cohere Platform and on Hugging Face.
 
 ## Sources
 - https://docs.cohere.com/v1/changelog/command-r-7b

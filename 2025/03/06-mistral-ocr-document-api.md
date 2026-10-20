@@ -4,7 +4,7 @@
 - **Who:** Mistral AI
 - **Type:** product
 
-Mistral AI launched Mistral OCR, an API for extracting text from documents, aimed at hard layouts such as tables, equations and non-Latin scripts. It returns Markdown that keeps images and figures alongside the text. Mistral's own benchmark claims were relayed by the press as beating Azure, Google and OpenAI GPT-4o on OCR, but those numbers have not been independently checked.
+Mistral AI launched Mistral OCR, an API for extracting text from documents with complex layouts, tables and equations. It returns Markdown that keeps document structure and includes images and figures where they appear. Mistral's benchmark claims, which press coverage reported as beating Azure, Google and OpenAI GPT-4o on OCR, are its own and have not been independently checked.
 
 ## Sources
 - https://www.turing.com/blog/exploring-mistral-ocr

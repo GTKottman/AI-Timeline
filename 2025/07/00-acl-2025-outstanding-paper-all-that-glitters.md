@@ -9,4 +9,5 @@ The Association for Computational Linguistics awarded an Outstanding Paper at AC
 Exact award day not confirmed from the sources; the full main-track list was not confirmed.
 
 ## Sources
+- https://aclanthology.org/2025.acl-long.1249
 - https://cds.iisc.ac.in/tarun-gupta-and-danish-pruthi-awarded-outstanding-paper-award-at-acl-2025/

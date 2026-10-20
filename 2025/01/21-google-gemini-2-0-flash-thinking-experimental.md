@@ -4,9 +4,10 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google released Gemini 2.0 Flash Thinking Experimental, a reasoning model that breaks a query into steps and shows its thinking. Epoch AI and Vals AI both list January 21, 2025 as the release date. A Japanese source says it was first announced in December 2024, and a February 2025 report says the Gemini app began offering it. It could also work with YouTube, Search and Maps.
+Google released Gemini 2.0 Flash Thinking Experimental 01-21, an update to the December 2024 Flash Thinking model that shows its reasoning steps. According to 9to5Google, it raised the input context window to 1 million tokens (from 32K), added native code execution, allowed longer outputs and reduced contradictions between its reasoning and final answer. It was offered in Google AI Studio and the Gemini API as an experimental model. Epoch AI and Vals AI both list January 21, 2025 as the release date.
 
 ## Sources
+- https://9to5google.com/?p=658078
 - https://epoch.ai/models/gemini-2-0-flash-thinking-exp-01-21
 - https://www.vals.ai/models/google_gemini-2.0-flash-thinking-exp-01-21
-- https://mezha.media/en/2025/02/06/google-launches-new-versions-of-gemini-including-a-thinking-model
+- https://www.ithome.com.tw/news/167131

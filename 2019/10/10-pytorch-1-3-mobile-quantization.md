@@ -4,7 +4,7 @@
 - **Who:** Facebook AI / PyTorch team
 - **Type:** software
 
-PyTorch 1.3, announced at the PyTorch Developer Conference, introduced experimental PyTorch Mobile for deploying models on iOS and Android. It also added experimental 8-bit model quantization, named tensors, and Google Cloud TPU support. It pushed PyTorch from research into on-device deployment.
+PyTorch 1.3, released October 10, 2019, introduced experimental PyTorch Mobile for deploying models on iOS and Android. It also added experimental 8-bit model quantization, named tensors, and Google Cloud TPU support. It pushed PyTorch from research into on-device deployment.
 
 ## Sources
 - https://ai.meta.com/blog/pytorch-13-adds-mobile-privacy-quantization-and-named-tensors/

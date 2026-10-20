@@ -1,10 +1,10 @@
-# Scaling Laws for Neural Language Models
+# OpenAI publishes "Scaling Laws for Neural Language Models"
 
 - **Date:** 2020-01-23
 - **Who:** OpenAI (Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, Dario Amodei)
-- **Type:** paper
+- **Type:** research
 
-The arXiv paper "Scaling Laws for Neural Language Models" found that language-model test loss follows power-law trends in model size, dataset size and training compute, across more than seven orders of magnitude. Network width and depth mattered little within a broad range. Its compute-allocation result suggested training very large models on a modest amount of data and stopping well before convergence. It gave the field a quantitative basis for scaling up language models.
+The paper reported that language-model cross-entropy loss follows power-law trends with model size, dataset size and training compute, and some trends span more than seven orders of magnitude. Architecture details such as width or depth had minimal effect within a wide range. It also found that larger models are substantially more sample-efficient, so compute-efficient training favors very large models stopped well before convergence.
 
 ## Sources
 - https://arxiv.org/abs/2001.08361

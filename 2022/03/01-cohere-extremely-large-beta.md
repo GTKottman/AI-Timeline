@@ -4,7 +4,7 @@
 - **Who:** Cohere
 - **Type:** model
 
-Cohere released its Extremely Large (beta) model, its largest language model at the time, under the identifier xlarge-20220301. Cohere's changelog says it beat the previous large model on sentiment analysis, named entity recognition and common-sense reasoning on Cohere's internal benchmarks. The beta was capped at 1024 tokens and one generation per call. It was part of a wider 2022 push to sell large language models through an API to enterprises.
+Cohere released its Extremely Large (beta) model, its largest language model at the time, under the identifier xlarge-20220301. Cohere's changelog says it beat the previous large model on sentiment analysis, named entity recognition and common-sense reasoning on Cohere's internal benchmarks. The beta was capped at 1024 tokens and one generation per call. A third-party summary says it launched alongside the North platform and Compass search system.
 
 ## Sources
 - https://docs.cohere.com/changelog/extremely-large-beta-release

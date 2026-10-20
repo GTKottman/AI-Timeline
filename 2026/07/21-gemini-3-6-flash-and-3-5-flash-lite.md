@@ -4,8 +4,7 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google released Gemini 3.6 Flash, which improved coding and multimodal processing with better token efficiency, and Gemini 3.5 Flash-Lite for high-volume agentic work. Both shipped on the same day.
+Google released Gemini 3.6 Flash, which uses fewer tokens than Gemini 3.5 Flash, and Gemini 3.5 Flash-Lite for high-volume, low-latency work. Both support a 1M-token context window and up to 64,000 output tokens. Pricing is $1.50 and $7.50 per million tokens for 3.6 Flash, and $0.30 and $2.50 per million tokens for 3.5 Flash-Lite.
 
 ## Sources
-- https://deepmind.google/models/model-cards/gemini-3-6-flash/
-- https://deepmind.google/models/model-cards/gemini-3-5-flash-lite/
+- https://ai.google.dev/gemini-api/docs/whats-new-gemini-3.6?hl=zh-tw

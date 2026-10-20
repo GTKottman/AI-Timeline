@@ -1,10 +1,10 @@
-# Alibaba releases Qwen3.7-Plus with text, video and image input
+# Alibaba releases Qwen3.7-Plus
 
 - **Date:** 2026-06-02
 - **Who:** Alibaba Qwen team
 - **Type:** model
 
-Alibaba released Qwen3.7-Plus, a proprietary model that accepts text, video and image input at low cost per token. It targeted multimodal developer workloads.
+Alibaba released Qwen3.7-Plus, a proprietary model with a context window of about 1M tokens. It accepts text, image and video input and produces text output, and is sold through Alibaba Cloud Model Studio.
 
 ## Sources
-- https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary
+- https://cloudprice.net/models/qwen3.7-plus

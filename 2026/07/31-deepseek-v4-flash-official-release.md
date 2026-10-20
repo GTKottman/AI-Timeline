@@ -4,7 +4,7 @@
 - **Who:** DeepSeek
 - **Type:** model
 
-DeepSeek officially released V4-Flash after its April preview. Reuters reported a research firm found it the cheapest well-known model to run.
+DeepSeek officially released V4-Flash after its April 2026 preview. Artificial Analysis found it the least expensive well-known model to run on benchmark tests, at about three cents per test.
 
 ## Sources
-- https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03/
+- https://www.khaleejtimes.com/business/tech/deepseeks-new-ai-model-is-the-cheapest-of-well-known-models-to-run-research-firm-says

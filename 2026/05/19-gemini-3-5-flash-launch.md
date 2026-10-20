@@ -4,7 +4,7 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google launched Gemini 3.5 Flash, built on Gemini 3 Flash, and framed it as the company's bet on agents rather than chatbots. It was a step up in the Gemini generation cadence.
+Google introduced Gemini 3.5 Flash at Google I/O, describing it as its strongest model yet for coding and autonomous AI agents. It became the default model in the Gemini app and AI Mode in Search worldwide, and was available through Antigravity, the Gemini API and Gemini Enterprise.
 
 ## Sources
 - https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/

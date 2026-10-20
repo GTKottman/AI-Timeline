@@ -4,7 +4,7 @@
 - **Who:** Alibaba Qwen team
 - **Type:** model
 
-Alibaba released Qwen3.8-Max as a cloud model, a sparse mixture-of-experts with up to one million tokens of context, after a July preview. It was the flagship of the Qwen3.8 generation.
+Alibaba released Qwen3.8-Max, a multimodal mixture-of-experts model with 2.4 trillion total and about 95 billion active parameters and a context window of up to 1 million tokens. It is available through Alibaba Cloud Model Studio.
 
 ## Sources
-- https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model
+- https://www.alibabagroup.com/document-2021044032125272064

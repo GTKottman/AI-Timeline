@@ -4,8 +4,7 @@
 - **Who:** Alibaba Qwen team
 - **Type:** model
 
-Alibaba released the open weights of Qwen3.8-Max as Qwen3.8-2.4T-A95B, with a licence requiring a commercial agreement for providers above $50 million annual revenue. It was one of the largest open-weight releases on record.
+Alibaba published the open weights of Qwen3.8-Max as Qwen3.8-2.4T-A95B, with about 2.4 trillion total and 95 billion active parameters. The weights carry the custom Qwen3.8-Max license, not Apache 2.0. Large organisations offering commercial AI services above $50 million annual revenue need a separate commercial agreement.
 
 ## Sources
 - https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B
-- https://gigazine.net/gsc_news/en/20260813-alibaba-qwen-3-8-open/

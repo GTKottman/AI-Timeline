@@ -2,9 +2,9 @@
 
 - **Date:** 2026-08-26
 - **Who:** Anthropic; Nscale
-- **Type:** funding
+- **Type:** other
 
-Anthropic and Nscale reportedly agreed a cloud computing deal worth about $45 billion, according to CNBC's sources. It was one of the largest compute contracts reported in 2026.
+CNBC, citing people with knowledge of the deal, reported that Anthropic will rent about $45 billion of cloud capacity from Nscale over six years. The deal covers about 460 MW at Nscale's Monarch Compute Campus in West Virginia, to run Nvidia's next-generation chips. Neither company confirmed the deal.
 
 ## Sources
-- https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html
+- https://www.itpro.com/infrastructure/reports-anthropic-signs-usd45bn-cloud-computing-deal-with-nscale

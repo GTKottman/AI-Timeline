@@ -1,10 +1,10 @@
-# Anthropic confidentially files for IPO
+# Anthropic confidentially submits draft S-1 to SEC
 
 - **Date:** 2026-06-01
 - **Who:** Anthropic
 - **Type:** funding
 
-Anthropic confidentially filed IPO papers with the SEC, according to reports. It was a step toward public markets for a frontier lab, alongside rival OpenAI's plans.
+Anthropic announced that it had confidentially submitted a draft S-1 registration statement to the US Securities and Exchange Commission, which gives it the option to pursue an initial public offering. The offering size, price and timeline were not disclosed.
 
 ## Sources
-- https://www.axios.com/2026/06/01/anthropic-ipo-openai
+- https://pulse2.com/anthropic-files-for-ipo-as-ai-giant-nears-1-trillion-valuation/

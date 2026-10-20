@@ -1,11 +1,10 @@
-# Alibaba releases Qwen3.5 with desktop and mobile agent abilities
+# Alibaba releases Qwen3.5-397B-A17B open-weight model
 
 - **Date:** 2026-02-16
 - **Who:** Alibaba Qwen team
 - **Type:** model
 
-Alibaba released Qwen3.5 as an open-weights model that Alibaba said can operate desktop and mobile applications, alongside a proprietary Qwen3.5-Plus. It was a notable step toward open agentic computer-use models from China.
+Alibaba released Qwen3.5-397B-A17B, an open-weight model with 397B total and 17B active parameters, under the Apache 2.0 license. Alibaba also offered Qwen3.5-Plus, a hosted version of the model with built-in tools.
 
 ## Sources
-- https://www.cnbc.com/2026/02/17/china-alibaba-qwen-ai-agent-latest-model.html
-- https://qwen.ai/blog?id=qwen3.5
+- https://artificialanalysis.ai/de/models/releases/qwen3-5-397b-a17b

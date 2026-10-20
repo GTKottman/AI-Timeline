@@ -4,8 +4,7 @@
 - **Who:** Alibaba Qwen team
 - **Type:** model
 
-Alibaba launched Qwen3.8-Flash, a proprietary model with lower training costs, and open-weights Qwen3.8-Flash-Next, a multimodal mixture-of-experts model under the Qwen Community licence.
+Alibaba launched Qwen3.8-Flash, a multimodal model that Alibaba said delivers stronger coding and office-task performance at lower training cost. Alibaba released open weights for Qwen3.8-Flash-Next, which it described as a prototype of its next-generation Qwen4 architecture.
 
 ## Sources
-- https://www.reuters.com/business/retail-consumer/alibabas-qwen-launches-qwen38-flash-ai-model-with-lower-training-costs-2026-08-26/
-- https://huggingface.co/Qwen/Qwen3.8-Flash-Next/blob/34567a4712bc9766c4449e2e98e4468bfa24d915/LICENSE
+- https://www.thestandard.com.hk/innovation/article/341061/Alibabas-Qwen-launches-Qwen38-Flash-AI-model-with-lower-training-costs

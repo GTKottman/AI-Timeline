@@ -1,10 +1,10 @@
-# Florida sues OpenAI and Sam Altman over safety lapses
+# Florida sues OpenAI and Sam Altman
 
 - **Date:** 2026-06-01
 - **Who:** State of Florida; OpenAI; Sam Altman
 - **Type:** policy
 
-Florida sued OpenAI, Sam Altman and ChatGPT over alleged safety lapses, in what was reported as the first such suit by a US state. It raised product-liability questions for general-purpose chatbots.
+Florida sued OpenAI and CEO Sam Altman, alleging negligence and violations of Florida's prohibition on unfair and deceptive practices. The state says ChatGPT contributed to deadly violence and suicides and that the company concealed known dangers. It is the first US state to sue OpenAI, and it seeks to hold Altman personally liable.
 
 ## Sources
-- https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt
+- https://www.shopifreaks.com/florida-sues-openai-and-ceo-sam-altman-becoming-first-u-s-state-to-allege-chatgpt-is-dangerous-and-exploits-its-users/

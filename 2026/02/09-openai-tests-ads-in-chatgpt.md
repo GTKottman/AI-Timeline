@@ -4,7 +4,7 @@
 - **Who:** OpenAI
 - **Type:** product
 
-OpenAI started testing advertising inside ChatGPT for US users. It marked a shift in OpenAI's business model away from subscriptions alone and set the terms of the ad-versus-free debate across assistants.
+OpenAI started testing ads in ChatGPT for logged-in US users on the Free and Go tiers. Users on higher-tier paid plans do not see ads. Ads appear as labeled placements below responses.
 
 ## Sources
 - https://www.euronews.com/next/2026/02/10/chatgpt-will-now-show-you-adverts-heres-everything-you-need-to-know

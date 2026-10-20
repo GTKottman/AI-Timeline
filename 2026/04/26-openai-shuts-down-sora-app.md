@@ -4,7 +4,7 @@
 - **Who:** OpenAI
 - **Type:** product
 
-OpenAI discontinued the Sora video app, and later ended developer access to the Sora API in September. It was a rare shutdown of a flagship generative product.
+OpenAI shut down the Sora web and app experience on April 26, 2026, after announcing the discontinuation in March. The developer Sora API was scheduled to end on September 24, 2026.
 
 ## Sources
-- https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation
+- https://the-decoder.com/openai-sets-two-stage-sora-shutdown-with-app-closing-april-2026-and-api-following-in-september/

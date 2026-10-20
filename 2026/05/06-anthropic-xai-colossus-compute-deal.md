@@ -1,10 +1,10 @@
-# Anthropic agrees to use xAI's Colossus 1 data center
+# Anthropic to use xAI's Colossus 1 data center for compute
 
 - **Date:** 2026-05-06
 - **Who:** Anthropic; xAI (SpaceX)
-- **Type:** funding
+- **Type:** other
 
-Anthropic announced a deal to use xAI's Colossus 1 data center for compute. It was an unusual compute-sharing arrangement between two rival frontier labs, driven by the scramble for training and inference capacity.
+xAI announced that Anthropic will get access to Colossus 1, its Memphis supercomputer with over 220,000 NVIDIA GPUs. Anthropic plans to use the capacity to improve limits for Claude Pro and Claude Max subscribers. The announcement gave no price.
 
 ## Sources
-- https://www.nbcnews.com/tech/tech-news/anthropic-spacex-partnership-compute-power-rcna343902
+- https://x.ai/news/anthropic-compute-partnership

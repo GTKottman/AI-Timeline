@@ -4,7 +4,7 @@
 - **Who:** Anthropic
 - **Type:** product
 
-Anthropic launched Claude Science, which MIT Technology Review described as the company's newest flagship product for scientific work. It extended Claude into research workflows.
+Anthropic launched Claude Science, software that helps scientists automate research by combining more than 60 scientific databases and common research tools. The early focus is biology and chemistry tasks such as protein structure prediction. Anthropic said it would roll it out on June 30, 2026.
 
 ## Sources
-- https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/
+- https://news.bgov.com/artificial-intelligence/anthropic-releases-claude-science-for-automating-research

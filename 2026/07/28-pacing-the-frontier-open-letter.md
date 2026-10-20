@@ -1,10 +1,10 @@
-# Over 1,100 AI staff sign Pacing the Frontier open letter
+# AI industry employees publish "Pacing the Frontier" open letter
 
 - **Date:** 2026-07-28
 - **Who:** AI-industry employees; US policymakers
 - **Type:** policy
 
-An open letter signed by more than 1,100 AI-industry staff asked the US to back a global effort to pace automated AI development. It was a rare organised call from inside labs for coordinated limits on frontier progress.
+An open letter titled "Pacing the Frontier," signed by more than 1,100 employees of leading AI companies, asks the US government to support an international effort to develop technical and governance tools for deliberately pacing advanced AI development. The letter does not call for an immediate pause.
 
 ## Sources
-- https://www.reuters.com/legal/litigation/tech-employees-call-us-backed-global-effort-manage-risks-advanced-ai-2026-07-28/
+- https://www.trendingtopics.eu/1100-employees-at-openai-anthropic-meta-and-google-call-for-ai-slowdown/

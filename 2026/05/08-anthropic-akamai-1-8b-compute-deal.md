@@ -1,10 +1,10 @@
-# Anthropic signs $1.8 billion cloud computing deal with Akamai
+# Akamai signs $1.8 billion inference cloud deal with Anthropic
 
 - **Date:** 2026-05-08
-- **Who:** Anthropic; Akamai
-- **Type:** funding
+- **Who:** Akamai; Anthropic (per industry reports)
+- **Type:** other
 
-Anthropic signed a $1.8 billion cloud computing deal with Akamai to add inference capacity. It continued the wave of multi-billion compute contracts that labs signed in 2026.
+Akamai announced a seven-year, $1.8 billion cloud computing deal focused on inference. Akamai did not name the customer, described as a leading US frontier model provider. Industry sources identified it as Anthropic.
 
 ## Sources
-- https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai
+- https://techstrong.ai/articles/anthropic-akamai-ink-1-8-billion-ai-computing-deal/

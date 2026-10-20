@@ -1,10 +1,10 @@
 # Baltimore sues xAI over Grok sexualised images
 
 - **Date:** 2026-03-24
-- **Who:** City of Baltimore; xAI
+- **Who:** City of Baltimore; xAI; X Corp.; SpaceX
 - **Type:** policy
 
-The city of Baltimore sued xAI, alleging Grok generated sexualised images of people without consent. It was one of the first municipal lawsuits over generative image abuse by a major AI product.
+The Mayor and City Council of Baltimore sued X Corp., xAI and SpaceX under local consumer protection law. The city alleges Grok can produce non-consensual sexualised images, including of minors, and that the companies marketed it while publicly claiming such content was prohibited. The city seeks civil penalties, injunctive relief, restitution and disgorgement of profits.
 
 ## Sources
-- https://www.theguardian.com/technology/2026/mar/24/elon-musk-grok-ai-lawsuit-baltimore
+- https://decrypt.co/362265/baltimore-sues-x-xai-grok-deepfakes

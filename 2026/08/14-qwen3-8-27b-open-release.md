@@ -4,8 +4,7 @@
 - **Who:** Alibaba Qwen team
 - **Type:** model
 
-Alibaba released Qwen3.8-27B, a distilled open-weights model under Apache 2.0 with image input and a non-thinking mode.
+Alibaba released Qwen3.8-27B as open weights under the Apache 2.0 license. The published checkpoint has about 27.78B parameters including its vision encoder, and accepts text, images and video as input and returns text.
 
 ## Sources
-- https://www.ithome.com/0/989/953.htm
-- https://huggingface.co/Qwen/Qwen3.8-27B/blob/e13a4f0e35203116364e3b3f3f0c82f6ef1afd3c/LICENSE
+- https://datanorth.ai/news/alibaba-releases-qwen3-8-27b

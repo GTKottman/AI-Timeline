@@ -1,6 +1,6 @@
 # Google DeepMind releases Veo 3.1 and Veo 3.1 Fast
 
-- **Date:** 2025-11-17
+- **Date:** 2025-10-15
 - **Who:** Google DeepMind
 - **Type:** model
 

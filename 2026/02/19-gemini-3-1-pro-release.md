@@ -4,7 +4,7 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google DeepMind released Gemini 3.1 Pro, built on Gemini 3 Pro for reasoning over large datasets and mixed inputs including text, audio, image, video and codebases. It was the first point release of the Gemini 3 line.
+Google DeepMind released Gemini 3.1 Pro, based on Gemini 3 Pro. It was the first .1 point release in the Gemini line, and Google launched it in preview.
 
 ## Sources
 - https://deepmind.google/models/model-cards/gemini-3-1-pro/

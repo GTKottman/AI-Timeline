@@ -4,7 +4,8 @@
 - **Who:** Anthropic
 - **Type:** funding
 
-Anthropic closed a $30 billion Series G round at a $380 billion post-money valuation. The round funded large compute purchases for training and serving Claude and set a new benchmark for frontier-lab valuations.
+Anthropic raised $30 billion in Series G funding led by GIC and Coatue at a $380 billion post-money valuation. Anthropic said the money would go to frontier research, product development and infrastructure.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Anthropic
+- https://www.orrick.com/News/2026/02/Anthropic-Raises-30B-Series-G-at-380B-Post-Money-Valuation
+- https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation

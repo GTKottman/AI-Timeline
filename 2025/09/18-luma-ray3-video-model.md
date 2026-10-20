@@ -1,6 +1,6 @@
 # Luma AI releases Ray3 video model
 
-- **Date:** 2025-11-12
+- **Date:** 2025-09-18
 - **Who:** Luma AI
 - **Type:** model
 

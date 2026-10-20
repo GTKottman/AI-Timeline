@@ -4,7 +4,7 @@
 - **Who:** Meta Superintelligence Labs
 - **Type:** model
 
-Meta released Muse Glimmer, a 30B-parameter open-weights model under Apache 2.0, marketed as running on a personal computer. It marked Meta's return to open weights within its Muse line.
+Meta released Muse Glimmer, a 30B-parameter open-weights model under Apache 2.0, described as its first open-weights release since Llama 4. It scores 35 on the Artificial Analysis Intelligence Index.
 
 ## Sources
-- https://www.fortuneindia.com/technology/meta-launches-muse-glimmer-a-30b-open-weight-ai-model-designed-to-run-locally/153062
+- https://artificialanalysis.ai/ja/articles/muse-glimmer

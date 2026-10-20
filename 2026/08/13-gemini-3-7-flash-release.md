@@ -4,7 +4,7 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google released Gemini 3.7 Flash, built on Gemini 3.6 Flash with an improved reasoning core.
+Google released Gemini 3.7 Flash, which it called its most intelligent workhorse model yet for coding and agents. It follows Gemini 3.6 Flash by about three weeks.
 
 ## Sources
-- https://deepmind.google/models/model-cards/gemini-3-7-flash/
+- https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/

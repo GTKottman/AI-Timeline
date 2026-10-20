@@ -4,7 +4,7 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google released Gemini 3.1 Flash Image, marketed as Nano Banana 2, built on Gemini 3 Flash to generate images and text in one model. It brought Nano Banana-style editing to a faster, cheaper tier.
+Google published Gemini 3.1 Flash Image, marketed as Nano Banana 2, in preview. The model is based on Gemini 3 Flash and generates images and text in one model.
 
 ## Sources
 - https://deepmind.google/models/model-cards/gemini-3-1-flash-image/

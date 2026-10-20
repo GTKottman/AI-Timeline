@@ -4,8 +4,7 @@
 - **Who:** Meta Superintelligence Labs
 - **Type:** model
 
-Meta Superintelligence Labs released Muse Spark, the first model in its Muse family, which now powers the Meta AI assistant. It was the first major model from the lab formed in 2025 under Alexandr Wang.
+Meta Superintelligence Labs launched Muse Spark, the first flagship model from the lab and the first in the Muse family. It is closed-source, with no open weights, and is offered through a private-preview API to select partners. It powers Meta AI. It takes text and image input and has reasoning and sub-agent capabilities.
 
 ## Sources
-- https://www.axios.com/2026/04/08/meta-muse-alexandr-wang
-- https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout
+- https://letsdatascience.com/news/meta-releases-muse-spark-to-reenter-ai-race-273982bf

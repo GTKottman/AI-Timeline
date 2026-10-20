@@ -4,7 +4,7 @@
 - **Who:** Anthropic
 - **Type:** model
 
-Anthropic released Claude Fable 5.1, a public Mythos-tier model that it said costs about 25% less than Fable 5 on typical token-billed workloads, and Mythos 5.1 with limited availability.
+Anthropic released Claude Fable 5.1 and Mythos 5.1. Fable 5.1 is available to API users, and Mythos 5.1 is accessible only to participants in partner programs. Mythos 5.1 is the same underlying model without the cybersecurity and biology safeguards.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Claude_(language_model)
+- https://forklog.com/en/news/anthropic-launches-claude-fable-5-1-and-claude-mythos-5-1

@@ -4,7 +4,7 @@
 - **Who:** Anthropic
 - **Type:** funding
 
-The Wall Street Journal reported that Anthropic had moved its planned IPO to November 2026. The timing was reported as following its confidential filing in June.
+The Wall Street Journal reported that Anthropic plans to launch its initial public offering in November 2026, rather than October. Anthropic had confidentially submitted a draft S-1 to the SEC in June.
 
 ## Sources
-- https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc
+- https://cryptobriefing.com/anthropic-plans-november-ipo-amid-tech-firm-public-offering-trend-wsj/

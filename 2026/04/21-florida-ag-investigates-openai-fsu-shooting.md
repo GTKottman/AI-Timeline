@@ -1,10 +1,10 @@
 # Florida Attorney General opens criminal investigation into OpenAI
 
 - **Date:** 2026-04-21
-- **Who:** Florida Attorney General; OpenAI
+- **Who:** Florida Attorney General James Uthmeier; OpenAI
 - **Type:** policy
 
-Florida's Attorney General opened a criminal investigation into OpenAI over ChatGPT's alleged role in a 2025 Florida State University shooting. It was an early state criminal probe of a chatbot maker.
+Florida Attorney General James Uthmeier announced a criminal investigation into OpenAI and ChatGPT over whether they bear criminal responsibility for the April 2025 Florida State University shooting. The accused gunman allegedly consulted ChatGPT before the attack. The office is subpoenaing OpenAI for its policies on user threats and how it reports crimes to police, back to March 2024.
 
 ## Sources
-- https://www.npr.org/2026/04/21/nx-s1-5793967/florida-openai-investigation-mass-shooting-fsu
+- https://www.kaxe.org/news/2026-04-21/florida-ag-launches-criminal-investigation-into-chatgpt-over-fsu-shooting

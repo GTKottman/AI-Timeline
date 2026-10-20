@@ -4,8 +4,7 @@
 - **Who:** DeepSeek
 - **Type:** model
 
-DeepSeek released a preview of V4-Flash (284B) and V4-Pro (1.6T), both with one-million-token context and MIT licences. MIT Technology Review called it a key open-weight release, setting a new scale for open models.
+DeepSeek released preview versions of V4-Flash (284B total, 13B active) and V4-Pro (1.6T total, 49B active). Both are mixture-of-experts models with a 1M-token context window and are released under the MIT license.
 
 ## Sources
-- https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/
-- https://www.the-independent.com/tech/deepseek-v4-pro-ai-model-china-release-b2964052.html
+- https://simonwillison.net/2026/apr/24/deepseek-v4

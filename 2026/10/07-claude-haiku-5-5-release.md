@@ -4,7 +4,7 @@
 - **Who:** Anthropic
 - **Type:** model
 
-Anthropic released Claude Haiku 5.5, the smallest and least expensive model in the Claude 5.5 series.
+Anthropic released Claude Haiku 5.5, the fastest model in its Claude 5.5 family for high-volume, cost-sensitive work such as summarization, database queries and classification. Anthropic said it costs about 75% less to run than its predecessor, Haiku 4.5.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Claude_(language_model)
+- https://letsdatascience.com/news/anthropic-releases-claude-haiku-55-for-high-volume-tasks-1c6260b4

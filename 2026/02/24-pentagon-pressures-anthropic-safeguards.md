@@ -4,7 +4,7 @@
 - **Who:** US Department of Defense (Hegseth); Anthropic
 - **Type:** policy
 
-Defense Secretary Pete Hegseth demanded unrestricted military use of Claude and threatened to cut Anthropic from the defence supply chain. Anthropic refused to drop its safeguards, and the standoff escalated over the following days into federal restrictions.
+Defense Secretary Pete Hegseth gave Anthropic until 5:01 p.m. on Friday to give the Pentagon unrestricted access to its AI technology or be blacklisted from the military supply chain. Hegseth threatened to label Anthropic a supply-chain risk and to invoke the Defense Production Act. Anthropic did not drop its safeguards.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Anthropic
+- https://fortune.com/2026/02/25/defense-secretary-pete-hegseth-meets-anthropic-ceo-dario-amodei-woke-ai/

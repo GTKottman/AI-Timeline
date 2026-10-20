@@ -4,7 +4,7 @@
 - **Who:** NVIDIA; CoreWeave
 - **Type:** hardware
 
-NVIDIA's blog reported deployment of Vera Rubin systems with CoreWeave for agentic AI workloads, the first public Rubin deployments of the autumn.
+NVIDIA's blog reported that CoreWeave made NVIDIA Vera Rubin NVL72 systems with Spectrum-X 102.4T Ethernet available, and that a production Vera Rubin cluster was running for Cognition within days of the first racks arriving.
 
 ## Sources
 - https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/

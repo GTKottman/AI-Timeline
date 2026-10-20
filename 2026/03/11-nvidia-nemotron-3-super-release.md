@@ -4,8 +4,7 @@
 - **Who:** NVIDIA
 - **Type:** model
 
-NVIDIA released Nemotron 3 Super, a 120B-total-parameter open hybrid Mamba-Transformer mixture-of-experts model aimed at agentic reasoning. It was a larger step in NVIDIA's open-model line that followed Nemotron 3 Nano.
+NVIDIA released Nemotron 3 Super, a 120B-total-parameter open model with about 12B active parameters per token. It uses a hybrid Mamba-Transformer backbone with mixture-of-experts layers and was pretrained natively in NVFP4. It is the larger follow-on to Nemotron 3 Nano.
 
 ## Sources
 - https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/
-- https://en.wikipedia.org/wiki/Nemotron

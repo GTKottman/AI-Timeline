@@ -4,7 +4,7 @@
 - **Who:** US Department of Defense; Anthropic
 - **Type:** policy
 
-The Pentagon formally designated Anthropic a supply chain risk, and Anthropic said it would challenge the decision in court. It was the first time a US frontier AI lab was labelled this way, and it set up a legal fight over military use terms.
+The Pentagon publicly confirmed on March 5, 2026 that it had "officially informed Anthropic leadership the company and its products are deemed a supply chain risk, effective immediately." Formal notice was dated March 3, according to legal analysis. Anthropic filed lawsuits to challenge the designation.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Anthropic
+- https://www.adn.com/nation-world/2026/03/05/pentagon-is-labeling-ai-company-anthropic-a-supply-chain-risk-effective-immediately/

@@ -4,8 +4,7 @@
 - **Who:** Character.AI; Google
 - **Type:** other
 
-Character.AI and Google agreed to settle lawsuits that accused chatbots of harming minors, including cases tied to teen suicides. It was an early legal resolution of chatbot-harm claims that shaped how companion-chatbot products were built and governed.
+Google and Character.AI reached a settlement in principle with families whose children died by suicide or were harmed after using Character.AI chatbots. Court filings were reported on January 7 and 8, 2026. Specific terms were not disclosed, and the filings contain no admission of liability.
 
 ## Sources
-- https://www.theguardian.com/technology/2026/jan/08/google-character-ai-settlement-teen-suicide
-- https://en.wikipedia.org/wiki/2026_in_artificial_intelligence
+- https://fortune.com/2026/01/08/google-character-ai-settle-lawsuits-teenage-child-suicides-chatbots

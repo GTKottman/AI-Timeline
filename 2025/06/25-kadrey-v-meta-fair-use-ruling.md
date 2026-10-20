@@ -1,7 +1,7 @@
 # Judge Chhabria grants Meta fair use in Kadrey v. Meta
 
 - **Date:** 2025-06-25
-- **Who:** Judge Vince Chhabria (N.D. Cal.); Meta; authors led by Sarah Silverman and Richard Kadrey
+- **Who:** Judge Vince Chhabria (N.D. Cal.); Meta; plaintiff authors
 - **Type:** policy
 
 The court granted Meta partial summary judgment, holding that training Llama on the books was transformative fair use. The plaintiffs had not shown market harm, and the DMCA claim also failed. The judge warned the ruling was narrow and that stronger evidence of market dilution could win in other cases, and the piracy download question was left open. It mattered as the second major US fair-use ruling on AI training, after Bartz v. Anthropic.

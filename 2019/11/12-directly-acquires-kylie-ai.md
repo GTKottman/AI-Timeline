@@ -4,7 +4,8 @@
 - **Who:** Directly (acquirer); Kylie.ai (acquired conversational AI startup)
 - **Type:** acquisition
 
-Directly acquired Kylie.ai, a conversational AI company that builds chatbots for businesses, on November 12, 2019, according to a privsource.com list of AI and machine learning acquisitions in 2019. Deals like this were part of a record year for AI startup acquisitions, with the list recording 231 AI startups bought in 2019. The deal shows consolidation of small chatbot vendors into larger customer-service platforms. Terms were not seen in the source.
+Directly announced on November 12, 2019 that it had acquired Kylie.ai, a conversational AI company that builds chatbots for businesses. Kylie.ai's refund, return, cancellation and order-tracking technology and team were brought into Directly's support automation platform. Co-founders Jamasen Rodriguez and Sinan Ozdemir took business development and data science roles at Directly. Financial terms were not disclosed.
 
 ## Sources
-- https://www.privsource.com/acquisitions/ai-machine-learning/2019
+- https://www.globenewswire.com/news-release/2019/11/12/1945295/0/en/Directly-announces-acquisition-of-AI-start-up-Kylie-ai.html
+- https://siliconangle.com/?p=496668

@@ -4,7 +4,7 @@
 - **Who:** PyTorch community (Facebook AI)
 - **Type:** software
 
-PyTorch 1.4 added fine-grained build customization for PyTorch Mobile, with a customized MobileNetV2 reported 40-50% smaller than the prebuilt mobile library. It also brought an experimental RPC-based framework for model-parallel distributed training and Java bindings for running TorchScript models. The release was the last to support Python 2, and the C++ API dropped C++11 support afterward. Domain libraries were updated in the same release.
+PyTorch 1.4 added fine-grained build customization for PyTorch Mobile, with a customized MobileNetV2 reported 40-50% smaller than the prebuilt mobile library. It also brought an experimental RPC-based framework for model-parallel distributed training and Java bindings for running TorchScript models. The release was the last to support Python 2. Domain libraries were updated in the same release.
 
 ## Sources
 - https://pytorch.org/blog/pytorch-1-dot-4-released-and-domain-libraries-updated/

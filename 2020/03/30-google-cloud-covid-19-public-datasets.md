@@ -1,6 +1,6 @@
 # Google Cloud opens COVID-19 public datasets with BigQuery ML for researchers
 
-- **Date:** 2020-03-31
+- **Date:** 2020-03-30
 - **Who:** Google Cloud (COVID-19 Public Dataset Program)
 - **Type:** dataset
 

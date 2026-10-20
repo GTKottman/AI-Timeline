@@ -8,4 +8,5 @@ The ACLU and ACLU of Illinois, with four other nonprofits, filed suit in Cook Co
 
 ## Sources
 - https://aclu.org/press-releases/aclu-sues-clearview-ai
+- https://aclu.org/cases/aclu-v-clearview-ai
 - https://www.medianama.com/2020/05/223-aclu-lawsuit-clearview/

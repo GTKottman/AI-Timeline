@@ -1,10 +1,10 @@
-# EleutherAI releases GPT-NeoX-20B
+# EleutherAI publishes the GPT-NeoX-20B paper
 
 - **Date:** 2022-04-14
 - **Who:** EleutherAI
-- **Type:** model
+- **Type:** paper
 
-EleutherAI published GPT-NeoX-20B, a 20-billion-parameter autoregressive language model with open weights and open code. It gave academic and independent researchers a large GPT-3-class model they could study and fine-tune without API access.
+EleutherAI posted "GPT-NeoX-20B: An Open-Source Autoregressive Language Model" on arXiv, the technical report for the 20-billion-parameter model whose weights it had released in February 2022. The paper describes the model's architecture, training setup and evaluations, giving researchers a documented, openly licensed GPT-3-class model to study.
 
 ## Sources
 - https://arxiv.org/abs/2204.06745

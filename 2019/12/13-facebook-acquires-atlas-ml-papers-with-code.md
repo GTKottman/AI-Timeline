@@ -4,7 +4,7 @@
 - **Who:** Facebook AI; Deeptide Ltd. (Atlas ML, Papers with Code, sotabench); co-founders Robert Stojnic and Ross Taylor
 - **Type:** acquisition
 
-Facebook became majority owner of Deeptide, the UK company behind Papers with Code and the sotabench benchmarking tool, on December 13, 2019. The deal was not announced at the time: Stojnic posted on Medium that Papers with Code was joining Facebook AI, and the terms were not disclosed. TechCrunch reported the deal in February 2020 from a regulatory filing, with a price it said was roughly $40 million. Papers with Code became a widely used tracker of ML papers, code and benchmark leaderboards.
+Facebook became majority owner of Deeptide, the UK company behind Papers with Code and the sotabench benchmarking tool, on December 13, 2019. Facebook did not announce the deal or its terms at the time. TechCrunch reported the deal in February 2020 from a regulatory filing, with a price it said was roughly $40 million. Papers with Code became a widely used tracker of ML papers, code and benchmark leaderboards.
 
 ## Sources
 - https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/

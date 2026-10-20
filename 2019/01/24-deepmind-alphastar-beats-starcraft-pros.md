@@ -8,3 +8,4 @@ AlphaStar beat professional StarCraft II players Dario "TLO" Wünsch and Grzegor
 
 ## Sources
 - https://www.engadget.com/2019/01/24/deepmind-ai-starcraft-ii-demonstration-tlo-mana/
+- https://deepmind.google/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/

@@ -8,4 +8,4 @@ Nvidia announced the Ampere architecture and the A100 data-center GPU during its
 
 ## Sources
 - https://www.hpcwire.com/aiwire/2020/05/14/nvidias-next-gen-ampere-gpu-2-5x-the-performance-20x-the-training/
-- https://spiria.com/en/blog/tech-news-brief/nvidia-dgx-a100
+- https://developer.nvidia.com/blog/nvidia-ampere-architecture-in-depth

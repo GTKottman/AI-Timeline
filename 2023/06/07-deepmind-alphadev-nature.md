@@ -4,7 +4,8 @@
 - **Who:** Google DeepMind
 - **Type:** paper
 
-DeepMind published a Nature paper on AlphaDev, a reinforcement-learning system built on AlphaZero that discovered faster computer sorting routines now used in the LLVM standard library. It showed RL finding real algorithmic improvements rather than only game strategies.
+DeepMind published a Nature paper on AlphaDev, a reinforcement-learning system built on AlphaZero that discovered faster sorting routines now used in the LLVM libc++ standard library. It showed RL finding real algorithmic improvements rather than only game strategies.
 
 ## Sources
-- https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms
+- https://deepmind.google/discover/blog/alphadev-discovers-faster-sorting-algorithms/
+- https://the-decoder.com/alphadev-could-become-alphafold-for-coding/

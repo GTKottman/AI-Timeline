@@ -4,7 +4,7 @@
 - **Who:** Midjourney
 - **Type:** model
 
-Midjourney released version 5.1, which added more of the model's own stylization, and a companion RAW model that follows literal prompts more closely. It showed the product shifting between artistic defaults and prompt fidelity.
+Midjourney released version 5.1, with improved accuracy and fewer unwanted borders and text artifacts. It added a RAW mode for expert users that reduces the model's built-in stylization and gives more literal prompt control.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Midjourney
+- https://opendatascience.com/?p=42646

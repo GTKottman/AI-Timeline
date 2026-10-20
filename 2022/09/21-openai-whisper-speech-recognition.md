@@ -7,5 +7,5 @@
 OpenAI released Whisper, an open-source speech recognition and translation model trained on 680,000 hours of labeled audio. It handled many languages and accents without fine-tuning, and it became one of the most widely used open speech models.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Whisper_(speech_recognition_system)
+- https://the-decoder.com/whisper-openai-releases-open-source-speech-recognition-model/
 - https://arxiv.org/abs/2212.04356

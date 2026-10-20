@@ -1,6 +1,6 @@
 # Facebook AI introduces BlenderBot 2 with long-term memory and web search
 
-- **Date:** 2020-07-30
+- **Date:** 2021-07-16
 - **Who:** Facebook AI Research (Meta AI)
 - **Type:** model
 

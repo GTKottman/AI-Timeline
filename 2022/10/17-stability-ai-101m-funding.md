@@ -7,4 +7,4 @@
 Stability AI, the company behind Stable Diffusion, announced a $101 million funding round led by Coatue and Lightspeed Venture Partners. The raise gave the open image-model company resources to build more models after the Stable Diffusion release.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Stability_AI
+- https://stability.ai/news/stability-ai-announces-101-million-in-funding-for-open-source-artificial-intelligence

@@ -4,7 +4,7 @@
 - **Who:** Midjourney
 - **Type:** model
 
-Midjourney launched version 5, the alpha of its next major image model after version 4, with a clear jump in photorealism. It made the hosted image generator a mainstream creative tool and set the bar for stylized output.
+Midjourney announced version 5 as an alpha test for paying subscribers, the next major image model after version 4. Reporting focused on a clear jump in photorealism and fewer obvious errors such as hands with too many fingers.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Midjourney
+- https://voicebot.ai/2023/03/17/new-midjourney-v5-generative-ai-offers-photorealistic-images-and-hands-with-5-fingers/

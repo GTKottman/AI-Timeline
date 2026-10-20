@@ -4,7 +4,7 @@
 - **Who:** Microsoft Research
 - **Type:** model
 
-Microsoft Research announced Turing Natural Language Generation (T-NLG), a 17-billion-parameter language model that it described as the largest published language model at the time. Training used DeepSpeed and its ZeRO optimizer to cut model-parallelism degree and training time, which made large-scale training practical for more groups. The model was not open-sourced and was offered only as a private demo to a small set of academic testers.
+Microsoft Research announced Turing Natural Language Generation (T-NLG), a 17-billion-parameter language model that it described as the largest published language model at the time. Training used DeepSpeed and its ZeRO optimizer to cut model-parallelism degree and training time, which made large-scale training practical for more groups. The model was not open-sourced and was offered only in private demos.
 
 ## Sources
 - https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/

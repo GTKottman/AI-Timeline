@@ -7,5 +7,4 @@
 OpenAI released ChatGPT as a free research preview, a chatbot built on a GPT-3.5-series model trained with human feedback. It reached a very large user base within days and started the mass adoption of generative AI assistants.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Timeline_of_machine_learning
-- https://en.wikipedia.org/wiki/2022_in_artificial_intelligence
+- https://umatechnology.org/openai-released-chatgpt-on-november-30-2022-what-the-original-launch-included/

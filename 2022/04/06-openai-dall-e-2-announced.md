@@ -7,5 +7,4 @@
 OpenAI announced DALL-E 2, a text-to-image system that creates and edits images from written descriptions at much higher quality than the first DALL-E. Access began through a waitlist, and it set the standard for consumer text-to-image tools that followed.
 
 ## Sources
-- https://en.wikipedia.org/wiki/DALL-E
-- https://en.wikipedia.org/wiki/2022_in_artificial_intelligence
+- https://wandb.ai/telidavies/ml-news/reports/OpenAI-Announces-DALL-E-2--VmlldzoxODAxMDAy

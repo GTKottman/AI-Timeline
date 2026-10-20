@@ -1,10 +1,10 @@
-# OpenAI releases Microscope and Lucid visualization tools
+# OpenAI releases Microscope visualization tool
 
 - **Date:** 2020-04 (exact day not confirmed)
 - **Who:** OpenAI
 - **Type:** software
 
-OpenAI released Microscope, a free, browsable collection of layer-by-layer and neuron-by-neuron visualizations of eight widely studied vision models. It was released with the open-source Lucid library for visualizing neurons in deep networks. The tools support interpretability research, but OpenAI noted they could not be applied to custom networks.
+OpenAI released Microscope, a free, browsable collection of layer-by-layer and neuron-by-neuron visualizations of widely studied vision models. It was built to support interpretability research.
 
 ## Sources
 - https://openai.com/index/microscope

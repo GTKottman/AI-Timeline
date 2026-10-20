@@ -4,8 +4,7 @@
 - **Who:** US Department of Commerce; NVIDIA; AMD
 - **Type:** policy
 
-The US Commerce Department told NVIDIA it needed a license to export data-center GPUs at or above the A100 level to China, Hong Kong and Russia, and AMD's MI250 was covered too. The rule was aimed at military end use and marked the start of US controls on AI training hardware sold to China.
+NVIDIA disclosed in an SEC filing on August 31, 2022, that on August 26 the US government had told it a license was now required to export the A100 and the upcoming H100 to China (including Hong Kong) and Russia. AMD said it was told to halt sales of its Instinct MI250 to those countries. The license requirement was aimed at military end use and marked the start of US controls on AI training hardware sold to China.
 
 ## Sources
-- https://siliconangle.com/2022/09/01/us-restricts-exports-advanced-ai-chips-china-russia/
-- https://en.wikipedia.org/wiki/Nvidia
+- https://www.theregister.com/2022/09/01/us_stops_nvidia_and_amd/

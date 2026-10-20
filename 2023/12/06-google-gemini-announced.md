@@ -8,3 +8,4 @@ Google DeepMind introduced Gemini, a family of multimodal models that work acros
 
 ## Sources
 - https://blog.google/innovation-and-ai/technology/ai/google-gemini-ai/
+- https://techcrunch.com/2023/12/06/googles-gemini-isnt-the-generative-ai-model-we-expected/

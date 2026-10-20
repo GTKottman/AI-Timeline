@@ -4,8 +4,8 @@
 - **Who:** G7 leaders
 - **Type:** policy
 
-G7 leaders issued a statement endorsing international guiding principles and a voluntary code of conduct for advanced AI developers under the Hiroshima AI Process. It was the first multilateral AI agreement covering frontier developers.
+G7 leaders issued a statement endorsing international guiding principles (eleven of them) and a voluntary code of conduct for advanced AI developers under the Hiroshima AI Process. The principles and code were to be reviewed and updated over time.
 
 ## Sources
+- https://www.g7.utoronto.ca/ict/2023-000915261.pdf
 - https://digital-strategy.ec.europa.eu/en/library/g7-leaders-statement-hiroshima-ai-process
-- https://www.reuters.com/technology/g7-agree-ai-code-conduct-companies-g7-document-2023-10-29/

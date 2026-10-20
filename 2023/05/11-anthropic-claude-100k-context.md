@@ -7,4 +7,5 @@
 Anthropic raised Claude's context window from 9,000 to 100,000 tokens, roughly 75,000 words, and made it available through the API. It let developers feed whole reports or codebases into a single prompt and became a key differentiator for long-document work.
 
 ## Sources
-- https://www.anthropic.com/news/100k-context-windows
+- https://anthropic.com/index/100k-context-windows
+- https://techcrunch.com/2023/05/11/anthropics-latest-model-can-take-the-great-gatsby-as-input

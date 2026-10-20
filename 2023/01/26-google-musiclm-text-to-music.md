@@ -7,4 +7,5 @@
 Google Research presented MusicLM, which generates music from text descriptions at high fidelity over several minutes. It was one of the first convincing text-to-music systems and set a benchmark for audio generation.
 
 ## Sources
+- https://arxiv.org/abs/2301.11325
 - https://research.google/pubs/musiclm-generating-music-from-text/

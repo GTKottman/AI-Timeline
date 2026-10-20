@@ -4,7 +4,7 @@
 - **Who:** Microsoft
 - **Type:** product
 
-After the Android launch, Microsoft made the Copilot app available on iOS for iPhone and iPad, giving its assistant a presence on Apple devices as well.
+After the Android app appeared, Microsoft made the free Copilot app available on iPhone and iPad through Apple's App Store, with GPT-4 text responses and DALL-E 3 image generation. Coverage dated the App Store listing between December 29 and December 30.
 
 ## Sources
-- https://www.theverge.com/2023/12/29/24019288/microsoft-copilot-app-available-iphone-ipad-ai
+- https://www.engadget.com/microsofts-copilot-ai-chatbot-app-arrives-on-ios-112559129.html

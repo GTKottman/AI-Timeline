@@ -7,4 +7,5 @@
 AutoGPT was released as an open-source agent that takes a natural-language goal, breaks it into subtasks and runs them with GPT-4 in a loop. It sparked a wave of autonomous-agent experiments and popularized the idea of self-directed LLM agents.
 
 ## Sources
+- https://en.wikipedia.org/wiki/AutoGPT
 - https://www.zdnet.com/article/what-is-auto-gpt-everything-to-know-about-the-next-powerful-ai-tool/

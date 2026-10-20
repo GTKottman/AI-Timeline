@@ -7,4 +7,4 @@
 Prisma Labs' Lensa app launched its Magic Avatars feature in late November 2022, turning user selfies into AI-generated portraits. The app's popularity brought generative image tools to a mass consumer audience and started debates about artists and training data.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Lensa
+- https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral

@@ -4,7 +4,7 @@
 - **Who:** Google (William Fedus, Barret Zoph, Noam Shazeer)
 - **Type:** paper
 
-The arXiv paper "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity" simplified mixture-of-experts routing so that each input uses one expert. It reported up to 7x faster pretraining than T5-based models at equal compute, and trillion-parameter models that trained about 4x faster than T5-XXL. The work showed sparse models could reach trillion-parameter scale without a matching rise in compute.
+The arXiv paper "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity" simplified mixture-of-experts routing so that each input uses one expert. It reported trillion-parameter models that trained about 4x faster than T5-XXL. The work showed sparse models could reach trillion-parameter scale without a matching rise in compute.
 
 ## Sources
 - https://arxiv.org/abs/2101.03961

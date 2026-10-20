@@ -1,10 +1,11 @@
-# Microsoft launches standalone Copilot app for Android
+# Microsoft's Copilot app appears on Google Play for Android without an announcement
 
 - **Date:** 2023-12-26
 - **Who:** Microsoft
 - **Type:** product
 
-Microsoft released a standalone Copilot app for Android, moving its chatbot off the browser and Bing into a dedicated mobile client. It was part of the push to put Copilot, built on OpenAI models, in front of consumers across devices.
+Microsoft's standalone Copilot app appeared on the Google Play Store for Android without an official announcement, separate from the Bing app. It was free to use, with sign-in unlocking more features, and built on OpenAI's GPT-4 with DALL-E 3 image generation. Coverage put the first appearance between about December 19 and December 26.
 
 ## Sources
-- https://www.theverge.com/2023/12/26/24015198/microsoft-copilot-mobile-app-android-launch
+- https://gigazine.net/gsc_news/en/20231227-microsoft-copilot-app-android
+- https://www.androidauthority.com/microsoft-copilot-on-android-3397909

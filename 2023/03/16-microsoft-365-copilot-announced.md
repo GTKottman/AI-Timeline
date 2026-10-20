@@ -4,7 +4,7 @@
 - **Who:** Microsoft
 - **Type:** product
 
-Microsoft presented Copilot for Microsoft 365, bringing generative AI into Word, Excel, PowerPoint and other Office apps to draft documents, charts and slides. It was the first major move to put large language models inside everyday office software at scale.
+Microsoft presented Copilot for Microsoft 365, bringing generative AI into Word, Excel, PowerPoint, Outlook and Teams to draft documents, charts and slides. It was the first major move to put large language models inside everyday office software at scale.
 
 ## Sources
-- https://www.kdnuggets.com/2023-the-crazy-ai-year
+- https://www.commsbusiness.co.uk/content/news/microsoft-unveils-copilot

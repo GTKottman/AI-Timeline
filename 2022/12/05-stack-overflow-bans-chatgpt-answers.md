@@ -1,6 +1,6 @@
 # Stack Overflow temporarily bans ChatGPT-generated answers
 
-- **Date:** 2022-12-00
+- **Date:** 2022-12-05
 - **Who:** Stack Overflow moderators
 - **Type:** other
 

@@ -7,4 +7,4 @@
 OpenAI released Whisper Large V2, an improved checkpoint of its open-source multilingual speech recognition model first released in September 2022. It became one of the most-used open speech-to-text models for developers and researchers.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Whisper_(speech_recognition_system)
+- https://github.com/openai/whisper/discussions/661

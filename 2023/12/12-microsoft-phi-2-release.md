@@ -8,4 +8,3 @@ Phi-2 is a 2.7-billion-parameter language model for language and coding, release
 
 ## Sources
 - https://siliconangle.com/2023/12/12/microsoft-debuts-2-7b-parameter-phi-2-model-outperforms-many-larger-language-models/
-- https://www.techrepublic.com/fr/article/microsoft-phi-2-ai/

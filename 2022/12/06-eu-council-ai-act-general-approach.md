@@ -7,4 +7,4 @@
 On December 6, 2022, the European Council adopted its general orientation on the proposed EU AI Act. It set the member states' position for negotiations on the first broad, risk-based AI law in the EU.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Artificial_Intelligence_Act
+- https://futurium.ec.europa.eu/cs/european-ai-alliance/community-content/council-eu-general-approach-ai-act

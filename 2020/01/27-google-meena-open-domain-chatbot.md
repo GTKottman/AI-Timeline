@@ -8,3 +8,4 @@ The Meena paper, "Towards a Human-like Open-Domain Chatbot," described a 2.6-bil
 
 ## Sources
 - https://arxiv.org/abs/2001.09977
+- https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html

@@ -1,6 +1,6 @@
 # Microsoft Turing-NLG 17-billion-parameter language model
 
-- **Date:** 2020-02-10
+- **Date:** 2020-02-13
 - **Who:** Microsoft Research
 - **Type:** model
 

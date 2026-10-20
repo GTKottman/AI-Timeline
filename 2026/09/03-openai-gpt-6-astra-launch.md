@@ -4,7 +4,7 @@
 - **Who:** OpenAI
 - **Type:** model
 
-OpenAI released GPT-6 Astra, starting with enterprise customers in its gated Daybreak program, with paid ChatGPT plans and the API to follow and AWS and Azure distribution planned. OpenAI reported 72.6% on an offline subset of OSWorld 2.0 against 65.7% for GPT-5.6 Sol, and priced the model at $10 per million input and $50 per million output tokens. OpenAI said it is the first model rated "Critical" for cybersecurity under its Preparedness Framework, which is why the rollout is staged. The benchmark numbers are OpenAI's own, and the primary OpenAI announcement was not found in the sources checked.
+OpenAI released GPT-6 Astra on September 3, 2026. It rolls out first to organisations in its gated Daybreak program, with ChatGPT Plus, Pro, Business and Enterprise users and the API to follow. Pricing is $10 per million input and $50 per million output tokens. Secondary coverage of OpenAI's figures reports 72.6% on an offline subset of OSWorld 2.0 against 65.7% for GPT-5.6 Sol, and says Astra is the first OpenAI model rated "Critical" for cybersecurity, which is why the rollout is staged. The benchmark numbers are OpenAI's own; the openai.com announcement could not be retrieved (HTTP 403).
 
 ## Sources
 - https://www.constellationr.com/insights/news/openai-launches-gpt-6-astra

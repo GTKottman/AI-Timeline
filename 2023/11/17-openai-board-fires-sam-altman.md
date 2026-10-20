@@ -4,8 +4,9 @@
 - **Who:** OpenAI (board; Sam Altman, Greg Brockman, Ilya Sutskever, Mira Murati)
 - **Type:** people
 
-OpenAI's board removed Sam Altman as CEO, saying a review found he had not been consistently candid with the board. CTO Mira Murati became interim CEO, and Greg Brockman quit as board chair and then as president. Over 500 employees later threatened to move to a Microsoft AI team led by Altman and Brockman.
+OpenAI's board removed Sam Altman as CEO, saying a review found he had not been consistently candid in his communications with the board. CTO Mira Murati was named interim CEO with immediate effect. Greg Brockman, co-founder and board chairman, announced that he was quitting OpenAI the same evening.
 
 ## Sources
-- https://www.euronews.com/2023/11/18/sam-altman-fired-as-chatgpt-creator-openai-after-being-pushed-out-by-board-of-direc
-- https://www.wfsb.com/2023/11/18/chatgpt-maker-openai-fires-ceo-sam-altman-face-ai-boom-lack-candor-with-company/
+- https://www.engadget.com/openai-ceo-sam-altman-ousted-as-board-no-longer-has-confidence-in-his-leadership-204924006.html
+- https://gizmodo.com/openai-fires-ceo-sam-altman-1851032184
+- https://abc11.com/post/sam-altman-chatgpt-openai-fired/14076814/

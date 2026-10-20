@@ -4,9 +4,8 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google DeepMind announced Veo 2, a text and image to video model that outputs up to 4K with camera-control prompts and better physics and facial motion. It also upgraded Imagen 3 for a wider range of styles and more accurate prompts, and added Whisk, a tool that builds images from reference pictures. Sources differ on how broadly Imagen 3 rolled out, with one saying ImageFX in more than 100 countries.
+Google DeepMind announced Veo 2, a text and image to video model that outputs up to 4K, with control over genre, lens and cinematic effects and better handling of real-world physics and human movement. It also upgraded Imagen 3 and added Whisk, a Google Labs experiment that builds images from reference pictures using Imagen 3 and Gemini. At launch Veo 2 was available only through Google Labs' VideoFX, which limited clips to 8 seconds at 720p, and Google said it would bring Veo 2 to Vertex AI later.
 
 ## Sources
-- https://forklog.com/en/google-deepmind-unveils-advanced-ai-video-and-image-generators/
-- https://mezha.media/en/2024/12/17/google-anounce-veo-2-and-imagen-3
+- https://blog.google/technology/google-labs/video-image-generation-update-december-2024/
 - https://www.etvbharat.com/amp/en/!technology/google-veo-2-ai-video-model-imagen-3-image-generator-enn24121706375

@@ -4,7 +4,7 @@
 - **Who:** Andrew Tulloch (Thinking Machines Lab co-founder); Meta Superintelligence Labs TBD Lab, led by Alexandr Wang
 - **Type:** people
 
-Semafor reported that Tulloch, who joined Meta in October 2025, is leaving the TBD Lab, having waited until Meta shipped its Muse agent and open models. The report rests on one unnamed source, and Meta disputed the reported size of his pay offer. The Wall Street Journal reportedly says he is joining Anthropic, but neither company has confirmed that. The exit is one of several from the lab since its 2025 formation, which also included researchers returning to OpenAI.
+Semafor reported on September 9, 2026, citing one unnamed source, that Andrew Tulloch is leaving Meta's TBD Lab. He is a Thinking Machines Lab co-founder who joined Meta in October 2025, and he reportedly waited until Meta shipped its Muse agent and open models before leaving. The Wall Street Journal reported he is joining Anthropic, but neither company has confirmed it. Meta disputed reports that it offered him up to $1.5 billion.
 
 ## Sources
 - https://www.implicator.ai/andrew-tulloch-leaves-meta-after-muse-launch/

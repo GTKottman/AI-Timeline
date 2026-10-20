@@ -4,8 +4,9 @@
 - **Who:** SpaceXAI (xAI), Cursor
 - **Type:** product
 
-On August 11, 2026 SpaceXAI and Cursor released Grok Bot in beta, always-on AI agents that run on their own computer, sign into a user's tools, finish tasks end to end and check back only when they need approval. The beta launched on Mac and iOS, with Windows and Linux named as available, and early access was limited to top-tier SuperGrok and Cursor plans before expanding. One review puts pricing from $30 per month. The SpaceXAI name and the pricing come from secondary sources.
+SpaceXAI and Cursor released Grok Bot in beta on August 11, 2026: always-on agents that run on their own cloud computer, sign into a user's tools, finish tasks end to end and return only when they need approval. Early access is limited to SuperGrok Heavy, Cursor Ultra and Cursor Teams Premium subscribers, with enterprise customers on a waitlist. Platform coverage conflicts: some sources name Mac, iOS, Windows and Linux, others say Linux, Android and iPad are not yet supported. Pricing is not confirmed.
 
 ## Sources
 - https://aiweekly.co/alerts/spacexai-and-cursor-ship-grok-bot-beta-on-mac-ios-pc-linux
-- https://app.dealroom.co/news/note/grok-bot-enters-early-beta
+- https://thenextweb.com/news/spacexai-grok-bot-ai-agents-cursor
+- https://propakistani.pk/2026/08/13/spacexai-launches-grok-bot-to-let-ai-agents-do-your-everyday-work/

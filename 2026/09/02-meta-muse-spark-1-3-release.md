@@ -4,8 +4,8 @@
 - **Who:** Meta (Alexandr Wang's team)
 - **Type:** model
 
-Meta released Muse Spark 1.3, aimed at coding and agentic work, through Muse Code and the Meta Model API. Its existing reasoning modes shipped at once and the top "max" setting followed on September 4 after safety testing. Meta says the model uses about 20% fewer tool calls and 25% fewer tokens than 1.2, and that it asks clarifying questions and confirms before consequential actions. These performance figures are Meta's own; Artificial Analysis ranked the max variant sixth of 636 models on its Intelligence Index.
+Meta released Muse Spark 1.3 on September 2, 2026, aimed at coding and agentic work, through Muse Code and the Meta Model API. Its existing reasoning modes shipped at once, and the top "max" setting followed on September 4 after safety testing. Meta says the API price stays at the previous level and frames the model as a base for future personal agents; its performance figures are Meta's own. Artificial Analysis reportedly ranks Muse Spark 1.3 (max) sixth of 636 models on its Intelligence Index.
 
 ## Sources
 - https://axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues
-- https://propakistani.pk/2026/09/03/meta-launches-muse-spark-1-3-with-faster-coding-and-smarter-agents/
+- https://runtimewire.com/article/meta-alexandr-wang-muse-spark-1-3-max-safety-release

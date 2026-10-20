@@ -4,7 +4,7 @@
 - **Who:** Google, Google DeepMind
 - **Type:** model
 
-Google released Gemma 2 in 9B and 27B parameter sizes after previewing it at I/O in May 2024. Google said the 27B model was competitive with models more than twice its size, and the weights shipped under the Gemma license for research and commercial use. The June date comes from secondary catalog and blog listings, so it should be checked against Google's own post. It added a strong mid-size option to the open model field.
+Google released Gemma 2 in 9B and 27B parameter sizes after previewing it at I/O in May 2024. Google said the 27B model was competitive with models more than twice its size, and the weights shipped under the Gemma license for research and commercial use. It added a strong mid-size option to the open model field.
 
 ## Sources
 - https://blog.google/technology/developers/google-gemma-2

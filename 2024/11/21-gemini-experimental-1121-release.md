@@ -4,7 +4,8 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google released gemini-exp-1121 as an experimental model in Google AI Studio and the Gemini API. Logan Kilpatrick announced it with gains in coding, reasoning and vision. It returned to the top of the LMArena leaderboard, tied with GPT-4o, after the previous experimental model had lost first place to a new OpenAI model. Google marked it as experimental and not for production use.
+Google released gemini-exp-1121 as an experimental model in Google AI Studio and the Gemini API. Logan Kilpatrick announced it with gains in coding, reasoning and vision. It returned to the top of the Chatbot Arena leaderboard, tied with GPT-4o, after the previous experimental model had lost first place to a new OpenAI model. Google marked it as experimental and not for production use.
 
 ## Sources
 - https://simonwillison.net/2024/Nov/22/gemini-exp-1121
+- https://www.testingcatalog.com/google-debuts-top-ranking-gemini-exp-1121-model-with-2m-context-window.md

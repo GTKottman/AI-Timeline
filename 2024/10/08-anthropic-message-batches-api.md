@@ -4,7 +4,8 @@
 - **Who:** Anthropic
 - **Type:** product
 
-Anthropic released the Message Batches API in public beta for asynchronous processing of large request volumes. Developers could submit up to 10,000 queries per batch, with results returned within 24 hours at 50 percent less than standard API prices. It supported Claude 3.5 Sonnet, Claude 3 Opus and Claude 3 Haiku at launch. It gave developers a cheaper route for bulk jobs such as evaluation and data processing.
+Anthropic released the Message Batches API in public beta for asynchronous processing of large request volumes. Developers could submit up to 10,000 queries per batch, with results returned within 24 hours at 50 percent less than standard API prices. It supported Claude 3.5 Sonnet, Claude 3 Opus and Claude 3 Haiku at launch. Anthropic's page later records general availability on December 17, 2024.
 
 ## Sources
 - https://anthropic.com/news/message-batches-api
+- https://docs.anthropic.com/en/docs/build-with-claude/message-batches

@@ -4,7 +4,8 @@
 - **Who:** Mistral AI
 - **Type:** model
 
-Mistral released Ministral 3B and Ministral 8B, sometimes called "les Ministraux," as small models meant to run on local devices. Both support a 128k context window, and the 8B model uses interleaved sliding-window attention. The 8B instruct model shipped under the Mistral Research License, with commercial use requiring a separate license. Mistral's claims of beating Gemma 2 2B, Llama 3.2 3B and Llama 3.1 8B are its own. Sources differ by a day, with OpenRouter listing October 17.
+Mistral released Ministral 3B and Ministral 8B, sometimes called "les Ministraux," as small models meant for on-device and edge use. Both support a 128k context window, and the 8B model uses interleaved sliding-window attention. The 8B instruct weights were offered under the Mistral Research License, with commercial self-deployment requiring a separate commercial license from Mistral.
 
 ## Sources
-- https://gigazine.net/gsc_news/en/20241017-mistral-les-ministraux-ministral-3b
+- https://mistral.ai/fr/news/ministraux
+- https://techcrunch.com/2024/10/16/mistral-releases-new-ai-models-optimized-for-edge-devices

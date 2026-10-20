@@ -4,8 +4,9 @@
 - **Who:** Tencent
 - **Type:** model
 
-Tencent launched its Hunyuan large language model at its Global Digital Ecosystem Summit, saying it has more than 100 billion parameters and was pretrained on 2 trillion tokens. It was opened to enterprises in China through Tencent Cloud for testing and app building, and Tencent said it already underpins more than 50 of its products. Tencent's claims of beating ChatGPT in some tasks and of lower hallucination than Llama 2 were its own and were not independently verified.
+Tencent launched its Hunyuan large language model at its Global Digital Ecosystem Summit in Shenzhen, saying it has more than 100 billion parameters and more than 2 trillion tokens of pre-training data. Enterprises in China could test it and build apps through APIs on Tencent Cloud, and Tencent said it was connected to about 50 of its products. Tencent's comparisons with GPT models were its own claims and were not independently verified.
 
 ## Sources
+- https://www.tencent.com/en-us/articles/2201685.html
 - https://technode.com/2023/09/08/tencent-launches-hunyuan-large-language-model
-- https://www.freemalaysiatoday.com/category/business/2023/09/08/chinas-tencent-debuts-large-language-ai-model
+- https://yicaiglobal.com/news/chinas-tencent-unveils-its-first-general-large-language-ai-model-hunyuan

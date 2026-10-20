@@ -4,9 +4,8 @@
 - **Who:** Google Cloud
 - **Type:** hardware
 
-At Cloud Next 2025 Google unveiled Ironwood, its seventh-generation TPU and the first built mainly for inference. Each chip is listed at 4,614 TFLOPS with 192 GB of HBM, and a full pod of 9,216 chips reaches 42.5 exaflops. Google says it roughly doubles performance per watt over Trillium, its previous TPU. Sources say Ironwood was a later-2025 product rather than an immediate release, and sources disagree on memory bandwidth.
+At Cloud Next 2025 Google unveiled Ironwood, its seventh-generation TPU, which it says is the first built specifically for inference. Google lists each chip at 4,614 teraflops with 192 GB of HBM at 7.4 Tbps, and a 9,216-chip pod at 42.5 exaflops. Google says Ironwood is almost twice as efficient as Trillium. The 42.5-exaflop figure is an FP8 peak, and The Register disputes Google's El Capitan comparison.
 
 ## Sources
-- https://techcrunch.com/2025/04/09/google-unveils-ironwood-a-new-ai-accelerator-chip
-- https://technews.tw/2025/04/10/google-unveils-seventh-generation-tpu-ironwood/
-- https://futurumgroup.com/insights/google-debuts-ironwood-tpu-to-drive-inference-focused-ai-architecture-at-scale
+- https://www.datacenterdynamics.com/en/news/google-unveils-seventh-generation-tpu-ironwood
+- https://www.theregister.com/2025/04/10/googles_7thgen_ironwood_tpus_debut/

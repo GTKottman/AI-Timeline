@@ -4,7 +4,8 @@
 - **Who:** OpenAI
 - **Type:** product
 
-OpenAI released Canvas in beta, opening a separate window beside the ChatGPT chat for writing and coding. Users can highlight sections for the model to edit, and the model gives inline feedback as a copy editor or code reviewer. It was built on GPT-4o and first went to Plus and Team users, with Enterprise and Edu users the following week. Canvas was widely compared with Anthropic's Artifacts, and it changed how chat interfaces handle long documents and code.
+OpenAI released Canvas in beta, a separate editing window beside the ChatGPT chat for writing and coding. It was built on GPT-4o, could be picked manually in the model picker during the beta, and first went to Plus and Team users, with Enterprise and Edu users the following week. Free users were to get it after the beta.
 
 ## Sources
-- https://gigazine.net/gsc_news/en/20241004-openai-chatgpt-canvas
+- https://www.business-standard.com/technology/tech-news/openai-introduces-canvas-within-chatgpt-what-is-it-and-how-it-works-124100400283_1.html
+- https://catalog.bensbites.com/blog/chatgpt-evolves-introducing-the-canvas-feature

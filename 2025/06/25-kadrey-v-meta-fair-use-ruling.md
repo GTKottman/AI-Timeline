@@ -4,7 +4,7 @@
 - **Who:** Judge Vince Chhabria (N.D. Cal.); Meta; plaintiff authors
 - **Type:** policy
 
-The court granted Meta partial summary judgment, holding that training Llama on the books was transformative fair use. The plaintiffs had not shown market harm, and the DMCA claim also failed. The judge warned the ruling was narrow and that stronger evidence of market dilution could win in other cases, and the piracy download question was left open. It mattered as the second major US fair-use ruling on AI training, after Bartz v. Anthropic.
+The court granted Meta partial summary judgment, holding that training Llama on the books was transformative fair use. The plaintiffs had not shown market harm, and the DMCA claim also failed. The judge warned the ruling was narrow and that stronger evidence of market dilution could win in other cases. It mattered as one of the first major US fair-use rulings on AI training.
 
 ## Sources
 - https://www.akingump.com/en/insights/ai-law-and-regulation-tracker/second-district-court-rules-ai-training-can-be-fair-use

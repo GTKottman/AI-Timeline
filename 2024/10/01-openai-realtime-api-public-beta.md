@@ -4,7 +4,8 @@
 - **Who:** OpenAI
 - **Type:** software
 
-At its DevDay in San Francisco, OpenAI opened the Realtime API in public beta so paid developers could build low-latency, speech-to-speech apps with six preset voices. The same event added prompt caching, vision fine-tuning and model distillation, and audio input and output came to the Chat Completions API. No new models were launched at the event. The Realtime API made the voice-assistant pattern available to outside developers.
+At its DevDay in San Francisco, OpenAI opened the Realtime API in public beta to all paid developers so they could build low-latency, speech-to-speech apps with six preset voices. The same event added prompt caching, vision fine-tuning and model distillation. The Realtime API made the voice-assistant pattern available to outside developers.
 
 ## Sources
-- https://www.neowin.net/news/openai-announces-four-new-ai-developer-tools-at-devday-2024/
+- https://openai.com/index/introducing-the-realtime-api/
+- https://techcrunch.com/2024/10/01/openais-devday-brings-realtime-api-and-other-treats-for-ai-app-developers

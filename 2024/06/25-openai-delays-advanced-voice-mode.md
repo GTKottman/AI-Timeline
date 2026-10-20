@@ -4,7 +4,7 @@
 - **Who:** OpenAI
 - **Type:** product
 
-OpenAI said the alpha of its advanced Voice Mode, planned for a small group of ChatGPT Plus users in late June, would slip by about a month. It cited safety work to better detect and refuse certain content, and infrastructure work to scale real-time responses to millions of users. The delay angered users, and it pushed the rollout past the spring 2024 launch window.
+OpenAI said the alpha of its advanced Voice Mode, planned for a small group of ChatGPT Plus users in late June, would slip by about a month. It cited safety work to better detect and refuse certain content, and infrastructure work to scale real-time responses to millions of users.
 
 ## Sources
 - https://techcrunch.com/2024/06/25/openai-delays-chatgpts-new-voice-mode

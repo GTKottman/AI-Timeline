@@ -4,7 +4,7 @@
 - **Who:** US government (President Donald Trump, White House); Nvidia; AMD
 - **Type:** policy
 
-The White House confirmed a deal under which Nvidia's H20 and AMD's MI308 could resume sales to China in exchange for export licences, with 15% of that revenue going to the US government. Trump said he had sought 20% and settled at 15%. Legal authority for the payment arrangement was unclear, and critics called it unprecedented. It mattered because it linked US export licensing of AI chips to a direct revenue share.
+The White House confirmed a deal under which Nvidia's H20 and AMD's MI308 could resume sales to China in exchange for export licences, with 15% of that revenue going to the US government. Trump said he had sought 20% and settled at 15%. Experts called the structure unprecedented, and some analysts called it pay-to-play. It mattered because it linked US export licensing of AI chips to a direct revenue share.
 
 ## Sources
 - https://www.aljazeera.com/economy/2025/8/11/nvidia-amd-to-pay-15-of-china-chip-sales-to-us-government-reports-say

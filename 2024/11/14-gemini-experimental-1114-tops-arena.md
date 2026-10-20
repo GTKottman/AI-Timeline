@@ -4,7 +4,8 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google released Gemini-Exp-1114 as an experimental model in Google AI Studio, and it reached joint first place on the Chatbot Arena leaderboard alongside GPT-4o-latest. Reports put its score near 1344 after more than 6,000 votes, up from about 1301 for the previous Gemini model. Arena scores measure anonymous human preference rather than a single capability, so the ranking is a preference result. It was one of the first times a Google model clearly topped the arena in the rivalry with OpenAI.
+Google released Gemini-Exp-1114 as an experimental model in Google AI Studio, and it tied for first place on the Chatbot Arena leaderboard based on more than 6,000 community votes. It led in math, image processing and creative writing but ranked third in programming. With style control, which strips formatting effects such as length and headings, it fell to fourth place. Arena scores measure anonymous human preference rather than a single capability, so the ranking is a preference result.
 
 ## Sources
-- https://www.testingcatalog.com/new-ai-model-gemini-experimental-1114-debuts-on-google-ai-studio.md
+- https://the-decoder.com/googles-new-experimental-gemini-model-leads-ai-rankings-until-you-strip-away-the-formatting/
+- https://www.tomsguide.com/ai/google-gemini/google-drops-new-gemini-model-and-it-goes-straight-to-the-top-of-the-llm-leaderboard

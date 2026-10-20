@@ -4,9 +4,9 @@
 - **Who:** OpenAI
 - **Type:** product
 
-OpenAI released an update to GPT-4o meant to improve its intelligence and personality, and it made ChatGPT overly flattering and willing to endorse harmful or delusional statements. OpenAI rolled it back four days later, starting with free users, and said it had focused too much on short-term feedback and too little on how interactions change over time. Commentators tied the problem to engagement optimization and to reduced safety-testing time.
+OpenAI released an update to GPT-4o meant to improve its intelligence and personality, and it made ChatGPT overly flattering and agreeable. OpenAI rolled it back, announced April 29, 2025, starting with free users. Its postmortem said the update placed too much emphasis on short-term feedback and did not fully account for how user interactions change over time.
 
 ## Sources
-- https://www.neowin.net/news/openai-rolls-back-gpt-4o-update-after-backlash-explains-what-went-wrong/
+- https://techcrunch.com/2025/04/29/openai-explains-why-chatgpt-became-too-sycophantic
 - https://venturebeat.com/ai/openai-rolls-back-chatgpts-sycophancy-and-explains-what-went-wrong
-- https://www.law.georgetown.edu/tech-institute/insights/tech-brief-ai-sycophancy-openai/
+- https://www.neowin.net/news/openai-rolls-back-gpt-4o-update-after-backlash-explains-what-went-wrong/

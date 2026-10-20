@@ -4,8 +4,8 @@
 - **Who:** OpenAI
 - **Type:** product
 
-OpenAI opened gpt-image-1 in the Images API, bringing the natively multimodal image model behind ChatGPT's image generation to developers. It supports transparent backgrounds and was adopted early by Adobe in Firefly and Express and by Figma. Simon Willison estimated per-image prices of about $0.01 (low), $0.04 (medium) and $0.17 (high) for square images, a figure from a secondary blog.
+OpenAI opened gpt-image-1 in its API, bringing the image model behind ChatGPT's image generation to developers worldwide. Adobe incorporated it into Firefly and Express, and Figma rolled out features that generate and edit images inside Figma Design, limited to paid plans. One report puts pricing at $5 per million input tokens and $10 per million output tokens.
 
 ## Sources
-- https://openai.com/index/image-generation-api/
-- https://simonwillison.net/2025/Apr/24/openai-images-api/
+- https://pureai.com/Articles/2025/04/23/OpenAI-Brings-Image-Generation-Model-to-Its-API.aspx
+- https://forklog.com/en/adobe-and-figma-integrate-openais-popular-image-generator/

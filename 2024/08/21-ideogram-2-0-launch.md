@@ -4,7 +4,7 @@
 - **Who:** Ideogram AI
 - **Type:** model
 
-Ideogram released version 2.0 of its text-to-image model, which the company called its frontier model for realistic images, graphic design and typography. The same day it launched an iOS app, a beta API, selectable styles, new aspect ratios up to 3:1 and 1:3, and Ideogram Search over more than a billion user-made images. Its free tier offered about 40 images a day. The launch came in the same week as Grok-2 and a major Midjourney update.
+Ideogram released version 2.0 of its text-to-image model, which the company called its frontier model for realistic images, graphic design and typography. The same day it launched an iOS app and a beta API, and it made 2.0 freely available to all users on the web and in the new app, with premium features behind paid subscription plans. Paid plans were reported to start at $7 a month.
 
 ## Sources
 - https://about.ideogram.ai/2.0

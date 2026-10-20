@@ -4,7 +4,7 @@
 - **Who:** Google
 - **Type:** product
 
-Google opened its Bard chatbot to 27 EU countries and Brazil, and expanded it to more than 40 languages, up from three. The EU launch followed questions from Ireland's Data Protection Commission, and Google made transparency and control changes first. New features included tone and style options and text-to-speech.
+Google opened its Bard chatbot to the 27 EU countries and Brazil, saying it was now available in most of the world and in the most widely spoken languages. The EU launch followed questions from Ireland's Data Protection Commission, and Google made transparency and control changes first.
 
 ## Sources
 - https://www.aljazeera.com/economy/2023/7/13/chatgpt-rival-bard-launches-in-europe-and-brazil

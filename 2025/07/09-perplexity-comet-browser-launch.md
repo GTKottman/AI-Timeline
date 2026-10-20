@@ -4,7 +4,7 @@
 - **Who:** Perplexity AI
 - **Type:** product
 
-Perplexity launched Comet, an AI-first web browser for Windows and macOS, with its AI search as the default and an assistant that can summarise pages and carry out tasks such as sending emails or scheduling events. At launch it went only to Max subscribers and a waitlist. It mattered as an early AI-native browser competing with Chrome.
+Perplexity launched Comet, an AI-first web browser with its AI search as the default. At launch it went only to Max subscribers, who pay $200 a month, and to a waitlist. It mattered as an early AI-native browser competing with Chrome.
 
 ## Sources
 - https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/

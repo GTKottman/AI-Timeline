@@ -4,7 +4,7 @@
 - **Who:** Alibaba Qwen team
 - **Type:** model
 
-Alibaba released the updated Qwen3-235B-A22B-Instruct-2507, a non-thinking mixture-of-experts model with 235B total and about 22B active parameters, a 262,144-token native context, and an FP8 variant. It was trained to improve instruction following, reasoning, maths, coding, tool use and multilingual coverage. It is under Apache 2.0. It mattered as a strong open-weight model with long context.
+Alibaba released the updated Qwen3-235B-A22B-Instruct-2507, a non-thinking mixture-of-experts model with 235B total and about 22B active parameters, a 262,144-token native context. It was trained to improve instruction following, reasoning, maths, coding, tool use and multilingual coverage. It is under Apache 2.0. It mattered as a strong open-weight model with long context.
 
 Some sources give 2025-07-22 for the announcement.
 

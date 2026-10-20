@@ -4,7 +4,7 @@
 - **Who:** OpenAI; AtCoder; Przemysław Dębiak (Psyho) won
 - **Type:** competition
 
-An OpenAI model competed against humans in the 10-hour AtCoder World Tour Finals 2025 Heuristic contest in Tokyo, finishing second to Przemysław Dębiak. It ran autonomously under the same rules as the human contestants. A day later OpenAI's model also solved all five problems in the algorithm finals while the best human solved three. It mattered as an early public benchmark of an AI system in a long, open-ended programming contest.
+An OpenAI model competed against humans in the 10-hour AtCoder World Tour Finals 2025 Heuristic contest in Tokyo, finishing second to Przemysław Dębiak. OpenAI fielded the model in a Humans vs. AI exhibition. In the algorithm finals the model also solved all five problems, while the best human solved three. It mattered as an early public benchmark of an AI system in a long, open-ended programming contest.
 
 ## Sources
 - https://the-decoder.com/an-openai-ai-model-finished-second-in-the-atcoder-heuristics-world-finals/

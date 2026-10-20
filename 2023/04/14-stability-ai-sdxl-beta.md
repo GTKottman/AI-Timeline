@@ -1,6 +1,6 @@
 # Stability AI releases Stable Diffusion XL beta
 
-- **Date:** 2023-04-14
+- **Date:** 2023-04-13
 - **Who:** Stability AI
 - **Type:** model
 

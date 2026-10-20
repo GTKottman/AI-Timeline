@@ -1,11 +1,11 @@
 # Google Agent2Agent (A2A) protocol
 
 - **Date:** 2025-04-09
-- **Who:** Google (Google Cloud); more than 50 launch partners including Salesforce, SAP, ServiceNow and Atlassian
+- **Who:** Google (Google Cloud); launch partners include Atlassian, Cohere, Salesforce, SAP, ServiceNow and Workday
 - **Type:** software
 
-Google announced the open Agent2Agent protocol at Google Cloud Next, a standard that lets AI agents built by different vendors on different platforms talk to each other. Agents advertise their capabilities through a JSON "Agent Card", and the protocol runs over HTTP, JSON-RPC and Server-Sent Events. The specification was published on GitHub under Apache 2.0, and at launch there was no production-ready implementation yet.
+Google announced the open Agent2Agent (A2A) protocol at Google Cloud Next, a standard for AI agents built by different vendors to communicate. Google's April 9, 2025 post says it is releasing the protocol as open source, cites more than 50 technology partners, and points to the draft specification on GitHub. The post names 24 partners in its introduction.
 
 ## Sources
-- https://www.techbang.com/posts/122478-google-launches-agent2agent-protocol-for-ai-agents
-- https://www.noze.it/en/insights/a2a-agent-to-agent/
+- https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/
+- https://thenewstack.io/googles-agent2agent-protocol-helps-ai-agents-talk-to-each-other/

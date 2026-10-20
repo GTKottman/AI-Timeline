@@ -4,7 +4,7 @@
 - **Who:** Thinking Machines Lab (Mira Murati); Andreessen Horowitz, Nvidia, Accel, ServiceNow, Cisco, AMD, Jane Street
 - **Type:** funding
 
-Mira Murati's start-up Thinking Machines Lab announced about $2 billion of funding at a $12 billion valuation, led by Andreessen Horowitz. Nvidia, Accel, ServiceNow, Cisco, AMD and Jane Street also took part. The company had no product or revenue yet, and Murati said its first product would have a significant open-source part aimed at researchers and start-ups building custom models. Earlier reports had given valuations of $10 billion and $15 billion.
+Mira Murati's start-up Thinking Machines Lab announced about $2 billion of funding at a $12 billion valuation, led by Andreessen Horowitz. Nvidia, Accel, ServiceNow, Cisco, AMD and Jane Street also took part. The company had no product or revenue yet, and Murati said its first product would have a significant open-source part. A June 2025 Bloomberg report had put the valuation at $10 billion before this round.
 
 ## Sources
 - https://www.businessday.co.za/bd/companies/telecoms-and-technology/2025-07-15-nvidia-and-jane-street-back-mira-muratis-ai-start-up-as-valuation-hits-12bn/

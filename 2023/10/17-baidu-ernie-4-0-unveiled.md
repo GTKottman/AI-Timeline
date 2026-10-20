@@ -4,8 +4,9 @@
 - **Who:** Baidu
 - **Type:** model
 
-Baidu CEO Robin Li unveiled ERNIE 4.0 at Baidu World in Beijing, saying it was not inferior to GPT-4 in any aspect. Baidu showed understanding, generation, reasoning and memory capabilities in demos that included advertising posters, a marketing video, a novel and geometry problems. The model was in invitation-only beta, and analysts noted it had few highlights over the previous version.
+Baidu CEO Robin Li unveiled ERNIE 4.0 at Baidu World in Beijing, saying it was in no way weaker than GPT-4 and had improved significantly over the earlier Ernie Bot. The model was announced as an upgrade in understanding, generation, reasoning and memory, and was put into invitation-only testing, so it was not yet open to the general public. The GPT-4 comparison was Baidu's own claim, and no independent benchmark was found to verify it.
 
 ## Sources
 - https://www.bostonglobe.com/2023/10/17/business/chinese-search-engine-company-baidu-unveils-ernie-40-ai-model-claims-that-it-rivals-gpt-4
-- https://venturebeat.com/ai/baidu-launches-new-llm-ernie-4-0-that-turns-one-person-into-an-ai-marketing-team
+- https://autonews.gasgoo.com/articles/icv/baidus-ernie-large-model-40-gives-ai-boost-to-baidu-maps-autonomous-driving-tech-70028855
+- https://techxplore.com/news/2023-10-chinese-company-baidu-unveils-ernie.html

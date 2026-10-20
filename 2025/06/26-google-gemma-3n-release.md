@@ -4,7 +4,7 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google released Gemma 3n in E2B and E4B sizes, after a May preview at I/O. The models take image, audio, video and text input and run on phones, tablets and laptops in roughly 2 to 3 GB of memory. They are available on Google AI Studio, Hugging Face and Kaggle. It mattered because it made a multimodal model practical on-device for the open-weight community.
+Google released Gemma 3n in E2B and E4B sizes. The models run on phones, tablets and laptops, and at launch took image and text input, with audio and video support rolling out later. They are available on Google AI Studio, Hugging Face and Kaggle. It mattered because it made a multimodal model practical on-device for the open-weight community.
 
 ## Sources
 - https://ai.google.dev/gemma/docs/releases?hl=en

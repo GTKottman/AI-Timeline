@@ -4,8 +4,9 @@
 - **Who:** Adept
 - **Type:** model
 
-Adept released Fuyu-8B, a decoder-only multimodal model with no separate image encoder. Image patches are projected straight into the transformer, which lets it handle arbitrary image resolutions. It was built for digital agents and can answer questions about charts and UI screens and locate elements on screen, with responses on large images reported under 100 milliseconds. The weights were published on Hugging Face under a non-commercial license.
+Adept released Fuyu-8B, a decoder-only multimodal model with no separate image encoder. Image patches are projected straight into the transformer, which lets it handle arbitrary image resolutions. It was built for digital agents and can answer questions about graphs and diagrams, answer questions about UI screens and locate elements on screen, with responses on large images reported under 100 milliseconds. The weights were published on Hugging Face as a base model.
 
 ## Sources
 - https://www.adept.ai/blog/fuyu-8b
 - https://huggingface.co/adept/fuyu-8b
+- https://analyticsindiamag.com/adept-releases-fuyu-8b-for-multimodal-ai-agents/

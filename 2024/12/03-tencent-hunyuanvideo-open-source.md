@@ -4,9 +4,9 @@
 - **Who:** Tencent
 - **Type:** model
 
-Tencent released HunyuanVideo, a 13-billion-parameter text-to-video and image-to-video model, with weights and inference code on GitHub and Hugging Face under the Tencent Hunyuan Community License. Tencent said it was the largest open-source video generation model at launch and beat Runway Gen-3 and Luma 1.6 in its own human tests. Early independent tests were more mixed, and GPU memory needs were reported at 24 GB or more depending on resolution.
+Tencent released HunyuanVideo, a 13-billion-parameter text-to-video and image-to-video model, with code and weights published on GitHub and Hugging Face. Tencent said it was the largest open-source video generation model at launch and rated it above Runway Gen-3 and Luma 1.6 in its own human evaluations. These are Tencent's own claims, and independent benchmark results were not found.
 
 ## Sources
 - https://www.neowin.net/news/tencent-releases-hunyuanvideo-a-state-of-the-art-open-source-video-generation-model/
-- https://decrypt.co/295199/tencents-new-ai-video-generator-takes-on-openais-sora-for-free
-- https://comfyui-wiki.com/en/news/2024-12-01-tencent-hunyuan-video
+- https://the-decoder.com/tencent-introduces-open-source-video-generator-hunyuanvideo-and-challenges-sora/
+- https://github.com/Tencent/HunyuanVideo

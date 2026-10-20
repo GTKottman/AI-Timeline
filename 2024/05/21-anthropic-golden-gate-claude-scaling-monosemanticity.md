@@ -8,4 +8,4 @@ Anthropic published "Scaling Monosemanticity," which used dictionary learning to
 
 ## Sources
 - https://aiweekly.co/alerts/anthropic-ships-golden-gate-claude-an-interpretability-demo
-- https://www.longtermwiki.com/source/e724db341d6e0065
+- https://simonwillison.net/2024/May/21

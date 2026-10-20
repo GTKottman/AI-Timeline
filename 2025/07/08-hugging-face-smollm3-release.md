@@ -4,7 +4,7 @@
 - **Who:** Hugging Face
 - **Type:** model
 
-Hugging Face released SmolLM3, a 3B-parameter model under Apache 2.0 that can switch between direct answers and extended reasoning from a template flag. Hugging Face published the training blueprint, data mixtures and training configs with the weights. It mattered as a small, fully documented model for on-device and low-cost use.
+Hugging Face released SmolLM3, a 3B-parameter model under Apache 2.0 that can switch between direct answers and extended reasoning from a /think or /no_think flag. Hugging Face published the training blueprint, data mixtures and training configs with the weights. It mattered as a small, fully documented model for on-device and low-cost use.
 
 ## Sources
 - https://www.gigazine.net/gsc_news/en/20250709-smollm3

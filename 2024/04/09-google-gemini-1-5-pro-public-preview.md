@@ -9,4 +9,4 @@ At Google Cloud Next 2024, Google moved Gemini 1.5 Pro from limited testing to a
 ## Sources
 - https://blog.google/products/google-cloud/google-cloud-next-2024-recap-highlights/
 - https://gigazine.net/gsc_news/en/20240410-google-gemini-1-5-pro-release
-- https://feeds.simonwillison.net/2024/Apr/10/gemini-15-pro-public-preview/
+- https://blog.simonwillison.net/2024/Apr/10/gemini-15-pro-public-preview/

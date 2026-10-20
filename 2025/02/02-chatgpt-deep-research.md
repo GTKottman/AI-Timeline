@@ -7,4 +7,4 @@
 OpenAI released Deep Research, an agent in ChatGPT that browses the web on its own and writes a report.
 
 ## Sources
-- https://www.entrepreneur.com/business-news/openais-new-deep-research-ai-surfs-the-web-writes-papers/486513
+- https://sdtimes.com/ai/openai-announces-deep-research-agent-that-can-complete-online-research/

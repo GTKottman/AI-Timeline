@@ -4,8 +4,8 @@
 - **Who:** Sara Sabour, Nicholas Frosst, Geoffrey Hinton (Google Brain, Toronto)
 - **Type:** paper
 
-This paper proposed capsule networks, which use vector-valued units and iterative routing-by-agreement instead of max pooling. It reported state-of-the-art results on MNIST and better handling of overlapping digits than a comparable convolutional network. It was presented at NIPS 2017 and started a line of research on capsule architectures.
+This paper proposed capsule networks, which use vector-valued units and iterative routing-by-agreement instead of max pooling. It reported state-of-the-art results on MNIST and better handling of highly overlapping digits than a convolutional network. It was presented at NIPS 2017 and started a line of research on capsule architectures.
 
 ## Sources
+- https://arxiv.org/abs/1710.09829v1
 - https://arxiv.org/html/1710.09829
-- https://papers.readthedocs.io/en/latest/imageclassif/capsule/

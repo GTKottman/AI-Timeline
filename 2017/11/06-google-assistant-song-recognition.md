@@ -4,7 +4,8 @@
 - **Who:** Google
 - **Type:** product
 
-Google Assistant gained the ability to identify songs playing nearby, a feature that competed with Shazam-style music recognition. It used on-device and cloud audio matching, showing how voice assistants were adding always-listening perception features.
+Google Assistant gained the ability to identify songs playing nearby, showing the title, artist and links to YouTube or Google Play Music. It first arrived on Pixel phones and then rolled out to other Android devices.
 
 ## Sources
 - https://9to5google.com/2017/11/06/google-assistant-song-music-recognition/
+- https://rainnews.com/google-assistant-adds-support-for-song-identification/

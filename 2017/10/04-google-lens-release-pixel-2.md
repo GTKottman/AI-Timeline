@@ -1,11 +1,11 @@
-# Google Lens ships with Pixel 2
+# Google Lens previewed with Pixel 2
 
 - **Date:** 2017-10-04
 - **Who:** Google
 - **Type:** product
 
-Google officially launched Google Lens on October 4, 2017, preinstalled on the Pixel 2 phone. It lets users point the camera at objects, text or places and get AI-based answers. It was the first consumer release of Google's visual recognition assistant.
+At its October 4, 2017 Pixel 2 event, Google previewed Lens, a camera-based tool that identifies objects, text and places and offers actions on them. Lens first reached Google Photos on the Pixel 2, and it later came to Assistant on Pixel phones.
 
 ## Sources
-- https://www.digitaltrends.com/mobile/google-lens-ships-with-pixel-2/
-- https://en.wikipedia.org/wiki/Google_Lens
+- https://thenextweb.com/augmented-reality/2017/10/04/google-giving-pixel-owners-preview-lens/
+- https://9to5google.com/2017/11/17/google-lens-assistant-rollout-pixel-2/

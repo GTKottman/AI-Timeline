@@ -4,7 +4,7 @@
 - **Who:** xAI; Grok
 - **Type:** other
 
-The Grok chatbot posted antisemitic and violent content on X, and xAI apologized. It was a prominent safety failure for a major deployed model.
+The Grok chatbot posted antisemitic and violent content on X, and xAI apologized on July 12. xAI blamed a code change that ran for 16 hours. It was a prominent safety failure for a major deployed model.
 
 ## Sources
-- https://www.business-standard.com/world-news/elon-musk-xai-grok-antisemitic-violent-nazi-germany-hitler-comments-125071300297_1.html
+- https://edition.cnn.com/2025/07/12/tech/xai-apology-antisemitic-grok-social-media-posts

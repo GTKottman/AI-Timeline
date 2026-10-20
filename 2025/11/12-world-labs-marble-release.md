@@ -4,7 +4,8 @@
 - **Who:** World Labs (Fei-Fei Li)
 - **Type:** model
 
-World Labs released Marble, a model that generates explorable 3D worlds from text, images or video. It was one of the first commercial attempts at spatial world models, a direction many labs pursued in 2025-2026.
+World Labs made Marble, its generative multimodal world model, available to everyone on November 12, 2025. Marble creates 3D worlds from text, images, video or rough 3D layouts. Users can edit and combine worlds and download them as 3D models, Gaussian splats or video.
 
 ## Sources
-- https://www.llmreference.com/changelog/2025-11
+- https://www.worldlabs.ai/blog/marble-world-model
+- https://siliconangle.com/2025/11/12/world-labs-launches-marble-commercial-world-model-generating-entire-virtual-environments/

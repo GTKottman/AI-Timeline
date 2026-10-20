@@ -4,7 +4,7 @@
 - **Who:** OpenAI
 - **Type:** model
 
-OpenAI released GPT-5.1 in staged rollout, starting with GPT-5.1 Instant and GPT-5.1 Thinking. It was tuned for better instruction following and conversational tone, and added personality presets for ChatGPT. It was a point release on the GPT-5 line, showing frontier labs shipping quick incremental model versions.
+OpenAI released GPT-5.1 as two ChatGPT models, GPT-5.1 Instant and GPT-5.1 Thinking. OpenAI said Instant was warmer and more conversational, and that Thinking was tuned for efficiency and clarity. It was a point release on the GPT-5 line.
 
 ## Sources
-- https://en.wikipedia.org/wiki/GPT-5.1
+- https://decrypt.co/348353/openai-unveils-gpt-5-1-making-chatgpt-smarter-faster-more-conversational

@@ -4,7 +4,7 @@
 - **Who:** Yann LeCun; Meta
 - **Type:** people
 
-Meta chief AI scientist Yann LeCun said he would leave Meta at the end of the year to start a company focused on world models, AI systems that learn how the physical world works. It was a major change in leadership at one of the top AI research labs.
+Yann LeCun said in a LinkedIn post that he will leave Meta after 12 years and remain there through the end of 2025. He plans to start a company focused on world models, AI systems that learn how the physical world works, continuing his Advanced Machine Intelligence (AMI) research program. Meta is to be a partner in the new venture.
 
 ## Sources
-- https://en.wikipedia.org/wiki/2025_in_artificial_intelligence
+- https://opendatascience.com/yann-lecun-leaves-meta-to-launch-new-ai-startup-focused-on-advanced-machine-intelligence/

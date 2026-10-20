@@ -4,8 +4,7 @@
 - **Who:** OpenAI
 - **Type:** model
 
-OpenAI released GPT-5.1-Codex-Max, an agentic coding model for long-running software tasks. It extended the Codex line, which OpenAI positioned as its main coding agent.
+OpenAI released GPT-5.1-Codex-Max, an agentic coding model for long-running tasks. It launched in Codex surfaces, where it replaced GPT-5.1-Codex as the default model, and was not yet in the API.
 
 ## Sources
-- https://en.wikipedia.org/wiki/GPT-5.1
-- https://www.llmreference.com/changelog/2025-11
+- https://simonwillison.net/2025/Nov/19/gpt-51-codex-max/

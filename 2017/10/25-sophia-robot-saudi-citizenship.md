@@ -4,7 +4,8 @@
 - **Who:** Saudi Arabia, Hanson Robotics
 - **Type:** other
 
-Saudi Arabia granted citizenship to Sophia, a humanoid robot built by Hanson Robotics that uses a conversational AI system. It was widely reported as the first robot to receive legal personhood in a country. The move was mainly a publicity event and drew criticism from AI researchers, but it brought public attention to conversational humanoid robots.
+Saudi Arabia granted citizenship to Sophia, a humanoid robot built by Hanson Robotics, at the Future Investment Initiative in Riyadh. Press reports called it the first citizenship granted to a robot, but what legal rights it carried was unclear. Critics called the move a PR stunt.
 
 ## Sources
-- https://www.livescience.com/60815-saudi-arabia-citizen-robot.html
+- https://amp.livescience.com/60815-saudi-arabia-citizen-robot.html
+- https://www.slate.com/blogs/future_tense/2017/10/26/saudi_arabia_gives_citizenship_to_humanoid_robot_named_sophia.html

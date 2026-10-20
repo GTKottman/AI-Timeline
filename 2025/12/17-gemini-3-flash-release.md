@@ -4,7 +4,7 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google released Gemini 3 Flash, a speed-optimised variant of Gemini 3, and made it the default model in the Gemini app. It brought the Gemini 3 generation to lower-latency, lower-cost uses.
+Google released Gemini 3 Flash, a faster, lower-cost model in the Gemini 3 family. It became the default model in the Gemini app, replacing 2.5 Flash, and began rolling out as the default for AI Mode in Search. It was available in preview through the Gemini API.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Gemini_3_(AI)
+- https://blog.google/products/gemini/gemini-3-flash/

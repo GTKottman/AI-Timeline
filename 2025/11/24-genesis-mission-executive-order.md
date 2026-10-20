@@ -4,7 +4,7 @@
 - **Who:** US federal government (White House)
 - **Type:** policy
 
-President Trump signed an executive order creating the Genesis Mission, a federal program to use AI to accelerate scientific research, including national-lab compute and data. It was the first large federal AI-for-science initiative of this term.
+President Trump signed an executive order creating the Genesis Mission, a national AI-for-science initiative. It ties government data, national-lab computing and AI tools together to speed up research.
 
 ## Sources
-- https://en.wikipedia.org/wiki/2025_in_artificial_intelligence
+- https://decrypt.co/349899/trump-signs-genesis-mission-executive-order-ai-us-innovation?amp=1

@@ -4,8 +4,7 @@
 - **Who:** Meta AI
 - **Type:** model
 
-Meta released Segment Anything Model 3, which finds and tracks every instance of a concept from a short text phrase or example image, and SAM 3D, which reconstructs 3D objects and bodies from a single image. The models were released with a benchmark and a web playground, and they became widely used open vision tools.
+Meta released Segment Anything Model 3, which detects, segments and tracks objects in images and video from text or visual prompts, and SAM 3D, which reconstructs objects and people in 3D from a single image. Meta also released a benchmark, Segment Anything with Concepts (SA-Co), and the Segment Anything Playground demo.
 
 ## Sources
-- https://www.infoq.com/news/2025/11/meta-sam3
 - https://gigazine.net/gsc_news/en/20251120-sam-3

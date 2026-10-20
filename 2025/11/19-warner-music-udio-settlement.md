@@ -4,7 +4,7 @@
 - **Who:** Warner Music Group; Udio
 - **Type:** other
 
-Warner Music Group settled its copyright litigation with AI music generator Udio on November 19, 2025, and with Suno on November 25. The settlements set a pattern of licensing deals between major labels and generative music companies after the 2024 lawsuits.
+Warner Music Group settled its copyright litigation with the AI music generator Udio. The two companies agreed to build a licensed AI music creation service. The financial terms were not disclosed.
 
 ## Sources
-- https://en.wikipedia.org/wiki/2025_in_artificial_intelligence
+- https://iipla.org/news/warner-music-udio-settle-ai-music-copyright-suit-3

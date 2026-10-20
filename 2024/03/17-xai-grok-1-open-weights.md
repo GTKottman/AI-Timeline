@@ -4,7 +4,8 @@
 - **Who:** xAI; Elon Musk
 - **Type:** model
 
-xAI released the weights of Grok-1, its large mixture-of-experts language model, under an open licence. It was one of the largest openly released models at the time and was a public move by Musk against closed AI labs.
+xAI open-sourced the weights of Grok-1, its 314-billion-parameter mixture-of-experts language model, under the Apache 2.0 license. The release was a public move by Musk toward open weights for large models.
 
 ## Sources
-- https://www.theverge.com/2024/3/17/24097810/xai-open-source-grok-musk-generative-ai-llm
+- https://www.maginative.com/article/elon-musks-xai-open-sources-grok-1/
+- https://venturebeat.com/ai/musks-grok-ai-goes-open-source/

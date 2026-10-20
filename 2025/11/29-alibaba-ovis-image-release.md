@@ -1,10 +1,10 @@
 # Alibaba releases Ovis Image
 
 - **Date:** 2025-11-29
-- **Who:** Alibaba
+- **Who:** Alibaba (AIDC-AI)
 - **Type:** model
 
-Alibaba released Ovis Image, an open 7B image-generation model. It was one of several smaller open image models released that month.
+Alibaba's AIDC-AI team released Ovis-Image, an open-weight 7B text-to-image model optimized for high-quality text rendering.
 
 ## Sources
-- https://www.llmreference.com/changelog/2025-11
+- https://comfyui-wiki.com/en/news/2025-11-29-ovis-image-7b-text-to-image

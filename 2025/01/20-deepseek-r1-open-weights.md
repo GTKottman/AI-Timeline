@@ -7,4 +7,5 @@
 DeepSeek released DeepSeek-R1 as open weights, a reasoning model that DeepSeek said was trained for far less than comparable Western models. It was released as open weights that anyone can download.
 
 ## Sources
-- https://www.nature.com/articles/d41586-025-03015-6
+- https://api-docs.deepseek.com/news/news250120
+- https://arxiv.org/abs/2501.12948

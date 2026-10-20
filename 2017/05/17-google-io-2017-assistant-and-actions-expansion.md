@@ -4,9 +4,8 @@
 - **Who:** Google
 - **Type:** product
 
-At Google I/O 2017, Google announced an iPhone app for Google Assistant, camera-based visual search through the Assistant, product purchasing and an app directory for Actions on Google. Actions were also opened to Android and iOS phones. Together these moved the Assistant from a home-speaker feature into a platform for search, shopping and third-party apps.
+At Google I/O 2017, Google announced a standalone Google Assistant app for iPhone, camera-based visual search through the Assistant, and purchasing through the Assistant. Actions on Google also gained transaction support. Together these moved the Assistant from a home-speaker feature toward search, shopping and third-party apps.
 
 ## Sources
-- https://www.theverge.com/2017/5/17/15648020/google-assistant-iphone-app-announced-release-date-io-2017
-- https://www.theverge.com/2017/5/17/15648128/google-assistant-camera-sight-search-feature-io-2017
-- https://www.theverge.com/2017/5/17/15648132/google-assistant-wallet-integration-order-delivery-io-2017
+- https://www.techradar.com/news/google-io-2017-google-assistant-announced-for-ios-devices
+- https://martech.org/google-assistant-comes-iphone-adds-alerts-hands-free-calling/

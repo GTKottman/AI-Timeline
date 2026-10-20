@@ -1,11 +1,11 @@
-# Google adds game-building tools for Actions on Google
+# Google adds game tools and sound effects for Actions on Google
 
 - **Date:** 2017-03-30
-- **Who:** Google (Actions on Google / Google Assistant developers)
+- **Who:** Google (Actions on Google team)
 - **Type:** software
 
-Google added tools for building game-style conversational apps ("actions") for its Google Assistant platform. The update extended the developer platform beyond question answering to interactive voice games. It was part of Google's push to give third parties a way to build on its assistant.
+Google's "Game developers rejoice" post added resources for game-style conversational apps ("actions") on Google Assistant. It added a library of sound effects for games and personas, a guide to building text adventures, and new tool and consulting partners such as Pullstring, Converse.AI, Solstice and XAPP Media.
 
 ## Sources
 - https://developers.googleblog.com/2017/03/game-developers-rejoicenew-tools-for.html
-- https://en.wikipedia.org/wiki/Google_Assistant
+- https://9to5google.com/2017/03/30/actions-on-google-home-game-tools/

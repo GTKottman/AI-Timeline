@@ -4,7 +4,7 @@
 - **Who:** DeepSeek
 - **Type:** model
 
-DeepSeek released DeepSeek-Math-V2, a mathematics-focused model under the Apache 2.0 license. It was part of a dense run of open-weight releases from Chinese labs in late 2025.
+DeepSeek released DeepSeekMath-V2, a 685B-parameter model for self-verifiable mathematical reasoning and theorem proving, built on DeepSeek-V3.2-Exp-Base. The repository and model weights are licensed under Apache 2.0.
 
 ## Sources
-- https://en.wikipedia.org/wiki/DeepSeek
+- https://huggingface.co/deepseek-ai/DeepSeek-Math-V2

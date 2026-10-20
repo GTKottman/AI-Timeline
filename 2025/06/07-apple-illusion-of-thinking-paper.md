@@ -1,6 +1,6 @@
 # Apple researchers publish "The Illusion of Thinking" on reasoning model limits
 
-- **Date:** 2025-06-06
+- **Date:** 2025-06-07
 - **Who:** Apple machine learning researchers
 - **Type:** paper
 

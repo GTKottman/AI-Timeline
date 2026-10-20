@@ -4,8 +4,8 @@
 - **Who:** Google (TensorFlow team)
 - **Type:** software
 
-Google released a developer preview of TensorFlow Lite, a lightweight runtime for running trained TensorFlow models on phones and embedded devices. It shipped with MobileNet, Inception-v3 and Smart Reply models and used the Android Neural Networks API when available. It was positioned as the successor to TensorFlow Mobile.
+Google released a developer preview of TensorFlow Lite, a lightweight runtime for running trained TensorFlow models on Android and iOS devices. It shipped with MobileNet and Smart Reply models and used the Android Neural Networks API where available. It was positioned as the successor to TensorFlow Mobile.
 
 ## Sources
-- https://siliconangle.com/2017/11/14/google-enables-machine-learning-mobile-tensorflow-lite/
-- https://venturebeat.com/2017/11/14/google-launches-tensorflow-lite-developer-preview-for-mobile-machine-learning
+- https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html
+- https://9to5google.com/2017/11/14/google-tensorflow-lite-developer-preview-android-ios/

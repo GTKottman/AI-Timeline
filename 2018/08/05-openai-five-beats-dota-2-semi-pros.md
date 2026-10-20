@@ -4,8 +4,8 @@
 - **Who:** OpenAI
 - **Type:** competition
 
-OpenAI Five won two of three matches against former professional and semi-professional Dota 2 players, including Blitz and Merlini. The team lost the third match after the audience chose the human lineup. The results were a warm-up for The International, and they showed reinforcement learning working in a complex team game with teamwork and long time horizons.
+OpenAI Five won two of three matches against a team of top Dota 2 players, including Blitz and Merlini. The humans won the third game after the audience picked Five's heroes. The results were a warm-up for The International, and they showed reinforcement learning working in a complex team game with teamwork and long time horizons.
 
 ## Sources
-- https://thenextweb.com/artificial-intelligence/2018/08/06/a-team-of-former-dota-2-pros-just-got-owned-by-ai-bots/
-- https://www.nextgov.com/emerging-tech/2018/08/openais-bots-thrashed-former-professional-e-sports-players-dota-2/150318/
+- https://openai.com/index/openai-five-benchmark-results
+- https://liquipedia.net/dota2/OpenAI_Five_Benchmark

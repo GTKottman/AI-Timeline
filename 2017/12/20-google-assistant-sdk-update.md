@@ -4,7 +4,8 @@
 - **Who:** Google
 - **Type:** software
 
-Google updated the Google Assistant SDK with new languages and configuration settings that had been limited to Google Home and the Assistant phone apps. It made third-party devices built on the SDK closer in capability to Google's own products.
+Google updated the Google Assistant SDK with more languages (English in more regions, French, German and Japanese), device settings for language, location and nickname, and Device Actions for smart home control. These moved third-party devices built on the SDK closer to Google's own products.
 
 ## Sources
-- https://www.theverge.com/circuitbreaker/2017/12/20/16802554/google-assistant-sdk-update-new-languages-configuration-settings-actions
+- https://developers.googleblog.com/2017/12/the-google-assistant-sdk-new-languages.html
+- https://androidauthority.com/google-assistant-sdk-updated-824752

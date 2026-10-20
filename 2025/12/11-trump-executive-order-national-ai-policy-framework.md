@@ -4,7 +4,7 @@
 - **Who:** US President Donald Trump; federal agencies
 - **Type:** policy
 
-Executive Order 14365, Ensuring a National Policy Framework for Artificial Intelligence, sought one federal approach to AI rules. It told agencies to challenge certain state AI laws and contemplated withholding federal funds from states whose rules diverged from national policy.
+Trump signed Executive Order 14365, "Ensuring a National Policy Framework for Artificial Intelligence." It directs the Attorney General to create an AI Litigation Task Force to challenge state AI laws that conflict with federal policy. It also makes states with identified "onerous" AI laws ineligible for certain BEAD non-deployment funds.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Executive_Order_14365
+- https://www.presidency.ucsb.edu/documents/executive-order-14365-ensuring-national-policy-framework-for-artificial-intelligence

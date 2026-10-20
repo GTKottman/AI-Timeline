@@ -8,4 +8,4 @@ DeepSeek released DeepSeek-V3, a 671-billion-parameter mixture-of-experts langua
 
 ## Sources
 - https://technode.com/2024/12/27/deepseek-launches-new-ai-model-with-671-billion-parameters-rivaling-gpt-4o/
-- https://www.helicone.ai/blog/deepseek-v3
+- https://huggingface.co/deepseek-ai/DeepSeek-V3

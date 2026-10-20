@@ -8,3 +8,4 @@ OpenAI released GPT-5 as its main ChatGPT model. The reception was poor, and Ope
 
 ## Sources
 - https://www.nbcnews.com/tech/tech-news/openai-releases-chatgpt-5-rcna223265
+- https://www.techrepublic.com/article/news-openai-reinstates-gpt4o/

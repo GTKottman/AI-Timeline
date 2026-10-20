@@ -4,7 +4,7 @@
 - **Who:** OpenAI
 - **Type:** model
 
-OpenAI unveiled Sora, a diffusion transformer that generates up to a minute of high-fidelity video from text. OpenAI framed it as a step toward models that simulate the physical world. It set a new bar for generative video and drew wide attention to video as the next frontier after text and images.
+OpenAI unveiled Sora, a diffusion model that generates up to a minute of high-fidelity video from text. OpenAI framed it as a step toward models that simulate the physical world. It was not yet released to the public and went first to safety testers and some outside creators. It drew wide attention to video as the next frontier after text and images.
 
 ## Sources
-- https://openai.com/index/video-generation-models-as-world-simulators/
+- https://www.axios.com/2024/02/15/openai-text-to-video-sora

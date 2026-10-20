@@ -4,7 +4,7 @@
 - **Who:** Anthropic
 - **Type:** model
 
-Anthropic released Claude Opus 4.5, its largest model at the time, with gains in coding, computer use and multi-step agent tasks. It added an effort parameter that lets developers trade reasoning depth against token use, and Anthropic said it used fewer tokens than prior models on the same problems.
+Anthropic released Claude Opus 4.5, with gains in coding, computer use and multi-step agent tasks. It added an effort parameter in the Claude API that lets developers choose between lower time and cost and higher capability. Anthropic said that at medium effort it matched Sonnet 4.5's best SWE-bench Verified score with 76% fewer output tokens.
 
 ## Sources
-- https://sdtimes.com/ai/anthropic-releases-claude-opus-4-5-with-improvements-to-complex-reasoning/
+- https://www.anthropic.com/news/claude-opus-4-5

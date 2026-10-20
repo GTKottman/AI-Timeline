@@ -4,7 +4,7 @@
 - **Who:** Anthropic
 - **Type:** model
 
-Anthropic released Claude 3 in three sizes: Haiku, Sonnet and Opus. Opus was positioned as the most capable model on many benchmarks at the time and was claimed to beat GPT-4 on several of them. The family set a new competitive baseline for frontier model quality and speed tiers.
+Anthropic released Claude 3 in three sizes: Haiku, Sonnet and Opus. Anthropic said Opus led rival frontier models on most benchmarks, while noting that GPT-4 Turbo scored higher when prompts were optimised. The family set a new competitive baseline for frontier model quality and speed tiers.
 
 ## Sources
 - https://www.anthropic.com/news/claude-3-family

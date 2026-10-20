@@ -4,8 +4,7 @@
 - **Who:** NVIDIA
 - **Type:** model
 
-NVIDIA released Nemotron 3 Nano, a 30B-total-parameter open model aimed at efficient agent workloads, with open weights. It was NVIDIA's push to become a major open-model maker, alongside its chips and tools.
+NVIDIA released Nemotron 3 Nano, a 31.6B-total-parameter model with about 3.2B active parameters per forward pass. NVIDIA released its weights, training recipe and the datasets it has redistribution rights to.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Nemotron
-- https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/
+- https://research.nvidia.com/labs/nemotron/Nemotron-3

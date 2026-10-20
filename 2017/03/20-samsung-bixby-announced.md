@@ -4,9 +4,8 @@
 - **Who:** Samsung Electronics
 - **Type:** product
 
-Samsung announced Bixby, a voice assistant built on its own AI and natural-language stack, to replace S Voice on the Galaxy S8 and S8+. Bixby was launched in Korea on May 1, 2017, and was extended to US English in July. It was one of the first assistants from a major phone maker to compete directly with Siri, Google Assistant and Alexa on mobile.
+Samsung announced Bixby, its voice assistant with its own AI and natural-language technology, alongside the Galaxy S8 and S8+. Bixby replaced S Voice on the phones. Voice control was switched on in South Korea on May 1, 2017, and the US English version followed in July 2017.
 
 ## Sources
-- http://www.androidauthority.com/samsung-galaxy-s8-bixby-digital-assistant-s-voice-748940/
-- https://news.samsung.com/global/bixby-a-new-way-to-interact-with-your-phone
-- https://en.wikipedia.org/wiki/Bixby_(software)
+- https://thenextweb.com/mobile/2017/03/20/samsung-galaxy-s8-assistant-bixby/
+- https://www.thedrum.com/news/2017/05/01/bixby-voice-makes-its-debut-south-korea

@@ -4,8 +4,8 @@
 - **Who:** Apple
 - **Type:** hardware
 
-Apple announced the A11 Bionic chip with a dedicated two-core Neural Engine rated at 600 billion operations per second, used for Face ID. It was the first dedicated neural processor in an Apple phone and brought on-device machine learning to mass-market consumer hardware.
+Apple announced the A11 Bionic chip with a dedicated two-core Neural Engine rated at up to 600 billion operations per second, used mainly for Face ID. It was the first dedicated neural processor in an Apple phone. Third-party apps could not access the Neural Engine at launch.
 
 ## Sources
 - https://www.cnbc.com/2017/09/12/apple-unveils-a11-bionic-neural-engine-ai-chip-in-iphone-x.html
-- https://bigdatawire.com/2017/09/14/apple-puts-neural-engine-inside-iphone
+- https://en.wikipedia.org/wiki/Apple_A11

@@ -4,7 +4,7 @@
 - **Who:** Google
 - **Type:** product
 
-Google rolled out the Gemini Pro model in Bard worldwide, replacing the earlier PaLM-based model. The move gave Google's chatbot a current frontier-tier model for many more languages and countries.
+Google rolled out the Gemini Pro model in Bard worldwide, in more than 40 languages. It gave Google's chatbot a current frontier-tier model for many more countries.
 
 ## Sources
 - https://techcrunch.com/2024/02/01/googles-bard-chatbot-gets-the-gemini-pro-update-globally/

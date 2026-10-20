@@ -4,7 +4,8 @@
 - **Who:** DeepMind (Google)
 - **Type:** paper
 
-DeepMind published in Nature a version of AlphaGo, AlphaGo Zero, that learned Go purely through self-play starting from random play, with no human game records. It beat the earlier AlphaGo version 100-0. The result showed that a single learning method could reach superhuman play without human knowledge, and the approach was extended to chess and shogi.
+DeepMind published in Nature AlphaGo Zero, a version of AlphaGo that learned Go purely through self-play from random play, with no human game records. It beat the earlier AlphaGo version 100 games to 0. DeepMind reported that this result came after three days of training.
 
 ## Sources
-- https://www.npr.org/sections/thetwo-way/2017/10/18/558519707/computer-learns-to-play-go-at-superhuman-levels-without-human-knowledge
+- https://deepmind.google/blog/alphago-zero-starting-from-scratch/
+- https://www.sciencenews.org/article/newest-alphago-mastered-game-no-human-input

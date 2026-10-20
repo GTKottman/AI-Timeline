@@ -1,10 +1,11 @@
 # NeurIPS 2017 conference in Long Beach
 
 - **Date:** 2017-12-04
-- **Who:** NeurIPS (NIPS) organizers
+- **Who:** NIPS (Neural Information Processing Systems) organizers
 - **Type:** other
 
-The Neural Information Processing Systems conference ran in Long Beach, California, in early December 2017 and was one of the largest machine learning venues of the year. Papers presented there included the capsule networks paper and the human preferences paper, and the event showed how fast interest in deep learning was growing.
+The Neural Information Processing Systems conference (NIPS, later renamed NeurIPS) ran in Long Beach, California, from December 4 to 9, 2017. Coverage reported about 8,000 attendees and a sold-out event. Papers presented there included the capsule networks paper and the human preferences paper.
 
 ## Sources
-- https://nips.cc/virtual/2017/poster/9167
+- https://neurips.cc/Conferences/2017
+- https://syncedreview.com/2017/12/08/nips-2017-day-1-2-highlights/

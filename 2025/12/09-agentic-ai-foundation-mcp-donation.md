@@ -4,8 +4,7 @@
 - **Who:** Anthropic; OpenAI; Block; Linux Foundation
 - **Type:** other
 
-Anthropic donated the Model Context Protocol to a new Linux Foundation effort, the Agentic AI Foundation, which OpenAI and Block also joined. The move aimed to make MCP, the standard connecting models to tools and data, a neutral open standard for AI agents.
+Anthropic donated the Model Context Protocol to the Agentic AI Foundation (AAIF), a new directed fund under the Linux Foundation. Anthropic said the fund was co-founded by Anthropic, Block and OpenAI. OpenAI and Block also contributed projects to the foundation.
 
 ## Sources
-- https://techcrunch.com/2025/12/09/openai-anthropic-and-block-join-new-linux-foundation-effort-to-standardize-the-ai-agent-era/
-- https://en.wikipedia.org/wiki/Model_Context_Protocol
+- https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation

@@ -4,7 +4,7 @@
 - **Who:** DeepSeek
 - **Type:** model
 
-DeepSeek released V3.2 under the MIT license, with a reasoning-focused V3.2-Speciale variant. The release pushed open-weight models close to closed frontier systems on reasoning and agentic benchmarks at lower cost.
+DeepSeek released DeepSeek-V3.2 and the reasoning-focused V3.2-Speciale variant. Both are open-weight under the MIT license and have 685B parameters. Speciale was trained exclusively on reasoning data, with a reduced length penalty during RL.
 
 ## Sources
-- https://en.wikipedia.org/wiki/DeepSeek
+- https://simonwillison.net/2025/Dec/1/deepseek-v32/

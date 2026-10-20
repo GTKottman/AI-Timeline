@@ -4,8 +4,7 @@
 - **Who:** Cognition Labs
 - **Type:** product
 
-Cognition Labs launched Devin, an agent that plans and carries out software tasks in its own sandboxed environment, including writing code, debugging and building websites. Its demos drew wide attention and debate over whether autonomous coding agents were real. It set off a wave of agent products aimed at software work.
+Cognition Labs launched Devin, an agent that plans and carries out software tasks in its own sandboxed environment with its own shell, code editor and browser, including writing code, debugging and building websites. It reported solving 13.86% of SWE-bench issues without human help. Its demos drew wide attention and debate over whether autonomous coding agents were real.
 
 ## Sources
 - https://venturebeat.com/ai/cognition-emerges-from-stealth-to-launch-ai-software-engineer-devin/
-- https://www.bloomberg.com/news/articles/2024-03-12/cognition-ai-is-a-peter-thiel-backed-coding-assistant

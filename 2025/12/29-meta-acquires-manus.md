@@ -4,9 +4,7 @@
 - **Who:** Meta; Manus
 - **Type:** acquisition
 
-Meta agreed to buy Manus, the agent startup with Chinese roots, reportedly for more than $2 billion. The deal gave Meta a general-purpose agent product with millions of paying users and drew scrutiny from Chinese regulators over the cross-border transfer.
+Meta announced it would acquire Manus, the AI agent startup with Chinese roots. Meta did not disclose terms; the Wall Street Journal and Reuters estimated the value at $2 billion to $3 billion. Manus must sever ties with Chinese investors and cease operations in China.
 
 ## Sources
-- https://apnews.com/article/meta-manus-purchase-ai-agents-aaf01029923011a403ceeb949cf3db5e
-- https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/
-- https://en.wikipedia.org/wiki/Manus_(AI_agent)
+- https://www.businesstoday.in/amp/technology/news/story/meta-acquires-ai-startup-manus-in-milestone-deal-worth-over-2-billion-508760-2025-12-31

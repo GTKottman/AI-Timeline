@@ -4,7 +4,7 @@
 - **Who:** European Commission
 - **Type:** policy
 
-The European Commission published its Digital Omnibus on AI, which proposed delaying the AI Act's high-risk obligations from August 2026 to December 2027. The move was a notable softening of the EU's first comprehensive AI law, driven by industry and competitiveness concerns.
+The European Commission proposed its Digital Omnibus, which would delay AI Act high-risk obligations. The proposal moves high-risk rules that were due in August 2026 to conditional deadlines, with fixed backstop dates of December 2, 2027 for Annex III systems and August 2, 2028 for Annex I systems. The proposal still needs approval from the Council and Parliament.
 
 ## Sources
-- https://en.wikipedia.org/wiki/2025_in_artificial_intelligence
+- https://www.onetrust.com/blog/eu-digital-omnibus-proposes-delay-of-ai-compliance-deadlines/

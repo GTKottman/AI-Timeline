@@ -4,7 +4,7 @@
 - **Who:** Microsoft; NVIDIA; Anthropic
 - **Type:** funding
 
-Microsoft and NVIDIA agreed to invest up to $15 billion in Anthropic, with Anthropic committing to buy $30 billion of Azure compute and up to a gigawatt of NVIDIA-based capacity. Claude became available on all three major clouds. Coverage flagged the circular nature of these chip-and-cloud deals.
+Microsoft and NVIDIA agreed to invest up to a combined $15 billion in Anthropic. Anthropic committed to purchase $30 billion of Microsoft Azure compute, including one gigawatt of capacity. Claude models were also made available to Microsoft Azure customers.
 
 ## Sources
-- https://axios.com/2025/11/18/anthropic-microsoft-nvidia-15-billion
+- https://news.bloomberglaw.com/tech-and-telecom-law/microsoft-nvidia-to-invest-as-much-as-15-billion-in-anthropic

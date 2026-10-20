@@ -4,7 +4,7 @@
 - **Who:** Google DeepMind
 - **Type:** model
 
-Google DeepMind released Gemini 3 Pro and Gemini 3 Deep Think, which Google called its most capable multimodal model, strong at coding and agent-style tasks. It was deployed across Search AI Mode, the Gemini app, AI Studio and Vertex AI, along with the Antigravity coding environment. The Flash variant followed on December 17.
+Google released Gemini 3 Pro in preview and rolled it out in the Gemini app, AI Mode in Search, the Gemini API in AI Studio, Google Antigravity and Vertex AI. Google said Gemini 3 Deep Think was not yet broadly available and would come to Google AI Ultra subscribers in the following weeks. Gemini 3 Flash followed on December 17.
 
 ## Sources
-- https://en.wikipedia.org/wiki/Gemini_3_(AI)
+- https://blog.google/products/gemini/gemini-3/

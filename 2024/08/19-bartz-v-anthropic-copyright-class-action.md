@@ -4,7 +4,7 @@
 - **Who:** Authors (class); Anthropic
 - **Type:** policy
 
-Several authors filed a class-action copyright suit in California alleging Anthropic trained its Claude models on pirated copies of books. It joined a growing set of lawsuits over whether training on copyrighted works is lawful.
+Authors Andrea Bartz, Charles Graeber and Kirk Wallace Johnson filed a class-action copyright suit in the Northern District of California, alleging Anthropic obtained copies of books from pirate sites to train its Claude models. It joined a growing set of lawsuits over whether training on copyrighted works is lawful.
 
 ## Sources
-- https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/
+- https://www.publishersweekly.com/pw/by-topic/industrynews/publisher-news/article/95768-authors-sue-ai-firm-anthropic-for-copyright-infringement.html

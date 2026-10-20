@@ -1,10 +1,10 @@
-# UNESCO, Meta and Hugging Face launch Indigenous-language translator
+# UNESCO, Meta and Hugging Face launch UNESCO Language Translator
 
 - **Date:** 2024-09-23
 - **Who:** UNESCO; Meta; Hugging Face
 - **Type:** product
 
-A free online translator built on Meta's No Language Left Behind model was launched for the UN International Decade of Indigenous Languages. It was an example of open multilingual AI applied to languages with little digital presence.
+UNESCO launched a free online Language Translator powered by Meta and Hugging Face at a launch event in New York on September 23, 2024. It was an example of open multilingual AI applied to languages with little digital presence.
 
 ## Sources
 - https://huggingface.co/spaces/UNESCO/nllb

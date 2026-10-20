@@ -4,7 +4,7 @@
 - **Who:** DeepSeek
 - **Type:** model
 
-DeepSeek-V2.5 merged its chat and coding strengths into one open model, extending the V2 mixture-of-experts line. It was released with open weights and a permissive model licence.
+DeepSeek-V2.5 merged the general chat abilities of DeepSeek-V2-Chat with the coding abilities of DeepSeek-Coder-V2-Instruct into one open model, extending the V2 mixture-of-experts line. It was released with open weights under a model license that supports commercial use.
 
 ## Sources
-- https://huggingface.co/deepseek-ai/DeepSeek-V2.5/blob/a05fd5f7de7b873944d01cb0270caedd53e07570/LICENSE
+- https://huggingface.co/deepseek-ai/DeepSeek-V2.5

@@ -4,8 +4,7 @@
 - **Who:** Gov. Jared Polis; Sen. Robert Rodriguez
 - **Type:** policy
 
-Colorado's governor signed SB 205, the first US state law to regulate high-risk AI systems with consumer-protection duties in areas such as employment, housing and credit. The governor signed it with a letter voicing concern about industry impact and a February 2026 effective date.
+Colorado's governor signed SB 24-205, which regulates developers and deployers of high-risk AI systems that make or substantially factor into consequential decisions in areas such as employment, housing, lending, insurance and health care. It requires reasonable care against algorithmic discrimination, enforced by the state attorney general. The governor signed it with reservations about the bill and a delayed February 2026 effective date.
 
 ## Sources
-- https://coloradosun.com/2024/05/18/colorado-artificial-intelligence-law-signed/
-- https://legiscan.com/CO/bill/SB205/2024
+- https://www.manatt.com/insights/newsletters/client-alert/colorado-enacts-law-regulating-high-risk-ai-here

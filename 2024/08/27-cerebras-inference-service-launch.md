@@ -4,7 +4,7 @@
 - **Who:** Cerebras Systems
 - **Type:** product
 
-Cerebras launched an inference service on its wafer-scale hardware, claiming it ran Llama-class models 10 to 20 times faster than Nvidia H100-based systems. It made speed of token generation a headline competitive axis for AI hardware.
+Cerebras launched Cerebras Inference on its wafer-scale hardware, claiming 1,800 tokens per second on Llama 3.1 8B and 450 on Llama 3.1 70B, about 20 times faster than GPU-based solutions in hyperscale clouds. Artificial Analysis measured speeds in line with those figures. It made speed of token generation a headline competitive axis for AI hardware.
 
 ## Sources
-- https://www.zdnet.com/article/ai-startup-cerebras-debuts-worlds-fastest-inference-with-a-twist/
+- https://www.businesswire.com/news/home/20240827815278/en/Cerebras-Launches-the-Worlds-Fastest-AI-Inference

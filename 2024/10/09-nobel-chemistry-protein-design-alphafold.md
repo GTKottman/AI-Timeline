@@ -8,4 +8,3 @@ David Baker received half the chemistry prize for computational protein design. 
 
 ## Sources
 - https://www.nobelprize.org/all-nobel-prizes-2024/
-- https://www.nature.com/articles/s42256-024-00945-0

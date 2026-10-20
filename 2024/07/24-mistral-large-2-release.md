@@ -4,7 +4,7 @@
 - **Who:** Mistral AI
 - **Type:** model
 
-Mistral Large 2 is a 123-billion-parameter model with a 128k context window, released with open weights for research. Mistral said it matched leading models on code and multilingual tasks while being cheaper to run than the largest closed systems.
+Mistral Large 2 is a 123-billion-parameter model with a 128k context window. Its weights were released for research under the Mistral Research License, which permits research and non-commercial use, while commercial self-deployment needs a separate license.
 
 ## Sources
-- https://docs.mistral.ai/getting-started/models/models_overview/
+- https://mistral.ai/news/mistral-large-2407/

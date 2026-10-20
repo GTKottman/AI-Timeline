@@ -7,4 +7,4 @@
 Llama 3.2 added vision support to the open Llama line in 11B and 90B sizes, plus lightweight 1B and 3B text models for edge devices. It let developers build image-understanding apps on open weights.
 
 ## Sources
-- https://www.theverge.com/2024/9/25/24253774/meta-ai-vision-model-llama-3-2-announced
+- https://www.maginative.com/article/meta-releases-llama-3-2-lightweight-and-multimodal-models/

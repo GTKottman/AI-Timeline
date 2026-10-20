@@ -4,7 +4,7 @@
 - **Who:** Microsoft
 - **Type:** product
 
-Microsoft postponed the rollout of Windows Recall, an feature that screenshots user activity for later AI search, after security and privacy researchers criticised it. It was an early case of AI features on the PC forcing a rethink of data storage and consent.
+Microsoft postponed the rollout of Windows Recall, a feature that takes snapshots of the screen every five seconds for a searchable log, after security and privacy experts criticised it. Microsoft moved the feature to a Windows Insider preview first. It was an early case of AI features on the PC forcing a rethink of data storage and consent.
 
 ## Sources
-- https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay
+- https://www.helpnetsecurity.com/2024/06/14/windows-recall-rollout-delay/

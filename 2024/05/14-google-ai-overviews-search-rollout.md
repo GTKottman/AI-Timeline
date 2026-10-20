@@ -4,7 +4,7 @@
 - **Who:** Google
 - **Type:** product
 
-Google began showing AI-generated summaries above ordinary search results for US users. It was the largest deployment of generative AI into a mainstream search product so far. It also raised public concern about accuracy and about traffic to publishers.
+Google began showing AI-generated summaries above ordinary search results for US users, announced at Google I/O. It raised public concern about accuracy, with widely reported errors such as a suggestion to add glue to pizza, and about traffic to publishers.
 
 ## Sources
-- https://www.theguardian.com/technology/article/2024/may/14/google-ai-search-results
+- https://www.theglobeandmail.com/canada/article-google-search-ai-summaries-hurt-news-sites-traffic-accuracy

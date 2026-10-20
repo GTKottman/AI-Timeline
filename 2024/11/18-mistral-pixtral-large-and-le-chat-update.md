@@ -4,7 +4,7 @@
 - **Who:** Mistral AI; Black Forest Labs
 - **Type:** model
 
-Pixtral Large is a multimodal model that pairs a vision encoder with Mistral Large 2. Mistral also upgraded its Le Chat assistant with image generation through Black Forest Labs' Flux Pro, moving it closer to a full ChatGPT competitor.
+Pixtral Large is a state-of-the-art multimodal model, significantly more powerful than Pixtral 12B. Mistral also upgraded its Le Chat assistant with image generation through Black Forest Labs' Flux Pro, as a beta feature, moving it closer to a full ChatGPT competitor.
 
 ## Sources
 - https://mistral.ai/news/mistral-chat/

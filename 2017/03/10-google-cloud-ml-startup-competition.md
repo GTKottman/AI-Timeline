@@ -4,9 +4,8 @@
 - **Who:** Google Cloud, with Data Collective (DCVC) and Emergence Capital
 - **Type:** competition
 
-Google Cloud announced a machine learning startup competition on March 10, 2017 for U.S. startups using machine learning software, with applications due April 16, 2017. Teams did not have to use Google Cloud Platform to enter. The VC partners offered up to $500,000 in investment to a winner, and total prizes were reported at over $2 million by Android Headlines and over $3 million by DCVC. TechCrunch later reported 10 finalists presenting in July 2017.
+Google Cloud announced a machine learning startup competition on March 10, 2017 for U.S.-based startups in any sector, with entries due April 16, 2017. Teams did not have to use Google Cloud Platform to enter. Google's post offered up to $1M in Google Cloud Platform credits and the potential for up to $1M of equity investment from partners Data Collective and Emergence Capital. TechCrunch later reported that 10 startups presented at the July 2017 finale.
 
 ## Sources
 - https://blog.google/products/google-cloud/google-cloud-announces-machine-learning-competition-startups
-- https://www.androidheadlines.com/2017/03/google-is-having-a-machine-learning-competition-for-startups.html
 - https://techcrunch.com/2017/07/13/here-are-the-winners-of-the-google-cloud-machine-learning-pitch-off/

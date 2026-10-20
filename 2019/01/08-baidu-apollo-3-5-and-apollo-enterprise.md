@@ -4,9 +4,8 @@
 - **Who:** Baidu
 - **Type:** software
 
-Baidu announced Apollo 3.5, an open-source autonomous driving platform aimed at urban and suburban roads, and a separate Apollo Enterprise platform for mass-produced vehicles at CES 2019. Reported new capabilities included unprotected turns, speed bumps, narrow lanes and automatic parking. Baidu said Apollo had more than 130 partners and about 12,000 developers had pulled its code from GitHub, making it one of the largest open autonomous driving efforts.
+Baidu announced Apollo 3.5 and a separate Apollo Enterprise platform for mass-produced vehicles at CES 2019. Apollo 3.5 introduced driving capabilities such as unprotected turns, speed bumps, clear zones, side passes, narrow lanes and parking. Baidu said Apollo had over 130 global partners and that 12,000 developers had downloaded its code from GitHub.
 
 ## Sources
-- https://techcrunch.com/2019/01/08/baidu-announces-apollo-enterprise-its-new-platform-for-mass-produced-autonomous-vehicles/
 - https://venturebeat.com/business/baidu-announces-apollo-3-5-and-apollo-enterprise-says-it-has-over-130-partners
-- https://autonews.gasgoo.com/articles/ICV/baidu-unwraps-apollo-35-apollo-enterprise-at-ces-2019-70015552
+- https://techcrunch.com/2019/01/08/baidu-announces-apollo-enterprise-its-new-platform-for-mass-produced-autonomous-vehicles/

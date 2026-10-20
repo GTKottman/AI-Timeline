@@ -4,7 +4,7 @@
 - **Who:** Google (Accessibility, Sound Understanding and YouTube teams); post by Sourish Chaudhuri
 - **Type:** product
 
-Google Research announced automatic sound-effect captions for YouTube, starting with [APPLAUSE], [MUSIC] and [LAUGHTER]. The system is a deep neural network, and the team built a training set from weakly labelled data because labelled sound data was scarce. YouTube's automatic captions had covered only speech since 2009; before this, captions covered only speech.
+Google Research announced automatic sound-effect captions for YouTube, starting with [APPLAUSE], [MUSIC] and [LAUGHTER]. The system is a deep neural network, and the team built a training set from weakly labelled data because labelled sound data was scarce. YouTube had provided automatic caption tracks since 2009, focused heavily on speech, so ambient sounds were not captioned.
 
 ## Sources
 - https://research.google/blog/adding-sound-effect-information-to-youtube-captions/

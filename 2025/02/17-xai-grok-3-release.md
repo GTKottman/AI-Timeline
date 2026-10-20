@@ -4,7 +4,7 @@
 - **Who:** xAI
 - **Type:** model
 
-xAI released the Grok 3 model family and DeepSearch, a research agent that searches the web and X to answer questions.
+xAI released the Grok 3 model family and DeepSearch, a research agent that searches the web to answer questions.
 
 ## Sources
 - https://x.ai/news/grok-3

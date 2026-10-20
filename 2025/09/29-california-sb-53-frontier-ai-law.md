@@ -7,4 +7,4 @@
 California Governor Gavin Newsom signed SB 53, the first US state law aimed at catastrophic risk from frontier AI.
 
 ## Sources
-- https://fpf.org/blog/californias-sb-53-the-first-frontier-ai-law-explained/
+- https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53/

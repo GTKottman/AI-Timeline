@@ -4,8 +4,8 @@
 - **Who:** Haggai Maron, Or Litany, Gal Chechik (NVIDIA), Ethan Fetaya
 - **Type:** competition
 
-"On Learning Sets of Symmetric Elements" was one of the two Outstanding Paper awards at ICML 2020, which accepted 1,088 papers out of 4,990 submissions. The work gives a framework for neural networks that take sets as input and respect permutation symmetry, a building block for point clouds and graph-like data. The conference also gave a Test of Time award to Srinivas et al. for Gaussian Process optimization in the bandit setting. Sources differ on the exact presentation day, and the second outstanding paper is not confirmed here.
+"On Learning Sets of Symmetric Elements" was one of the ICML 2020 Outstanding Paper awards (ICML gave two). It gives a principled approach to learning over sets of general symmetric elements, with applications such as deblurring image bursts and multi-view 3D shape recognition.
 
 ## Sources
-- https://syncedreview.com/tag/icml-2020/
-- https://www.calcalistech.com/articles/0,7340,L-3840438,00.html
+- https://developer.nvidia.com/blog/nvidia-researchers-and-collaborators-receive-outstanding-paper-award-at-icml-2020
+- https://syncedreview.com/2020/07/13/icml-2020-announces-outstanding-paper-awards/

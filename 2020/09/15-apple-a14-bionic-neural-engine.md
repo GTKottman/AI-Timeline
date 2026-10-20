@@ -4,8 +4,8 @@
 - **Who:** Apple
 - **Type:** hardware
 
-Apple unveiled the A14 Bionic at its September 2020 online event, first in the iPad Air, with the iPhone 12 line following in October. The chip has a 16-core Neural Engine rated at 11 trillion operations per second, about 80% more than the A13, and is built on TSMC's 5nm process. It put a large on-device machine learning accelerator into consumer phones and tablets at scale.
+Apple unveiled the A14 Bionic at its September 2020 event, debuting it in the new iPad Air. Its 16-core Neural Engine is rated at up to 11 trillion operations per second, and the chip is built on a 5nm process. Apple said the Neural Engine is twice as fast as before; those performance figures are Apple's own claims.
 
 ## Sources
-- https://bit-tech.net/news/apple-uses-the-new-ipad-air-to-introduce-the-a14-bionic-processor/1
+- https://www.apple.com/newsroom/2020/09/apple-unveils-all-new-ipad-air-with-a14-bionic-apples-most-advanced-chip/
 - https://en.wikichip.org/wiki/apple/ax/a14

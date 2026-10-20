@@ -4,7 +4,7 @@
 - **Who:** Microsoft (Azure Machine Learning)
 - **Type:** product
 
-At Microsoft Build 2019 in Seattle, Microsoft announced MLOps capabilities for the Azure Machine Learning service, bringing DevOps practices such as pipelines, release triggers and CLI automation to model development. The release added model registration that triggers Azure Pipelines releases, plus validation and profiling that tests packaged models on different CPU and memory settings. Analysts called it the most significant AI announcement of the event, since it targets the production side of machine learning.
+At Microsoft Build 2019 in Seattle, Microsoft announced MLOps capabilities for the Azure Machine Learning service, bringing DevOps practices such as pipelines, release triggers and CLI automation to model development. The release added model registration that triggers Azure Pipelines releases, plus validation and profiling that tests packaged models on different CPU and memory settings.
 
 ## Sources
 - https://azure.microsoft.com/en-us/blog/take-your-machine-learning-models-to-production-with-new-mlops-capabilities/

@@ -4,7 +4,7 @@
 - **Who:** PyTorch (Meta AI open-source community)
 - **Type:** software
 
-PyTorch 1.10 shipped with integrated CUDA Graphs APIs to cut CPU overhead for CPU-bound GPU workloads. FX, torch.special and nn.Module parametrization moved from beta to stable, and JIT fusion gained CPU support alongside GPU. The release built on more than 3,400 commits from 426 contributors.
+PyTorch 1.10 shipped with integrated CUDA Graphs APIs to cut CPU overhead for CPU-bound GPU workloads. FX, torch.special and nn.Module parametrization moved from beta to stable. The release built on more than 3,400 commits from 426 contributors.
 
 ## Sources
 - https://pytorch.org/blog/pytorch-1-10-released/

@@ -4,8 +4,8 @@
 - **Who:** Google Research (Du et al.)
 - **Type:** model
 
-Google introduced GLaM (arXiv 2112.06905), a sparse mixture-of-experts language model with up to 1.2 trillion total parameters, about seven times GPT-3's size. Each token is routed to two of 64 experts per layer, so roughly 8% of the weights run per token, and the paper reported about a third of GPT-3's training energy. GLaM beat GPT-3 on zero-, one- and few-shot results across 29 NLP benchmarks. It showed that sparse scaling could cut cost for very large models. The exact December day was not confirmed; the paper was posted in December 2021.
+Google published GLaM (arXiv 2112.06905, December 2021), a sparse mixture-of-experts language model with up to 1.2 trillion total parameters, about seven times the size of GPT-3. Each MoE layer has 64 experts, and only a fraction of the weights (about 8%) run for each token. The paper reports about one third of GPT-3's training energy and better zero-, one- and few-shot results than GPT-3 across 29 NLP tasks.
 
 ## Sources
 - https://arxiv.org/pdf/2112.06905
-- https://analyticsindiamag.com/google-releases-new-language-model-that-kicks-gpt-3s-butt
+- https://proceedings.mlr.press/v162/du22c.html

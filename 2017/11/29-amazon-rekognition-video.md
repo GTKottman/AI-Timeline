@@ -8,3 +8,4 @@ At re:Invent 2017, AWS launched Rekognition Video, an extension of its image-rec
 
 ## Sources
 - https://www.cnbc.com/2017/11/29/aws-launches-translation-transcription-video-intelligence-tools.html
+- https://aws.amazon.com/ko/about-aws/whats-new/2017/11/introducing-amazon-rekognition-video/

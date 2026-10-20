@@ -4,8 +4,8 @@
 - **Who:** Nvidia
 - **Type:** hardware
 
-At its April 2021 GTC event Nvidia revealed Grace, its first data center CPU, built on Arm cores and aimed at large AI training and HPC workloads. It uses a fast NVLink chip-to-chip link and LPDDR5x memory. Nvidia said Grace would serve a niche at first, with HPE Cray supercomputers as the first announced system and Los Alamos and CSCS among interested customers.
+At its April 2021 GTC event Nvidia revealed Grace, its first data center CPU, built on Arm cores and aimed at large AI training and HPC workloads. Nvidia said Grace would arrive in 2023 and framed it as a niche, specialised chip at first. Swiss CSCS (the Alps system, built with HPE Cray EX) and Los Alamos were named as early users.
 
 ## Sources
-- https://channelfutures.com/data-centers/nvidia-reveals-first-data-center-cpu-with-project-grace
-- https://www.techzine.eu/news/infrastructure/58334/nvidia-announces-its-first-server-processor-excels-in-ai-workloads/
+- https://www.hpcwire.com/2021/04/12/nvidia-serves-up-its-first-arm-datacenter-cpu-grace-during-kitchen-keynote/
+- https://www.sdxcentral.com/news/nvidias-grace-cpu-targets-ai-bottlenecks/

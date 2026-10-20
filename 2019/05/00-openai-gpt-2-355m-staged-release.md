@@ -4,7 +4,7 @@
 - **Who:** OpenAI
 - **Type:** model
 
-As part of its staged release of GPT-2, OpenAI released the 355-million-parameter medium model in May 2019, along with a dataset of generated outputs from its released models. The step followed the February release of the small 124M model and came before the 774M model in August. OpenAI tied the staging to risk analysis, saying smaller releases let it study misuse before releasing larger models. The exact day in May was not confirmed by the sources.
+As part of its staged release of GPT-2, OpenAI released the 355-million-parameter medium model in May 2019. The step followed the February release of the small 124M model and came before the 774M model in August. OpenAI tied the staging to risk analysis, saying smaller releases let it study misuse before releasing larger models. The exact day in May was not confirmed by the sources.
 
 ## Sources
 - https://openai.com/index/gpt-2-6-month-follow-up/

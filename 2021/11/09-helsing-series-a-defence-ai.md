@@ -1,10 +1,11 @@
 # Helsing raises Series A for AI defence software
 
 - **Date:** 2021-11-09
-- **Who:** Helsing (founded in Munich by Torsten Reil, Gundbert Scherf, Niklas Köhler); Prima Materia (lead, Daniel Ek's investment vehicle)
+- **Who:** Helsing (Munich); Prima Materia (lead, Daniel Ek's investment vehicle)
 - **Type:** funding
 
-Munich defence-AI startup Helsing announced a Series A led by Prima Materia, the investment vehicle of Spotify founder Daniel Ek. Sources differ on the size, reporting roughly €100M to €102.5M. Helsing sells AI software to run on hardware customers already own, not weapons, and it later raised a €209M Series B in 2023.
+Munich defence-AI startup Helsing raised a Series A of about EUR 102.5M, of which EUR 100M came from Prima Materia, the investment vehicle of Spotify founder Daniel Ek. The Financial Times put the valuation at just over EUR 400M, and Ek joined the board. The 9 November 2021 date comes from one deal database (CB Insights) and has not been confirmed by a primary announcement.
 
 ## Sources
-- https://seedtable.com/companies/helsing/funding-rounds/series-a-2021-11
+- https://sifted.eu/articles/daniel-ek-investment-defense
+- https://www.ypog.law/en/press/ypog-advised-ai-company-helsing-on-100-million-series-a-financing-round

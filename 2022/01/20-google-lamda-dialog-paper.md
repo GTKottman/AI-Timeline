@@ -1,10 +1,10 @@
 # Google LaMDA: Language Models for Dialog Applications paper
 
 - **Date:** 2022-01-20
-- **Who:** Google (Romal Thoppilan and 59 co-authors)
+- **Who:** Google (Romal Thoppilan et al.)
 - **Type:** paper
 
-Google posted the LaMDA paper to arXiv, describing a family of dialog-focused Transformer models up to 137B parameters trained on 1.56T words of public dialog and web text. The authors showed that scaling improves conversational quality but helps less with safety and factual grounding, and that fine-tuning plus consulting external knowledge sources closed much of that gap. The paper set out the sensibleness, specificity, safety and groundedness metrics that later chatbot work reused.
+Google posted the LaMDA paper to arXiv on January 20, 2022 (arXiv 2201.08239). It describes dialog-focused Transformer models up to 137B parameters, trained on 1.56T words of public dialog and web documents. The authors found that scaling improves quality but helps less with safety and factual grounding, and that fine-tuning with annotated data plus access to external knowledge sources improves both.
 
 ## Sources
 - https://arxiv.org/abs/2201.08239

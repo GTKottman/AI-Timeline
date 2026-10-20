@@ -4,7 +4,7 @@
 - **Who:** Facebook AI Research (Xinlei Chen, Saining Xie, Kaiming He)
 - **Type:** paper
 
-Facebook AI Research posted this paper on 5 April 2021, presenting MoCo v3, a contrastive self-supervised method that trains Vision Transformers without labels. It is an incremental step over MoCo v1 and v2 that aims for simplicity, accuracy and scalability. The authors found that training instability often hides behind apparently good results and proposed a fixed random patch projection trick to reduce it. Code and a PyTorch re-implementation were released, and the paper was published at ICCV 2021.
+Facebook AI Research posted this paper on 5 April 2021 (arXiv 2104.02057). It studies how to train self-supervised Vision Transformers with a contrastive, MoCo-style framework (MoCo v3), and it presents itself as a baseline study rather than a new method. The authors found that training instability can hide behind results that look good.
 
 ## Sources
 - https://arxiv.org/pdf/2104.02057

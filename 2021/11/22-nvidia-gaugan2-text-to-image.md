@@ -4,8 +4,8 @@
 - **Who:** NVIDIA Research
 - **Type:** model
 
-NVIDIA Research released GauGAN2, a GAN-based system that turns short text phrases such as "sunset at a beach" into photorealistic landscapes. It combines text, semantic segmentation, sketch and style inputs in one model and updates the picture as the user edits words. It was offered as a public web demo. Testers found the output less smooth than the launch footage, but it was an early example of text-driven image generation before diffusion models took over the field.
+NVIDIA Research announced GauGAN2 on November 22, 2021, a GAN-based system that turns short text phrases such as "sunset at a beach" into landscape images. It combines text, semantic segmentation, sketch and style inputs in one model, and the picture updates as the user changes words. It was offered as a public demo on NVIDIA AI Demos. NVIDIA says it was trained on about 10 million landscape images.
 
 ## Sources
 - https://blogs.nvidia.com/blog/2021/11/22/gaugan2-ai-art/
-- https://petapixel.com/2021/11/22/nvidias-ai-creates-realistic-photos-based-only-on-text-descriptions
+- https://iotworldtoday.com/iiot/nvidia-launches-latest-gaugan-ai-landscape-generation-model

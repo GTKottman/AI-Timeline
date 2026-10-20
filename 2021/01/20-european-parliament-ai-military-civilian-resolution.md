@@ -4,7 +4,8 @@
 - **Who:** European Parliament (MEPs)
 - **Type:** policy
 
-On January 20, 2021, the European Parliament adopted a resolution (reference TA-9-2021-0009) on artificial intelligence, outlining definitions and ethical principles for AI in both military and civilian sectors. MEPs said AI must stay subject to human control, that humans must be able to correct or disable a system that behaves unexpectedly, and that AI must not undermine the law. The resolution also called for creators to label realistic synthetic video as not original, and for more research into countering deepfakes. It was treated as input to the Commission's AI White Paper and its planned AI legislative proposal.
+On 20 January 2021 the European Parliament adopted resolution TA-9-2021-0009 on how international law applies to the EU in civil and military uses of artificial intelligence, and to state authority outside criminal justice. The vote was 364 to 274, with 52 abstentions. MEPs asked for a common EU legal framework with harmonised definitions and shared ethical principles, including for military AI, and said defence AI should be accountable, fair, traceable, reliable and governable. A commentary on the resolution says humans must be able to correct or switch off AI used in state-run areas such as justice. Gilles Lebreton (ID, France) drafted the report for the JURI committee.
 
 ## Sources
+- https://oeil.europarl.europa.eu/oeil/en/procedure-document-summary/pdf?id=1647869
 - https://eucrim.eu/news/ep-input-on-ai/

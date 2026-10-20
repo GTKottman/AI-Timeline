@@ -1,12 +1,11 @@
 # CVPR 2020 Best Student Paper: BSP-Net
 
 - **Date:** 2020-06-16
-- **Who:** CVPR 2020 organizers; Simon Fraser University researchers (BSP-Net authors)
+- **Who:** Zhiqin Chen, Hao (Richard) Zhang and Andrea Tagliasacchi (Simon Fraser University; Tagliasacchi at Google at the time)
 - **Type:** competition
 
-CVPR 2020 gave out three best paper awards from 6,424 submissions, held virtually. BSP-Net ("Generating Compact Meshes via Binary Space Partitioning") won the Best Student Paper award. The method produces compact 3D meshes from a learned binary space partition, a different route from voxel or point-cloud 3D generation. Its win sat beside the better-known CVPR 2020 best paper on unsupervised 3D deformable objects.
+BSP-Net ("BSP-Net: Generating Compact Meshes via Binary Space Partitioning") won the CVPR 2020 Best Student Paper award. The network uses binary space partitioning to represent a 3D shape as a union of convex pieces, which can be turned into compact, low-poly meshes. Simon Fraser University's June 2020 news item says the award was one of three best paper awards given out of 6,424 submissions.
 
 ## Sources
 - https://www.sfu.ca/fas/computing/news-events/news/2020/june/visual-computing-researchers-receive-multiple-awards-at-cvpr.html
-- https://syncedreview.com/2020/06/16/cvpr-2020-underway-best-papers-announced/
-</content>
+- https://arxiv.org/abs/1911.06971

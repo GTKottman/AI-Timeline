@@ -8,4 +8,3 @@ The Swin Transformer paper, "Hierarchical Vision Transformer Using Shifted Windo
 
 ## Sources
 - https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf
-- https://recodechinaai.substack.com/p/iccv-2021-best-paper-first-delivery

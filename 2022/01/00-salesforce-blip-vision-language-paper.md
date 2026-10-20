@@ -4,7 +4,7 @@
 - **Who:** Salesforce Research (Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi)
 - **Type:** paper
 
-Salesforce posted BLIP, a vision-language model that bootstraps its own training data: a captioner writes synthetic captions for web image-text pairs and a filter removes noisy ones. The authors reported gains over prior methods on image-text retrieval, captioning and VQA, and released code, models and datasets. BLIP became a widely used base for later captioning and multimodal models. The arXiv day was not confirmed; the ID places it in late January 2022.
+Salesforce posted BLIP (arXiv 2201.12086, January 2022; exact day not confirmed). It bootstraps its own training data: a captioner writes synthetic captions for web image-text pairs and a filter removes noisy ones. The authors report gains on image-text retrieval, image captioning and VQA, and they released code, models and datasets. BLIP became a widely used base for later captioning and multimodal models.
 
 ## Sources
 - https://arxiv.org/pdf/2201.12086

@@ -4,7 +4,8 @@
 - **Who:** Hugging Face
 - **Type:** software
 
-Transformers v3.0.0 introduced a new tokenizer API that gives the Python (slow) and Rust (fast) tokenizers a consistent interface, along with TensorFlow improvements and expanded documentation. It moved control of attention outputs, hidden states and caching from the config into the forward call, and revamped the Auto model classes. The release shaped how most NLP practitioners load and run pre-trained transformers, and it was followed by v3.1.0, which added PEGASUS, DPR and mBART.
+Transformers v3.0.0 introduced a new tokenizer API that aligns the Python (slow) and Rust (fast) tokenizers, with finer control over truncation and padding and a new TensorType enum for tensor backends. It also made breaking changes, such as removing prepare_for_model; the v3.0.1 patch restored that method and went back to first_only truncation. The release is dated June 29, 2020 on its Zenodo archive.
 
 ## Sources
 - https://zenodo.org/record/3922213
+- https://discuss.huggingface.co/t/transformers-v3-0-0-is-out/39

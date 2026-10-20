@@ -4,7 +4,7 @@
 - **Who:** Tesla; Nvidia (rebuttal)
 - **Type:** hardware
 
-At Autonomy Day Tesla presented its custom FSD chip, which it said was built on Samsung's process and has two neural network accelerators per chip for 144 TOPS per board. Musk called it the best chip in the world. Nvidia publicly disputed several of Tesla's performance comparisons. The event made in-house AI silicon for driving a headline issue for the industry.
+At Autonomy Day Tesla presented its custom FSD chip, which it said was built on Samsung's process and has twin neural network arrays, with two chips per board for 144 TOPS. Musk called it the best chip in the world. Nvidia publicly disputed several of Tesla's performance comparisons. The event made in-house AI silicon for driving a headline issue for the industry.
 
 ## Sources
 - https://en.wikichip.org/wiki/FSD_Chip

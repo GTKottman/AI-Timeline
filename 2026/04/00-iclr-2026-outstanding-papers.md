@@ -1,4 +1,4 @@
-# ICLR 2026 Outstanding Paper Awards (Rio de Janeiro)
+# ICLR 2026 Outstanding Paper Awards
 
 - **Date:** 2026-04-00
 - **Who:** ICLR 2026 (International Conference on Learning Representations); Anthony W. Lin (MPI-SWS)
